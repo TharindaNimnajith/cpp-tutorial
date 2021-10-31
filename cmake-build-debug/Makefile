@@ -118,29 +118,29 @@ cpp_tutorial\fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\build
 .PHONY : cpp_tutorial\fast
 
-getting-started\io.obj: getting-started\io.cpp.obj
-.PHONY : getting-started\io.obj
+getting-started\ex1.obj: getting-started\ex1.cpp.obj
+.PHONY : getting-started\ex1.obj
 
 # target to build an object file
-getting-started\io.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\getting-started\io.cpp.obj
-.PHONY : getting-started\io.cpp.obj
+getting-started\ex1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\getting-started\ex1.cpp.obj
+.PHONY : getting-started\ex1.cpp.obj
 
-getting-started\io.i: getting-started\io.cpp.i
-.PHONY : getting-started\io.i
+getting-started\ex1.i: getting-started\ex1.cpp.i
+.PHONY : getting-started\ex1.i
 
 # target to preprocess a source file
-getting-started\io.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\getting-started\io.cpp.i
-.PHONY : getting-started\io.cpp.i
+getting-started\ex1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\getting-started\ex1.cpp.i
+.PHONY : getting-started\ex1.cpp.i
 
-getting-started\io.s: getting-started\io.cpp.s
-.PHONY : getting-started\io.s
+getting-started\ex1.s: getting-started\ex1.cpp.s
+.PHONY : getting-started\ex1.s
 
 # target to generate assembly for a file
-getting-started\io.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\getting-started\io.cpp.s
-.PHONY : getting-started\io.cpp.s
+getting-started\ex1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\getting-started\ex1.cpp.s
+.PHONY : getting-started\ex1.cpp.s
 
 getting-started\main.obj: getting-started\main.cpp.obj
 .PHONY : getting-started\main.obj
@@ -175,9 +175,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... cpp_tutorial
-	@echo ... getting-started/io.obj
-	@echo ... getting-started/io.i
-	@echo ... getting-started/io.s
+	@echo ... getting-started/ex1.obj
+	@echo ... getting-started/ex1.i
+	@echo ... getting-started/ex1.s
 	@echo ... getting-started/main.obj
 	@echo ... getting-started/main.i
 	@echo ... getting-started/main.s

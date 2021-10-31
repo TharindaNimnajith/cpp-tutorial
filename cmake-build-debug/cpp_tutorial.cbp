@@ -84,7 +84,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/cpp-tutorial/getting-started/io.cpp">
+		<Unit filename="D:/cpp-tutorial/getting-started/ex1.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
 		<Unit filename="D:/cpp-tutorial/getting-started/main.cpp">

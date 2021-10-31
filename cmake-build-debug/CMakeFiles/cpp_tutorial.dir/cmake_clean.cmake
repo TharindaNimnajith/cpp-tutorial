@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/cpp_tutorial.dir/getting-started/io.cpp.obj"
+  "CMakeFiles/cpp_tutorial.dir/getting-started/ex1.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/getting-started/main.cpp.obj"
   "cpp_tutorial.exe"
   "cpp_tutorial.exe.manifest"
