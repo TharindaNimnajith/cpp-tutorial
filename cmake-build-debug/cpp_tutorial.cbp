@@ -90,9 +90,6 @@
 		<Unit filename="D:/cpp-tutorial/getting-started/main.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="D:/cpp-tutorial/getting-started/test.cpp">
-			<Option target="cpp_tutorial"/>
-		</Unit>
 		<Unit filename="D:/cpp-tutorial/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

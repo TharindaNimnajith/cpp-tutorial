@@ -166,30 +166,6 @@ getting-started\main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\getting-started\main.cpp.s
 .PHONY : getting-started\main.cpp.s
 
-getting-started\test.obj: getting-started\test.cpp.obj
-.PHONY : getting-started\test.obj
-
-# target to build an object file
-getting-started\test.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\getting-started\test.cpp.obj
-.PHONY : getting-started\test.cpp.obj
-
-getting-started\test.i: getting-started\test.cpp.i
-.PHONY : getting-started\test.i
-
-# target to preprocess a source file
-getting-started\test.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\getting-started\test.cpp.i
-.PHONY : getting-started\test.cpp.i
-
-getting-started\test.s: getting-started\test.cpp.s
-.PHONY : getting-started\test.s
-
-# target to generate assembly for a file
-getting-started\test.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\getting-started\test.cpp.s
-.PHONY : getting-started\test.cpp.s
-
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -205,9 +181,6 @@ help:
 	@echo ... getting-started/main.obj
 	@echo ... getting-started/main.i
 	@echo ... getting-started/main.s
-	@echo ... getting-started/test.obj
-	@echo ... getting-started/test.i
-	@echo ... getting-started/test.s
 .PHONY : help
 
 
