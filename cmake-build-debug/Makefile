@@ -166,30 +166,6 @@ clion-test\Student.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\clion-test\Student.cpp.s
 .PHONY : clion-test\Student.cpp.s
 
-getting-started\ex1.obj: getting-started\ex1.cpp.obj
-.PHONY : getting-started\ex1.obj
-
-# target to build an object file
-getting-started\ex1.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\getting-started\ex1.cpp.obj
-.PHONY : getting-started\ex1.cpp.obj
-
-getting-started\ex1.i: getting-started\ex1.cpp.i
-.PHONY : getting-started\ex1.i
-
-# target to preprocess a source file
-getting-started\ex1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\getting-started\ex1.cpp.i
-.PHONY : getting-started\ex1.cpp.i
-
-getting-started\ex1.s: getting-started\ex1.cpp.s
-.PHONY : getting-started\ex1.s
-
-# target to generate assembly for a file
-getting-started\ex1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\getting-started\ex1.cpp.s
-.PHONY : getting-started\ex1.cpp.s
-
 getting-started\linker-error.obj: getting-started\linker-error.cpp.obj
 .PHONY : getting-started\linker-error.obj
 
@@ -214,6 +190,54 @@ getting-started\linker-error.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\getting-started\linker-error.cpp.s
 .PHONY : getting-started\linker-error.cpp.s
 
+getting-started\main.obj: getting-started\main.cpp.obj
+.PHONY : getting-started\main.obj
+
+# target to build an object file
+getting-started\main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\getting-started\main.cpp.obj
+.PHONY : getting-started\main.cpp.obj
+
+getting-started\main.i: getting-started\main.cpp.i
+.PHONY : getting-started\main.i
+
+# target to preprocess a source file
+getting-started\main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\getting-started\main.cpp.i
+.PHONY : getting-started\main.cpp.i
+
+getting-started\main.s: getting-started\main.cpp.s
+.PHONY : getting-started\main.s
+
+# target to generate assembly for a file
+getting-started\main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\getting-started\main.cpp.s
+.PHONY : getting-started\main.cpp.s
+
+sololearn\main.obj: sololearn\main.cpp.obj
+.PHONY : sololearn\main.obj
+
+# target to build an object file
+sololearn\main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\sololearn\main.cpp.obj
+.PHONY : sololearn\main.cpp.obj
+
+sololearn\main.i: sololearn\main.cpp.i
+.PHONY : sololearn\main.i
+
+# target to preprocess a source file
+sololearn\main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\sololearn\main.cpp.i
+.PHONY : sololearn\main.cpp.i
+
+sololearn\main.s: sololearn\main.cpp.s
+.PHONY : sololearn\main.s
+
+# target to generate assembly for a file
+sololearn\main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\sololearn\main.cpp.s
+.PHONY : sololearn\main.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -229,12 +253,15 @@ help:
 	@echo ... clion-test/Student.obj
 	@echo ... clion-test/Student.i
 	@echo ... clion-test/Student.s
-	@echo ... getting-started/ex1.obj
-	@echo ... getting-started/ex1.i
-	@echo ... getting-started/ex1.s
 	@echo ... getting-started/linker-error.obj
 	@echo ... getting-started/linker-error.i
 	@echo ... getting-started/linker-error.s
+	@echo ... getting-started/main.obj
+	@echo ... getting-started/main.i
+	@echo ... getting-started/main.s
+	@echo ... sololearn/main.obj
+	@echo ... sololearn/main.i
+	@echo ... sololearn/main.s
 .PHONY : help
 
 

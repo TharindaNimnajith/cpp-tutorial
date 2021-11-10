@@ -96,10 +96,13 @@
 		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/clion-test/Student.h">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/getting-started/ex1.cpp">
+		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/getting-started/linker-error.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/getting-started/linker-error.cpp">
+		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/getting-started/main.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/sololearn/main.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
 		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/CMakeLists.txt">

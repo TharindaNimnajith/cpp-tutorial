@@ -7,7 +7,9 @@ CMakeFiles\cpp_tutorial.dir\clion-test\Employee.cpp.obj: ..\clion-test\Employee.
 CMakeFiles\cpp_tutorial.dir\clion-test\Student.cpp.obj: ..\clion-test\Student.cpp
 CMakeFiles\cpp_tutorial.dir\clion-test\Student.cpp.obj: ..\clion-test\Student.h
 
-CMakeFiles\cpp_tutorial.dir\getting-started\ex1.cpp.obj: ..\getting-started\ex1.cpp
-
 CMakeFiles\cpp_tutorial.dir\getting-started\linker-error.cpp.obj: ..\getting-started\linker-error.cpp
+
+CMakeFiles\cpp_tutorial.dir\getting-started\main.cpp.obj: ..\getting-started\main.cpp
+
+CMakeFiles\cpp_tutorial.dir\sololearn\main.cpp.obj: ..\sololearn\main.cpp
 
