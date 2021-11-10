@@ -166,6 +166,54 @@ getting-started\main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\getting-started\main.cpp.s
 .PHONY : getting-started\main.cpp.s
 
+sololearn\Employee.obj: sololearn\Employee.cpp.obj
+.PHONY : sololearn\Employee.obj
+
+# target to build an object file
+sololearn\Employee.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\sololearn\Employee.cpp.obj
+.PHONY : sololearn\Employee.cpp.obj
+
+sololearn\Employee.i: sololearn\Employee.cpp.i
+.PHONY : sololearn\Employee.i
+
+# target to preprocess a source file
+sololearn\Employee.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\sololearn\Employee.cpp.i
+.PHONY : sololearn\Employee.cpp.i
+
+sololearn\Employee.s: sololearn\Employee.cpp.s
+.PHONY : sololearn\Employee.s
+
+# target to generate assembly for a file
+sololearn\Employee.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\sololearn\Employee.cpp.s
+.PHONY : sololearn\Employee.cpp.s
+
+sololearn\Student.obj: sololearn\Student.cpp.obj
+.PHONY : sololearn\Student.obj
+
+# target to build an object file
+sololearn\Student.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\sololearn\Student.cpp.obj
+.PHONY : sololearn\Student.cpp.obj
+
+sololearn\Student.i: sololearn\Student.cpp.i
+.PHONY : sololearn\Student.i
+
+# target to preprocess a source file
+sololearn\Student.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\sololearn\Student.cpp.i
+.PHONY : sololearn\Student.cpp.i
+
+sololearn\Student.s: sololearn\Student.cpp.s
+.PHONY : sololearn\Student.s
+
+# target to generate assembly for a file
+sololearn\Student.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\sololearn\Student.cpp.s
+.PHONY : sololearn\Student.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -181,6 +229,12 @@ help:
 	@echo ... getting-started/main.obj
 	@echo ... getting-started/main.i
 	@echo ... getting-started/main.s
+	@echo ... sololearn/Employee.obj
+	@echo ... sololearn/Employee.i
+	@echo ... sololearn/Employee.s
+	@echo ... sololearn/Student.obj
+	@echo ... sololearn/Student.i
+	@echo ... sololearn/Student.s
 .PHONY : help
 
 

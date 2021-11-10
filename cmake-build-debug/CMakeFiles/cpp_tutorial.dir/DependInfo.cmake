@@ -10,6 +10,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "G:/SLIIT Y3 & Y4/cpp-tutorial/getting-started/ex1.cpp" "G:/SLIIT Y3 & Y4/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/getting-started/ex1.cpp.obj"
   "G:/SLIIT Y3 & Y4/cpp-tutorial/getting-started/main.cpp" "G:/SLIIT Y3 & Y4/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/getting-started/main.cpp.obj"
+  "G:/SLIIT Y3 & Y4/cpp-tutorial/sololearn/Employee.cpp" "G:/SLIIT Y3 & Y4/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/sololearn/Employee.cpp.obj"
+  "G:/SLIIT Y3 & Y4/cpp-tutorial/sololearn/Student.cpp" "G:/SLIIT Y3 & Y4/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/sololearn/Student.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")
 
