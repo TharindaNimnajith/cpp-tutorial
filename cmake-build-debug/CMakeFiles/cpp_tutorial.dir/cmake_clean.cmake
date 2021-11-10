@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/cpp_tutorial.dir/getting-started/Employee.cpp.obj"
+  "CMakeFiles/cpp_tutorial.dir/getting-started/Student.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/getting-started/ex1.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/getting-started/main.cpp.obj"
-  "CMakeFiles/cpp_tutorial.dir/sololearn/Employee.cpp.obj"
-  "CMakeFiles/cpp_tutorial.dir/sololearn/Student.cpp.obj"
   "cpp_tutorial.exe"
   "cpp_tutorial.exe.manifest"
   "cpp_tutorial.lib"

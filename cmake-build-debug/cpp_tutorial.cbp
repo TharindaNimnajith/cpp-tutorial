@@ -84,22 +84,22 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/getting-started/Employee.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/getting-started/Employee.h">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/getting-started/Student.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/getting-started/Student.h">
+			<Option target="cpp_tutorial"/>
+		</Unit>
 		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/getting-started/ex1.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
 		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/getting-started/main.cpp">
-			<Option target="cpp_tutorial"/>
-		</Unit>
-		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/sololearn/Employee.cpp">
-			<Option target="cpp_tutorial"/>
-		</Unit>
-		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/sololearn/Employee.h">
-			<Option target="cpp_tutorial"/>
-		</Unit>
-		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/sololearn/Student.cpp">
-			<Option target="cpp_tutorial"/>
-		</Unit>
-		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/sololearn/Student.h">
 			<Option target="cpp_tutorial"/>
 		</Unit>
 		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/CMakeLists.txt">

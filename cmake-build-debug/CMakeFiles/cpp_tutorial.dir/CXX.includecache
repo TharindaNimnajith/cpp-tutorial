@@ -6,11 +6,15 @@
 
 #IncludeRegexTransform: 
 
-G:/SLIIT Y3 & Y4/cpp-tutorial/getting-started/ex1.cpp
-iostream
--
+G:/SLIIT Y3 & Y4/cpp-tutorial/getting-started/Employee.cpp
+Employee.h
+G:/SLIIT Y3 & Y4/cpp-tutorial/getting-started/Employee.h
 
-G:/SLIIT Y3 & Y4/cpp-tutorial/getting-started/main.cpp
-iostream
--
+G:/SLIIT Y3 & Y4/cpp-tutorial/getting-started/Employee.h
+
+G:/SLIIT Y3 & Y4/cpp-tutorial/getting-started/Student.cpp
+Student.h
+G:/SLIIT Y3 & Y4/cpp-tutorial/getting-started/Student.h
+
+G:/SLIIT Y3 & Y4/cpp-tutorial/getting-started/Student.h
 
