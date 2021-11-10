@@ -11,4 +11,4 @@ class Student {
 };
 
 
-#endif //CPP_TUTORIAL_STUDENT_H
+#endif  // CPP_TUTORIAL_STUDENT_H
