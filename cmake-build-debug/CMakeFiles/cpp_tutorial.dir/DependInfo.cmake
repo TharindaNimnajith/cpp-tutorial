@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/cpp-tutorial/getting-started/ex1.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/getting-started/ex1.cpp.obj"
-  "D:/cpp-tutorial/getting-started/main.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/getting-started/main.cpp.obj"
+  "G:/SLIIT Y3 & Y4/cpp-tutorial/getting-started/ex1.cpp" "G:/SLIIT Y3 & Y4/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/getting-started/ex1.cpp.obj"
+  "G:/SLIIT Y3 & Y4/cpp-tutorial/getting-started/main.cpp" "G:/SLIIT Y3 & Y4/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/getting-started/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")
 
