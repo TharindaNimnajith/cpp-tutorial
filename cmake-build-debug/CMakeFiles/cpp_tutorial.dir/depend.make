@@ -11,5 +11,5 @@ CMakeFiles\cpp_tutorial.dir\getting-started\linker-error.cpp.obj: ..\getting-sta
 
 CMakeFiles\cpp_tutorial.dir\getting-started\main.cpp.obj: ..\getting-started\main.cpp
 
-CMakeFiles\cpp_tutorial.dir\sololearn\main.cpp.obj: ..\sololearn\main.cpp
+CMakeFiles\cpp_tutorial.dir\sololearn\basics.cpp.obj: ..\sololearn\basics.cpp
 

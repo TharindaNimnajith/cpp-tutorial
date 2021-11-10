@@ -214,29 +214,29 @@ getting-started\main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\getting-started\main.cpp.s
 .PHONY : getting-started\main.cpp.s
 
-sololearn\main.obj: sololearn\main.cpp.obj
-.PHONY : sololearn\main.obj
+sololearn\basics.obj: sololearn\basics.cpp.obj
+.PHONY : sololearn\basics.obj
 
 # target to build an object file
-sololearn\main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\sololearn\main.cpp.obj
-.PHONY : sololearn\main.cpp.obj
+sololearn\basics.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\sololearn\basics.cpp.obj
+.PHONY : sololearn\basics.cpp.obj
 
-sololearn\main.i: sololearn\main.cpp.i
-.PHONY : sololearn\main.i
+sololearn\basics.i: sololearn\basics.cpp.i
+.PHONY : sololearn\basics.i
 
 # target to preprocess a source file
-sololearn\main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\sololearn\main.cpp.i
-.PHONY : sololearn\main.cpp.i
+sololearn\basics.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\sololearn\basics.cpp.i
+.PHONY : sololearn\basics.cpp.i
 
-sololearn\main.s: sololearn\main.cpp.s
-.PHONY : sololearn\main.s
+sololearn\basics.s: sololearn\basics.cpp.s
+.PHONY : sololearn\basics.s
 
 # target to generate assembly for a file
-sololearn\main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\sololearn\main.cpp.s
-.PHONY : sololearn\main.cpp.s
+sololearn\basics.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\sololearn\basics.cpp.s
+.PHONY : sololearn\basics.cpp.s
 
 # Help Target
 help:
@@ -259,9 +259,9 @@ help:
 	@echo ... getting-started/main.obj
 	@echo ... getting-started/main.i
 	@echo ... getting-started/main.s
-	@echo ... sololearn/main.obj
-	@echo ... sololearn/main.i
-	@echo ... sololearn/main.s
+	@echo ... sololearn/basics.obj
+	@echo ... sololearn/basics.i
+	@echo ... sololearn/basics.s
 .PHONY : help
 
 

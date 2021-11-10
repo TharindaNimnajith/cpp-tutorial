@@ -131,23 +131,23 @@ CMakeFiles\cpp_tutorial.dir\clion-test\Employee.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\cpp_tutorial.dir\clion-test\Employee.cpp.s /c "G:\SLIIT Y3 & Y4\cpp-tutorial\clion-test\Employee.cpp"
 <<
 
-CMakeFiles\cpp_tutorial.dir\sololearn\main.cpp.obj: CMakeFiles\cpp_tutorial.dir\flags.make
-CMakeFiles\cpp_tutorial.dir\sololearn\main.cpp.obj: ..\sololearn\main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="G:\SLIIT Y3 & Y4\cpp-tutorial\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/cpp_tutorial.dir/sololearn/main.cpp.obj"
+CMakeFiles\cpp_tutorial.dir\sololearn\basics.cpp.obj: CMakeFiles\cpp_tutorial.dir\flags.make
+CMakeFiles\cpp_tutorial.dir\sololearn\basics.cpp.obj: ..\sololearn\basics.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="G:\SLIIT Y3 & Y4\cpp-tutorial\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/cpp_tutorial.dir/sololearn/basics.cpp.obj"
 	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\cpp_tutorial.dir\sololearn\main.cpp.obj /FdCMakeFiles\cpp_tutorial.dir\ /FS -c "G:\SLIIT Y3 & Y4\cpp-tutorial\sololearn\main.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\cpp_tutorial.dir\sololearn\basics.cpp.obj /FdCMakeFiles\cpp_tutorial.dir\ /FS -c "G:\SLIIT Y3 & Y4\cpp-tutorial\sololearn\basics.cpp"
 <<
 
-CMakeFiles\cpp_tutorial.dir\sololearn\main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_tutorial.dir/sololearn/main.cpp.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\cpp_tutorial.dir\sololearn\main.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "G:\SLIIT Y3 & Y4\cpp-tutorial\sololearn\main.cpp"
+CMakeFiles\cpp_tutorial.dir\sololearn\basics.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_tutorial.dir/sololearn/basics.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\cpp_tutorial.dir\sololearn\basics.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "G:\SLIIT Y3 & Y4\cpp-tutorial\sololearn\basics.cpp"
 <<
 
-CMakeFiles\cpp_tutorial.dir\sololearn\main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_tutorial.dir/sololearn/main.cpp.s"
+CMakeFiles\cpp_tutorial.dir\sololearn\basics.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_tutorial.dir/sololearn/basics.cpp.s"
 	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\cpp_tutorial.dir\sololearn\main.cpp.s /c "G:\SLIIT Y3 & Y4\cpp-tutorial\sololearn\main.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\cpp_tutorial.dir\sololearn\basics.cpp.s /c "G:\SLIIT Y3 & Y4\cpp-tutorial\sololearn\basics.cpp"
 <<
 
 # Object files for target cpp_tutorial
@@ -156,7 +156,7 @@ cpp_tutorial_OBJECTS = \
 "CMakeFiles\cpp_tutorial.dir\getting-started\main.cpp.obj" \
 "CMakeFiles\cpp_tutorial.dir\clion-test\Student.cpp.obj" \
 "CMakeFiles\cpp_tutorial.dir\clion-test\Employee.cpp.obj" \
-"CMakeFiles\cpp_tutorial.dir\sololearn\main.cpp.obj"
+"CMakeFiles\cpp_tutorial.dir\sololearn\basics.cpp.obj"
 
 # External object files for target cpp_tutorial
 cpp_tutorial_EXTERNAL_OBJECTS =
@@ -165,7 +165,7 @@ cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\getting-started\linker-error.cpp.o
 cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\getting-started\main.cpp.obj
 cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\clion-test\Student.cpp.obj
 cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\clion-test\Employee.cpp.obj
-cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\sololearn\main.cpp.obj
+cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\sololearn\basics.cpp.obj
 cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\build.make
 cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\objects1.rsp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="G:\SLIIT Y3 & Y4\cpp-tutorial\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable cpp_tutorial.exe"
