@@ -3,4 +3,4 @@ project(cpp_tutorial)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(cpp_tutorial getting-started/main.cpp getting-started/ex1.cpp getting-started/Student.cpp getting-started/Student.h getting-started/Employee.h getting-started/Employee.cpp)
+add_executable(cpp_tutorial getting-started/linker-error.cpp getting-started/ex1.cpp clion-test/Student.cpp clion-test/Student.h clion-test/Employee.h clion-test/Employee.cpp)

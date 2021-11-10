@@ -84,22 +84,22 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/getting-started/Employee.cpp">
+		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/clion-test/Employee.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/getting-started/Employee.h">
+		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/clion-test/Employee.h">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/getting-started/Student.cpp">
+		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/clion-test/Student.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/getting-started/Student.h">
+		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/clion-test/Student.h">
 			<Option target="cpp_tutorial"/>
 		</Unit>
 		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/getting-started/ex1.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/getting-started/main.cpp">
+		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/getting-started/linker-error.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
 		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/CMakeLists.txt">

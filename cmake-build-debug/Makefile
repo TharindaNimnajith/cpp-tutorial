@@ -118,53 +118,53 @@ cpp_tutorial\fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\build
 .PHONY : cpp_tutorial\fast
 
-getting-started\Employee.obj: getting-started\Employee.cpp.obj
-.PHONY : getting-started\Employee.obj
+clion-test\Employee.obj: clion-test\Employee.cpp.obj
+.PHONY : clion-test\Employee.obj
 
 # target to build an object file
-getting-started\Employee.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\getting-started\Employee.cpp.obj
-.PHONY : getting-started\Employee.cpp.obj
+clion-test\Employee.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\clion-test\Employee.cpp.obj
+.PHONY : clion-test\Employee.cpp.obj
 
-getting-started\Employee.i: getting-started\Employee.cpp.i
-.PHONY : getting-started\Employee.i
+clion-test\Employee.i: clion-test\Employee.cpp.i
+.PHONY : clion-test\Employee.i
 
 # target to preprocess a source file
-getting-started\Employee.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\getting-started\Employee.cpp.i
-.PHONY : getting-started\Employee.cpp.i
+clion-test\Employee.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\clion-test\Employee.cpp.i
+.PHONY : clion-test\Employee.cpp.i
 
-getting-started\Employee.s: getting-started\Employee.cpp.s
-.PHONY : getting-started\Employee.s
+clion-test\Employee.s: clion-test\Employee.cpp.s
+.PHONY : clion-test\Employee.s
 
 # target to generate assembly for a file
-getting-started\Employee.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\getting-started\Employee.cpp.s
-.PHONY : getting-started\Employee.cpp.s
+clion-test\Employee.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\clion-test\Employee.cpp.s
+.PHONY : clion-test\Employee.cpp.s
 
-getting-started\Student.obj: getting-started\Student.cpp.obj
-.PHONY : getting-started\Student.obj
+clion-test\Student.obj: clion-test\Student.cpp.obj
+.PHONY : clion-test\Student.obj
 
 # target to build an object file
-getting-started\Student.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\getting-started\Student.cpp.obj
-.PHONY : getting-started\Student.cpp.obj
+clion-test\Student.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\clion-test\Student.cpp.obj
+.PHONY : clion-test\Student.cpp.obj
 
-getting-started\Student.i: getting-started\Student.cpp.i
-.PHONY : getting-started\Student.i
+clion-test\Student.i: clion-test\Student.cpp.i
+.PHONY : clion-test\Student.i
 
 # target to preprocess a source file
-getting-started\Student.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\getting-started\Student.cpp.i
-.PHONY : getting-started\Student.cpp.i
+clion-test\Student.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\clion-test\Student.cpp.i
+.PHONY : clion-test\Student.cpp.i
 
-getting-started\Student.s: getting-started\Student.cpp.s
-.PHONY : getting-started\Student.s
+clion-test\Student.s: clion-test\Student.cpp.s
+.PHONY : clion-test\Student.s
 
 # target to generate assembly for a file
-getting-started\Student.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\getting-started\Student.cpp.s
-.PHONY : getting-started\Student.cpp.s
+clion-test\Student.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\clion-test\Student.cpp.s
+.PHONY : clion-test\Student.cpp.s
 
 getting-started\ex1.obj: getting-started\ex1.cpp.obj
 .PHONY : getting-started\ex1.obj
@@ -190,29 +190,29 @@ getting-started\ex1.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\getting-started\ex1.cpp.s
 .PHONY : getting-started\ex1.cpp.s
 
-getting-started\main.obj: getting-started\main.cpp.obj
-.PHONY : getting-started\main.obj
+getting-started\linker-error.obj: getting-started\linker-error.cpp.obj
+.PHONY : getting-started\linker-error.obj
 
 # target to build an object file
-getting-started\main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\getting-started\main.cpp.obj
-.PHONY : getting-started\main.cpp.obj
+getting-started\linker-error.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\getting-started\linker-error.cpp.obj
+.PHONY : getting-started\linker-error.cpp.obj
 
-getting-started\main.i: getting-started\main.cpp.i
-.PHONY : getting-started\main.i
+getting-started\linker-error.i: getting-started\linker-error.cpp.i
+.PHONY : getting-started\linker-error.i
 
 # target to preprocess a source file
-getting-started\main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\getting-started\main.cpp.i
-.PHONY : getting-started\main.cpp.i
+getting-started\linker-error.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\getting-started\linker-error.cpp.i
+.PHONY : getting-started\linker-error.cpp.i
 
-getting-started\main.s: getting-started\main.cpp.s
-.PHONY : getting-started\main.s
+getting-started\linker-error.s: getting-started\linker-error.cpp.s
+.PHONY : getting-started\linker-error.s
 
 # target to generate assembly for a file
-getting-started\main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\getting-started\main.cpp.s
-.PHONY : getting-started\main.cpp.s
+getting-started\linker-error.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\getting-started\linker-error.cpp.s
+.PHONY : getting-started\linker-error.cpp.s
 
 # Help Target
 help:
@@ -223,18 +223,18 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... cpp_tutorial
-	@echo ... getting-started/Employee.obj
-	@echo ... getting-started/Employee.i
-	@echo ... getting-started/Employee.s
-	@echo ... getting-started/Student.obj
-	@echo ... getting-started/Student.i
-	@echo ... getting-started/Student.s
+	@echo ... clion-test/Employee.obj
+	@echo ... clion-test/Employee.i
+	@echo ... clion-test/Employee.s
+	@echo ... clion-test/Student.obj
+	@echo ... clion-test/Student.i
+	@echo ... clion-test/Student.s
 	@echo ... getting-started/ex1.obj
 	@echo ... getting-started/ex1.i
 	@echo ... getting-started/ex1.s
-	@echo ... getting-started/main.obj
-	@echo ... getting-started/main.i
-	@echo ... getting-started/main.s
+	@echo ... getting-started/linker-error.obj
+	@echo ... getting-started/linker-error.i
+	@echo ... getting-started/linker-error.s
 .PHONY : help
 
 
