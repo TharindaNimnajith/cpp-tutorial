@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/cmake-build-debug"/>
+				<Option working_dir="D:/cpp-tutorial/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f &quot;G:\SLIIT Y3 &amp; Y4\cpp-tutorial\cmake-build-debug\Makefile&quot; VERBOSE=1 all"/>
-					<CompileFile command="nmake /NOLOGO /f &quot;G:\SLIIT Y3 &amp; Y4\cpp-tutorial\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f &quot;G:\SLIIT Y3 &amp; Y4\cpp-tutorial\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f &quot;G:\SLIIT Y3 &amp; Y4\cpp-tutorial\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f D:\cpp-tutorial\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f D:\cpp-tutorial\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\cpp-tutorial\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\cpp-tutorial\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="cpp_tutorial">
-				<Option output="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/cmake-build-debug/cpp_tutorial.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/cmake-build-debug"/>
+				<Option output="D:/cpp-tutorial/cmake-build-debug/cpp_tutorial.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cpp-tutorial/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -34,15 +34,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f &quot;G:\SLIIT Y3 &amp; Y4\cpp-tutorial\cmake-build-debug\Makefile&quot; VERBOSE=1 cpp_tutorial"/>
-					<CompileFile command="nmake /NOLOGO /f &quot;G:\SLIIT Y3 &amp; Y4\cpp-tutorial\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f &quot;G:\SLIIT Y3 &amp; Y4\cpp-tutorial\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f &quot;G:\SLIIT Y3 &amp; Y4\cpp-tutorial\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f D:\cpp-tutorial\cmake-build-debug\Makefile VERBOSE=1 cpp_tutorial"/>
+					<CompileFile command="nmake /NOLOGO /f D:\cpp-tutorial\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\cpp-tutorial\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\cpp-tutorial\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="cpp_tutorial/fast">
-				<Option output="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/cmake-build-debug/cpp_tutorial.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/cmake-build-debug"/>
+				<Option output="D:/cpp-tutorial/cmake-build-debug/cpp_tutorial.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cpp-tutorial/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -57,91 +57,91 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f &quot;G:\SLIIT Y3 &amp; Y4\cpp-tutorial\cmake-build-debug\Makefile&quot; VERBOSE=1 cpp_tutorial/fast"/>
-					<CompileFile command="nmake /NOLOGO /f &quot;G:\SLIIT Y3 &amp; Y4\cpp-tutorial\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f &quot;G:\SLIIT Y3 &amp; Y4\cpp-tutorial\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f &quot;G:\SLIIT Y3 &amp; Y4\cpp-tutorial\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f D:\cpp-tutorial\cmake-build-debug\Makefile VERBOSE=1 cpp_tutorial/fast"/>
+					<CompileFile command="nmake /NOLOGO /f D:\cpp-tutorial\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\cpp-tutorial\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\cpp-tutorial\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/cmake-build-debug"/>
+				<Option working_dir="D:/cpp-tutorial/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f &quot;G:\SLIIT Y3 &amp; Y4\cpp-tutorial\cmake-build-debug\Makefile&quot; VERBOSE=1 edit_cache"/>
-					<CompileFile command="nmake /NOLOGO /f &quot;G:\SLIIT Y3 &amp; Y4\cpp-tutorial\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f &quot;G:\SLIIT Y3 &amp; Y4\cpp-tutorial\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f &quot;G:\SLIIT Y3 &amp; Y4\cpp-tutorial\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f D:\cpp-tutorial\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f D:\cpp-tutorial\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\cpp-tutorial\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\cpp-tutorial\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/cmake-build-debug"/>
+				<Option working_dir="D:/cpp-tutorial/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f &quot;G:\SLIIT Y3 &amp; Y4\cpp-tutorial\cmake-build-debug\Makefile&quot; VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="nmake /NOLOGO /f &quot;G:\SLIIT Y3 &amp; Y4\cpp-tutorial\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f &quot;G:\SLIIT Y3 &amp; Y4\cpp-tutorial\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f &quot;G:\SLIIT Y3 &amp; Y4\cpp-tutorial\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f D:\cpp-tutorial\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f D:\cpp-tutorial\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\cpp-tutorial\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\cpp-tutorial\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/clion-test/Employee.cpp">
+		<Unit filename="D:/cpp-tutorial/clion-test/Employee.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/clion-test/Employee.h">
+		<Unit filename="D:/cpp-tutorial/clion-test/Employee.h">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/clion-test/Student.cpp">
+		<Unit filename="D:/cpp-tutorial/clion-test/Student.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/clion-test/Student.h">
+		<Unit filename="D:/cpp-tutorial/clion-test/Student.h">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/getting-started/linker-error.cpp">
+		<Unit filename="D:/cpp-tutorial/getting-started/linker-error.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/getting-started/main.cpp">
+		<Unit filename="D:/cpp-tutorial/getting-started/main.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/singleton/Main.cpp">
+		<Unit filename="D:/cpp-tutorial/singleton/Main.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/singleton/Singleton.cpp">
+		<Unit filename="D:/cpp-tutorial/singleton/Singleton.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/singleton/Singleton.h">
+		<Unit filename="D:/cpp-tutorial/singleton/Singleton.h">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/sololearn/basics.cpp">
+		<Unit filename="D:/cpp-tutorial/sololearn/basics.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/uml/A.cpp">
+		<Unit filename="D:/cpp-tutorial/uml/A.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/uml/A.h">
+		<Unit filename="D:/cpp-tutorial/uml/A.h">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/uml/B.cpp">
+		<Unit filename="D:/cpp-tutorial/uml/B.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/uml/B.h">
+		<Unit filename="D:/cpp-tutorial/uml/B.h">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/uml/C.cpp">
+		<Unit filename="D:/cpp-tutorial/uml/C.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/uml/C.h">
+		<Unit filename="D:/cpp-tutorial/uml/C.h">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/uml/D.cpp">
+		<Unit filename="D:/cpp-tutorial/uml/D.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/uml/D.h">
+		<Unit filename="D:/cpp-tutorial/uml/D.h">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/uml/Main.cpp">
+		<Unit filename="D:/cpp-tutorial/uml/Main.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/CMakeLists.txt">
+		<Unit filename="D:/cpp-tutorial/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
