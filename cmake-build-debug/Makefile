@@ -214,6 +214,54 @@ getting-started\main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\getting-started\main.cpp.s
 .PHONY : getting-started\main.cpp.s
 
+singleton\Main.obj: singleton\Main.cpp.obj
+.PHONY : singleton\Main.obj
+
+# target to build an object file
+singleton\Main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\singleton\Main.cpp.obj
+.PHONY : singleton\Main.cpp.obj
+
+singleton\Main.i: singleton\Main.cpp.i
+.PHONY : singleton\Main.i
+
+# target to preprocess a source file
+singleton\Main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\singleton\Main.cpp.i
+.PHONY : singleton\Main.cpp.i
+
+singleton\Main.s: singleton\Main.cpp.s
+.PHONY : singleton\Main.s
+
+# target to generate assembly for a file
+singleton\Main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\singleton\Main.cpp.s
+.PHONY : singleton\Main.cpp.s
+
+singleton\Singleton.obj: singleton\Singleton.cpp.obj
+.PHONY : singleton\Singleton.obj
+
+# target to build an object file
+singleton\Singleton.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\singleton\Singleton.cpp.obj
+.PHONY : singleton\Singleton.cpp.obj
+
+singleton\Singleton.i: singleton\Singleton.cpp.i
+.PHONY : singleton\Singleton.i
+
+# target to preprocess a source file
+singleton\Singleton.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\singleton\Singleton.cpp.i
+.PHONY : singleton\Singleton.cpp.i
+
+singleton\Singleton.s: singleton\Singleton.cpp.s
+.PHONY : singleton\Singleton.s
+
+# target to generate assembly for a file
+singleton\Singleton.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\singleton\Singleton.cpp.s
+.PHONY : singleton\Singleton.cpp.s
+
 sololearn\basics.obj: sololearn\basics.cpp.obj
 .PHONY : sololearn\basics.obj
 
@@ -238,6 +286,126 @@ sololearn\basics.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\sololearn\basics.cpp.s
 .PHONY : sololearn\basics.cpp.s
 
+uml\A.obj: uml\A.cpp.obj
+.PHONY : uml\A.obj
+
+# target to build an object file
+uml\A.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml\A.cpp.obj
+.PHONY : uml\A.cpp.obj
+
+uml\A.i: uml\A.cpp.i
+.PHONY : uml\A.i
+
+# target to preprocess a source file
+uml\A.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml\A.cpp.i
+.PHONY : uml\A.cpp.i
+
+uml\A.s: uml\A.cpp.s
+.PHONY : uml\A.s
+
+# target to generate assembly for a file
+uml\A.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml\A.cpp.s
+.PHONY : uml\A.cpp.s
+
+uml\B.obj: uml\B.cpp.obj
+.PHONY : uml\B.obj
+
+# target to build an object file
+uml\B.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml\B.cpp.obj
+.PHONY : uml\B.cpp.obj
+
+uml\B.i: uml\B.cpp.i
+.PHONY : uml\B.i
+
+# target to preprocess a source file
+uml\B.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml\B.cpp.i
+.PHONY : uml\B.cpp.i
+
+uml\B.s: uml\B.cpp.s
+.PHONY : uml\B.s
+
+# target to generate assembly for a file
+uml\B.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml\B.cpp.s
+.PHONY : uml\B.cpp.s
+
+uml\C.obj: uml\C.cpp.obj
+.PHONY : uml\C.obj
+
+# target to build an object file
+uml\C.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml\C.cpp.obj
+.PHONY : uml\C.cpp.obj
+
+uml\C.i: uml\C.cpp.i
+.PHONY : uml\C.i
+
+# target to preprocess a source file
+uml\C.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml\C.cpp.i
+.PHONY : uml\C.cpp.i
+
+uml\C.s: uml\C.cpp.s
+.PHONY : uml\C.s
+
+# target to generate assembly for a file
+uml\C.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml\C.cpp.s
+.PHONY : uml\C.cpp.s
+
+uml\D.obj: uml\D.cpp.obj
+.PHONY : uml\D.obj
+
+# target to build an object file
+uml\D.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml\D.cpp.obj
+.PHONY : uml\D.cpp.obj
+
+uml\D.i: uml\D.cpp.i
+.PHONY : uml\D.i
+
+# target to preprocess a source file
+uml\D.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml\D.cpp.i
+.PHONY : uml\D.cpp.i
+
+uml\D.s: uml\D.cpp.s
+.PHONY : uml\D.s
+
+# target to generate assembly for a file
+uml\D.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml\D.cpp.s
+.PHONY : uml\D.cpp.s
+
+uml\Main.obj: uml\Main.cpp.obj
+.PHONY : uml\Main.obj
+
+# target to build an object file
+uml\Main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml\Main.cpp.obj
+.PHONY : uml\Main.cpp.obj
+
+uml\Main.i: uml\Main.cpp.i
+.PHONY : uml\Main.i
+
+# target to preprocess a source file
+uml\Main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml\Main.cpp.i
+.PHONY : uml\Main.cpp.i
+
+uml\Main.s: uml\Main.cpp.s
+.PHONY : uml\Main.s
+
+# target to generate assembly for a file
+uml\Main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml\Main.cpp.s
+.PHONY : uml\Main.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -259,9 +427,30 @@ help:
 	@echo ... getting-started/main.obj
 	@echo ... getting-started/main.i
 	@echo ... getting-started/main.s
+	@echo ... singleton/Main.obj
+	@echo ... singleton/Main.i
+	@echo ... singleton/Main.s
+	@echo ... singleton/Singleton.obj
+	@echo ... singleton/Singleton.i
+	@echo ... singleton/Singleton.s
 	@echo ... sololearn/basics.obj
 	@echo ... sololearn/basics.i
 	@echo ... sololearn/basics.s
+	@echo ... uml/A.obj
+	@echo ... uml/A.i
+	@echo ... uml/A.s
+	@echo ... uml/B.obj
+	@echo ... uml/B.i
+	@echo ... uml/B.s
+	@echo ... uml/C.obj
+	@echo ... uml/C.i
+	@echo ... uml/C.s
+	@echo ... uml/D.obj
+	@echo ... uml/D.i
+	@echo ... uml/D.s
+	@echo ... uml/Main.obj
+	@echo ... uml/Main.i
+	@echo ... uml/Main.s
 .PHONY : help
 
 

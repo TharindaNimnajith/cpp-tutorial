@@ -11,5 +11,34 @@ CMakeFiles\cpp_tutorial.dir\getting-started\linker-error.cpp.obj: ..\getting-sta
 
 CMakeFiles\cpp_tutorial.dir\getting-started\main.cpp.obj: ..\getting-started\main.cpp
 
+CMakeFiles\cpp_tutorial.dir\singleton\Main.cpp.obj: ..\singleton\Main.cpp
+CMakeFiles\cpp_tutorial.dir\singleton\Main.cpp.obj: ..\singleton\Singleton.h
+
+CMakeFiles\cpp_tutorial.dir\singleton\Singleton.cpp.obj: ..\singleton\Singleton.cpp
+CMakeFiles\cpp_tutorial.dir\singleton\Singleton.cpp.obj: ..\singleton\Singleton.h
+
 CMakeFiles\cpp_tutorial.dir\sololearn\basics.cpp.obj: ..\sololearn\basics.cpp
+
+CMakeFiles\cpp_tutorial.dir\uml\A.cpp.obj: ..\uml\A.cpp
+CMakeFiles\cpp_tutorial.dir\uml\A.cpp.obj: ..\uml\A.h
+
+CMakeFiles\cpp_tutorial.dir\uml\B.cpp.obj: ..\uml\A.h
+CMakeFiles\cpp_tutorial.dir\uml\B.cpp.obj: ..\uml\B.cpp
+CMakeFiles\cpp_tutorial.dir\uml\B.cpp.obj: ..\uml\B.h
+
+CMakeFiles\cpp_tutorial.dir\uml\C.cpp.obj: ..\uml\A.h
+CMakeFiles\cpp_tutorial.dir\uml\C.cpp.obj: ..\uml\C.cpp
+CMakeFiles\cpp_tutorial.dir\uml\C.cpp.obj: ..\uml\C.h
+
+CMakeFiles\cpp_tutorial.dir\uml\D.cpp.obj: ..\uml\A.h
+CMakeFiles\cpp_tutorial.dir\uml\D.cpp.obj: ..\uml\B.h
+CMakeFiles\cpp_tutorial.dir\uml\D.cpp.obj: ..\uml\C.h
+CMakeFiles\cpp_tutorial.dir\uml\D.cpp.obj: ..\uml\D.cpp
+CMakeFiles\cpp_tutorial.dir\uml\D.cpp.obj: ..\uml\D.h
+
+CMakeFiles\cpp_tutorial.dir\uml\Main.cpp.obj: ..\uml\A.h
+CMakeFiles\cpp_tutorial.dir\uml\Main.cpp.obj: ..\uml\B.h
+CMakeFiles\cpp_tutorial.dir\uml\Main.cpp.obj: ..\uml\C.h
+CMakeFiles\cpp_tutorial.dir\uml\Main.cpp.obj: ..\uml\D.h
+CMakeFiles\cpp_tutorial.dir\uml\Main.cpp.obj: ..\uml\Main.cpp
 

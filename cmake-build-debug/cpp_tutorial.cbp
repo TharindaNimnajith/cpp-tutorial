@@ -102,7 +102,43 @@
 		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/getting-started/main.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
+		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/singleton/Main.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/singleton/Singleton.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/singleton/Singleton.h">
+			<Option target="cpp_tutorial"/>
+		</Unit>
 		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/sololearn/basics.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/uml/A.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/uml/A.h">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/uml/B.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/uml/B.h">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/uml/C.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/uml/C.h">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/uml/D.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/uml/D.h">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/uml/Main.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
 		<Unit filename="G:/SLIIT Y3 &amp; Y4/cpp-tutorial/CMakeLists.txt">

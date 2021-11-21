@@ -11,5 +11,34 @@ CMakeFiles/cpp_tutorial.dir/getting-started/linker-error.cpp.obj
  G:/SLIIT Y3 & Y4/cpp-tutorial/getting-started/linker-error.cpp
 CMakeFiles/cpp_tutorial.dir/getting-started/main.cpp.obj
  G:/SLIIT Y3 & Y4/cpp-tutorial/getting-started/main.cpp
+CMakeFiles/cpp_tutorial.dir/singleton/Main.cpp.obj
+ G:/SLIIT Y3 & Y4/cpp-tutorial/singleton/Main.cpp
+ G:/SLIIT Y3 & Y4/cpp-tutorial/singleton/Singleton.h
+CMakeFiles/cpp_tutorial.dir/singleton/Singleton.cpp.obj
+ G:/SLIIT Y3 & Y4/cpp-tutorial/singleton/Singleton.cpp
+ G:/SLIIT Y3 & Y4/cpp-tutorial/singleton/Singleton.h
 CMakeFiles/cpp_tutorial.dir/sololearn/basics.cpp.obj
  G:/SLIIT Y3 & Y4/cpp-tutorial/sololearn/basics.cpp
+CMakeFiles/cpp_tutorial.dir/uml/A.cpp.obj
+ G:/SLIIT Y3 & Y4/cpp-tutorial/uml/A.cpp
+ G:/SLIIT Y3 & Y4/cpp-tutorial/uml/A.h
+CMakeFiles/cpp_tutorial.dir/uml/B.cpp.obj
+ G:/SLIIT Y3 & Y4/cpp-tutorial/uml/A.h
+ G:/SLIIT Y3 & Y4/cpp-tutorial/uml/B.cpp
+ G:/SLIIT Y3 & Y4/cpp-tutorial/uml/B.h
+CMakeFiles/cpp_tutorial.dir/uml/C.cpp.obj
+ G:/SLIIT Y3 & Y4/cpp-tutorial/uml/A.h
+ G:/SLIIT Y3 & Y4/cpp-tutorial/uml/C.cpp
+ G:/SLIIT Y3 & Y4/cpp-tutorial/uml/C.h
+CMakeFiles/cpp_tutorial.dir/uml/D.cpp.obj
+ G:/SLIIT Y3 & Y4/cpp-tutorial/uml/A.h
+ G:/SLIIT Y3 & Y4/cpp-tutorial/uml/B.h
+ G:/SLIIT Y3 & Y4/cpp-tutorial/uml/C.h
+ G:/SLIIT Y3 & Y4/cpp-tutorial/uml/D.cpp
+ G:/SLIIT Y3 & Y4/cpp-tutorial/uml/D.h
+CMakeFiles/cpp_tutorial.dir/uml/Main.cpp.obj
+ G:/SLIIT Y3 & Y4/cpp-tutorial/uml/A.h
+ G:/SLIIT Y3 & Y4/cpp-tutorial/uml/B.h
+ G:/SLIIT Y3 & Y4/cpp-tutorial/uml/C.h
+ G:/SLIIT Y3 & Y4/cpp-tutorial/uml/D.h
+ G:/SLIIT Y3 & Y4/cpp-tutorial/uml/Main.cpp

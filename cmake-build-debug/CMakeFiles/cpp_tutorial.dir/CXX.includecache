@@ -6,7 +6,59 @@
 
 #IncludeRegexTransform: 
 
-G:/SLIIT Y3 & Y4/cpp-tutorial/getting-started/linker-error.cpp
+G:/SLIIT Y3 & Y4/cpp-tutorial/singleton/Main.cpp
+Singleton.h
+G:/SLIIT Y3 & Y4/cpp-tutorial/singleton/Singleton.h
+
+G:/SLIIT Y3 & Y4/cpp-tutorial/singleton/Singleton.cpp
+Singleton.h
+G:/SLIIT Y3 & Y4/cpp-tutorial/singleton/Singleton.h
+
+G:/SLIIT Y3 & Y4/cpp-tutorial/singleton/Singleton.h
 iostream
 -
+
+G:/SLIIT Y3 & Y4/cpp-tutorial/uml/A.cpp
+iostream
+-
+A.h
+G:/SLIIT Y3 & Y4/cpp-tutorial/uml/A.h
+
+G:/SLIIT Y3 & Y4/cpp-tutorial/uml/A.h
+
+G:/SLIIT Y3 & Y4/cpp-tutorial/uml/B.cpp
+iostream
+-
+B.h
+G:/SLIIT Y3 & Y4/cpp-tutorial/uml/B.h
+
+G:/SLIIT Y3 & Y4/cpp-tutorial/uml/B.h
+A.h
+G:/SLIIT Y3 & Y4/cpp-tutorial/uml/A.h
+
+G:/SLIIT Y3 & Y4/cpp-tutorial/uml/C.cpp
+iostream
+-
+C.h
+G:/SLIIT Y3 & Y4/cpp-tutorial/uml/C.h
+
+G:/SLIIT Y3 & Y4/cpp-tutorial/uml/C.h
+A.h
+G:/SLIIT Y3 & Y4/cpp-tutorial/uml/A.h
+
+G:/SLIIT Y3 & Y4/cpp-tutorial/uml/D.cpp
+iostream
+-
+D.h
+G:/SLIIT Y3 & Y4/cpp-tutorial/uml/D.h
+
+G:/SLIIT Y3 & Y4/cpp-tutorial/uml/D.h
+C.h
+G:/SLIIT Y3 & Y4/cpp-tutorial/uml/C.h
+B.h
+G:/SLIIT Y3 & Y4/cpp-tutorial/uml/B.h
+
+G:/SLIIT Y3 & Y4/cpp-tutorial/uml/Main.cpp
+D.h
+G:/SLIIT Y3 & Y4/cpp-tutorial/uml/D.h
 

@@ -12,7 +12,14 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "G:/SLIIT Y3 & Y4/cpp-tutorial/clion-test/Student.cpp" "G:/SLIIT Y3 & Y4/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/clion-test/Student.cpp.obj"
   "G:/SLIIT Y3 & Y4/cpp-tutorial/getting-started/linker-error.cpp" "G:/SLIIT Y3 & Y4/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/getting-started/linker-error.cpp.obj"
   "G:/SLIIT Y3 & Y4/cpp-tutorial/getting-started/main.cpp" "G:/SLIIT Y3 & Y4/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/getting-started/main.cpp.obj"
+  "G:/SLIIT Y3 & Y4/cpp-tutorial/singleton/Main.cpp" "G:/SLIIT Y3 & Y4/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/singleton/Main.cpp.obj"
+  "G:/SLIIT Y3 & Y4/cpp-tutorial/singleton/Singleton.cpp" "G:/SLIIT Y3 & Y4/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/singleton/Singleton.cpp.obj"
   "G:/SLIIT Y3 & Y4/cpp-tutorial/sololearn/basics.cpp" "G:/SLIIT Y3 & Y4/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/sololearn/basics.cpp.obj"
+  "G:/SLIIT Y3 & Y4/cpp-tutorial/uml/A.cpp" "G:/SLIIT Y3 & Y4/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/uml/A.cpp.obj"
+  "G:/SLIIT Y3 & Y4/cpp-tutorial/uml/B.cpp" "G:/SLIIT Y3 & Y4/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/uml/B.cpp.obj"
+  "G:/SLIIT Y3 & Y4/cpp-tutorial/uml/C.cpp" "G:/SLIIT Y3 & Y4/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/uml/C.cpp.obj"
+  "G:/SLIIT Y3 & Y4/cpp-tutorial/uml/D.cpp" "G:/SLIIT Y3 & Y4/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/uml/D.cpp.obj"
+  "G:/SLIIT Y3 & Y4/cpp-tutorial/uml/Main.cpp" "G:/SLIIT Y3 & Y4/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/uml/Main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")
 
