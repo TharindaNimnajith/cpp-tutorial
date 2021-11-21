@@ -18,7 +18,7 @@ public:
 
     ~C();
 
-    //void run() override;
+    void run() override;
 };
 
 

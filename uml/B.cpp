@@ -6,9 +6,9 @@
 
 #include "B.h"
 
-//void B::run() {
-//    std::cout << "B" << std::endl;
-//}
+void B::run() {
+    std::cout << "B" << std::endl;
+}
 
 B::B() {
     B::y = 0;

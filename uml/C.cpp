@@ -6,9 +6,9 @@
 
 #include "C.h"
 
-//void C::run() {
-//    std::cout << "C" << std::endl;
-//}
+void C::run() {
+    std::cout << "C" << std::endl;
+}
 
 C::C() {
     C::z = 0;
