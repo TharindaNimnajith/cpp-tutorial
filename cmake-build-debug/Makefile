@@ -310,29 +310,101 @@ singleton-pattern\Singleton.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\singleton-pattern\Singleton.cpp.s
 .PHONY : singleton-pattern\Singleton.cpp.s
 
-socket-programming\Main.obj: socket-programming\Main.cpp.obj
-.PHONY : socket-programming\Main.obj
+socket-programming\client.obj: socket-programming\client.cpp.obj
+.PHONY : socket-programming\client.obj
 
 # target to build an object file
-socket-programming\Main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\socket-programming\Main.cpp.obj
-.PHONY : socket-programming\Main.cpp.obj
+socket-programming\client.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\socket-programming\client.cpp.obj
+.PHONY : socket-programming\client.cpp.obj
 
-socket-programming\Main.i: socket-programming\Main.cpp.i
-.PHONY : socket-programming\Main.i
+socket-programming\client.i: socket-programming\client.cpp.i
+.PHONY : socket-programming\client.i
 
 # target to preprocess a source file
-socket-programming\Main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\socket-programming\Main.cpp.i
-.PHONY : socket-programming\Main.cpp.i
+socket-programming\client.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\socket-programming\client.cpp.i
+.PHONY : socket-programming\client.cpp.i
 
-socket-programming\Main.s: socket-programming\Main.cpp.s
-.PHONY : socket-programming\Main.s
+socket-programming\client.s: socket-programming\client.cpp.s
+.PHONY : socket-programming\client.s
 
 # target to generate assembly for a file
-socket-programming\Main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\socket-programming\Main.cpp.s
-.PHONY : socket-programming\Main.cpp.s
+socket-programming\client.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\socket-programming\client.cpp.s
+.PHONY : socket-programming\client.cpp.s
+
+socket-programming\notes\Client.obj: socket-programming\notes\Client.cpp.obj
+.PHONY : socket-programming\notes\Client.obj
+
+# target to build an object file
+socket-programming\notes\Client.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\socket-programming\notes\Client.cpp.obj
+.PHONY : socket-programming\notes\Client.cpp.obj
+
+socket-programming\notes\Client.i: socket-programming\notes\Client.cpp.i
+.PHONY : socket-programming\notes\Client.i
+
+# target to preprocess a source file
+socket-programming\notes\Client.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\socket-programming\notes\Client.cpp.i
+.PHONY : socket-programming\notes\Client.cpp.i
+
+socket-programming\notes\Client.s: socket-programming\notes\Client.cpp.s
+.PHONY : socket-programming\notes\Client.s
+
+# target to generate assembly for a file
+socket-programming\notes\Client.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\socket-programming\notes\Client.cpp.s
+.PHONY : socket-programming\notes\Client.cpp.s
+
+socket-programming\notes\Server.obj: socket-programming\notes\Server.cpp.obj
+.PHONY : socket-programming\notes\Server.obj
+
+# target to build an object file
+socket-programming\notes\Server.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\socket-programming\notes\Server.cpp.obj
+.PHONY : socket-programming\notes\Server.cpp.obj
+
+socket-programming\notes\Server.i: socket-programming\notes\Server.cpp.i
+.PHONY : socket-programming\notes\Server.i
+
+# target to preprocess a source file
+socket-programming\notes\Server.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\socket-programming\notes\Server.cpp.i
+.PHONY : socket-programming\notes\Server.cpp.i
+
+socket-programming\notes\Server.s: socket-programming\notes\Server.cpp.s
+.PHONY : socket-programming\notes\Server.s
+
+# target to generate assembly for a file
+socket-programming\notes\Server.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\socket-programming\notes\Server.cpp.s
+.PHONY : socket-programming\notes\Server.cpp.s
+
+socket-programming\server.obj: socket-programming\server.cpp.obj
+.PHONY : socket-programming\server.obj
+
+# target to build an object file
+socket-programming\server.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\socket-programming\server.cpp.obj
+.PHONY : socket-programming\server.cpp.obj
+
+socket-programming\server.i: socket-programming\server.cpp.i
+.PHONY : socket-programming\server.i
+
+# target to preprocess a source file
+socket-programming\server.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\socket-programming\server.cpp.i
+.PHONY : socket-programming\server.cpp.i
+
+socket-programming\server.s: socket-programming\server.cpp.s
+.PHONY : socket-programming\server.s
+
+# target to generate assembly for a file
+socket-programming\server.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\socket-programming\server.cpp.s
+.PHONY : socket-programming\server.cpp.s
 
 sololearn-course\basics.obj: sololearn-course\basics.cpp.obj
 .PHONY : sololearn-course\basics.obj
@@ -559,9 +631,18 @@ help:
 	@echo ... singleton-pattern/Singleton.obj
 	@echo ... singleton-pattern/Singleton.i
 	@echo ... singleton-pattern/Singleton.s
-	@echo ... socket-programming/Main.obj
-	@echo ... socket-programming/Main.i
-	@echo ... socket-programming/Main.s
+	@echo ... socket-programming/client.obj
+	@echo ... socket-programming/client.i
+	@echo ... socket-programming/client.s
+	@echo ... socket-programming/notes/Client.obj
+	@echo ... socket-programming/notes/Client.i
+	@echo ... socket-programming/notes/Client.s
+	@echo ... socket-programming/notes/Server.obj
+	@echo ... socket-programming/notes/Server.i
+	@echo ... socket-programming/notes/Server.s
+	@echo ... socket-programming/server.obj
+	@echo ... socket-programming/server.i
+	@echo ... socket-programming/server.s
 	@echo ... sololearn-course/basics.obj
 	@echo ... sololearn-course/basics.i
 	@echo ... sololearn-course/basics.s

@@ -117,7 +117,16 @@
 		<Unit filename="D:/cpp-tutorial/singleton-pattern/Singleton.h">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="D:/cpp-tutorial/socket-programming/Main.cpp">
+		<Unit filename="D:/cpp-tutorial/socket-programming/client.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="D:/cpp-tutorial/socket-programming/notes/Client.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="D:/cpp-tutorial/socket-programming/notes/Server.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="D:/cpp-tutorial/socket-programming/server.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
 		<Unit filename="D:/cpp-tutorial/sololearn-course/basics.cpp">

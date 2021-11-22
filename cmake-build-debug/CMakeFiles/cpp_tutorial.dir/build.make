@@ -359,23 +359,80 @@ CMakeFiles\cpp_tutorial.dir\math-expression-parser\Main.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\cpp_tutorial.dir\math-expression-parser\Main.cpp.s /c D:\cpp-tutorial\math-expression-parser\Main.cpp
 <<
 
-CMakeFiles\cpp_tutorial.dir\socket-programming\Main.cpp.obj: CMakeFiles\cpp_tutorial.dir\flags.make
-CMakeFiles\cpp_tutorial.dir\socket-programming\Main.cpp.obj: ..\socket-programming\Main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cpp-tutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/cpp_tutorial.dir/socket-programming/Main.cpp.obj"
+CMakeFiles\cpp_tutorial.dir\socket-programming\notes\Client.cpp.obj: CMakeFiles\cpp_tutorial.dir\flags.make
+CMakeFiles\cpp_tutorial.dir\socket-programming\notes\Client.cpp.obj: ..\socket-programming\notes\Client.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cpp-tutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/cpp_tutorial.dir/socket-programming/notes/Client.cpp.obj"
 	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\cpp_tutorial.dir\socket-programming\Main.cpp.obj /FdCMakeFiles\cpp_tutorial.dir\ /FS -c D:\cpp-tutorial\socket-programming\Main.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\cpp_tutorial.dir\socket-programming\notes\Client.cpp.obj /FdCMakeFiles\cpp_tutorial.dir\ /FS -c D:\cpp-tutorial\socket-programming\notes\Client.cpp
 <<
 
-CMakeFiles\cpp_tutorial.dir\socket-programming\Main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_tutorial.dir/socket-programming/Main.cpp.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\cpp_tutorial.dir\socket-programming\Main.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cpp-tutorial\socket-programming\Main.cpp
+CMakeFiles\cpp_tutorial.dir\socket-programming\notes\Client.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_tutorial.dir/socket-programming/notes/Client.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\cpp_tutorial.dir\socket-programming\notes\Client.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cpp-tutorial\socket-programming\notes\Client.cpp
 <<
 
-CMakeFiles\cpp_tutorial.dir\socket-programming\Main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_tutorial.dir/socket-programming/Main.cpp.s"
+CMakeFiles\cpp_tutorial.dir\socket-programming\notes\Client.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_tutorial.dir/socket-programming/notes/Client.cpp.s"
 	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\cpp_tutorial.dir\socket-programming\Main.cpp.s /c D:\cpp-tutorial\socket-programming\Main.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\cpp_tutorial.dir\socket-programming\notes\Client.cpp.s /c D:\cpp-tutorial\socket-programming\notes\Client.cpp
+<<
+
+CMakeFiles\cpp_tutorial.dir\socket-programming\notes\Server.cpp.obj: CMakeFiles\cpp_tutorial.dir\flags.make
+CMakeFiles\cpp_tutorial.dir\socket-programming\notes\Server.cpp.obj: ..\socket-programming\notes\Server.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cpp-tutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/cpp_tutorial.dir/socket-programming/notes/Server.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\cpp_tutorial.dir\socket-programming\notes\Server.cpp.obj /FdCMakeFiles\cpp_tutorial.dir\ /FS -c D:\cpp-tutorial\socket-programming\notes\Server.cpp
+<<
+
+CMakeFiles\cpp_tutorial.dir\socket-programming\notes\Server.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_tutorial.dir/socket-programming/notes/Server.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\cpp_tutorial.dir\socket-programming\notes\Server.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cpp-tutorial\socket-programming\notes\Server.cpp
+<<
+
+CMakeFiles\cpp_tutorial.dir\socket-programming\notes\Server.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_tutorial.dir/socket-programming/notes/Server.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\cpp_tutorial.dir\socket-programming\notes\Server.cpp.s /c D:\cpp-tutorial\socket-programming\notes\Server.cpp
+<<
+
+CMakeFiles\cpp_tutorial.dir\socket-programming\client.cpp.obj: CMakeFiles\cpp_tutorial.dir\flags.make
+CMakeFiles\cpp_tutorial.dir\socket-programming\client.cpp.obj: ..\socket-programming\client.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cpp-tutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/cpp_tutorial.dir/socket-programming/client.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\cpp_tutorial.dir\socket-programming\client.cpp.obj /FdCMakeFiles\cpp_tutorial.dir\ /FS -c D:\cpp-tutorial\socket-programming\client.cpp
+<<
+
+CMakeFiles\cpp_tutorial.dir\socket-programming\client.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_tutorial.dir/socket-programming/client.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\cpp_tutorial.dir\socket-programming\client.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cpp-tutorial\socket-programming\client.cpp
+<<
+
+CMakeFiles\cpp_tutorial.dir\socket-programming\client.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_tutorial.dir/socket-programming/client.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\cpp_tutorial.dir\socket-programming\client.cpp.s /c D:\cpp-tutorial\socket-programming\client.cpp
+<<
+
+CMakeFiles\cpp_tutorial.dir\socket-programming\server.cpp.obj: CMakeFiles\cpp_tutorial.dir\flags.make
+CMakeFiles\cpp_tutorial.dir\socket-programming\server.cpp.obj: ..\socket-programming\server.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cpp-tutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/cpp_tutorial.dir/socket-programming/server.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\cpp_tutorial.dir\socket-programming\server.cpp.obj /FdCMakeFiles\cpp_tutorial.dir\ /FS -c D:\cpp-tutorial\socket-programming\server.cpp
+<<
+
+CMakeFiles\cpp_tutorial.dir\socket-programming\server.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_tutorial.dir/socket-programming/server.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\cpp_tutorial.dir\socket-programming\server.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cpp-tutorial\socket-programming\server.cpp
+<<
+
+CMakeFiles\cpp_tutorial.dir\socket-programming\server.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_tutorial.dir/socket-programming/server.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\cpp_tutorial.dir\socket-programming\server.cpp.s /c D:\cpp-tutorial\socket-programming\server.cpp
 <<
 
 # Object files for target cpp_tutorial
@@ -396,7 +453,10 @@ cpp_tutorial_OBJECTS = \
 "CMakeFiles\cpp_tutorial.dir\stack-data-structure\Stack.cpp.obj" \
 "CMakeFiles\cpp_tutorial.dir\stack-data-structure\Main.cpp.obj" \
 "CMakeFiles\cpp_tutorial.dir\math-expression-parser\Main.cpp.obj" \
-"CMakeFiles\cpp_tutorial.dir\socket-programming\Main.cpp.obj"
+"CMakeFiles\cpp_tutorial.dir\socket-programming\notes\Client.cpp.obj" \
+"CMakeFiles\cpp_tutorial.dir\socket-programming\notes\Server.cpp.obj" \
+"CMakeFiles\cpp_tutorial.dir\socket-programming\client.cpp.obj" \
+"CMakeFiles\cpp_tutorial.dir\socket-programming\server.cpp.obj"
 
 # External object files for target cpp_tutorial
 cpp_tutorial_EXTERNAL_OBJECTS =
@@ -417,10 +477,13 @@ cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\memory-stack\Main.cpp.obj
 cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\stack-data-structure\Stack.cpp.obj
 cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\stack-data-structure\Main.cpp.obj
 cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\math-expression-parser\Main.cpp.obj
-cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\socket-programming\Main.cpp.obj
+cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\socket-programming\notes\Client.cpp.obj
+cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\socket-programming\notes\Server.cpp.obj
+cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\socket-programming\client.cpp.obj
+cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\socket-programming\server.cpp.obj
 cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\build.make
 cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\cpp-tutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Linking CXX executable cpp_tutorial.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\cpp-tutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Linking CXX executable cpp_tutorial.exe"
 	"C:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cpp_tutorial.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cpp_tutorial.dir\objects1.rsp @<<
  /out:cpp_tutorial.exe /implib:cpp_tutorial.lib /pdb:D:\cpp-tutorial\cmake-build-debug\cpp_tutorial.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<

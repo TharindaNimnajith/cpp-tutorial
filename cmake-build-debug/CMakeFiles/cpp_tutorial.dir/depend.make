@@ -21,7 +21,13 @@ CMakeFiles\cpp_tutorial.dir\singleton-pattern\Main.cpp.obj: ..\singleton-pattern
 CMakeFiles\cpp_tutorial.dir\singleton-pattern\Singleton.cpp.obj: ..\singleton-pattern\Singleton.cpp
 CMakeFiles\cpp_tutorial.dir\singleton-pattern\Singleton.cpp.obj: ..\singleton-pattern\Singleton.h
 
-CMakeFiles\cpp_tutorial.dir\socket-programming\Main.cpp.obj: ..\socket-programming\Main.cpp
+CMakeFiles\cpp_tutorial.dir\socket-programming\client.cpp.obj: ..\socket-programming\client.cpp
+
+CMakeFiles\cpp_tutorial.dir\socket-programming\notes\Client.cpp.obj: ..\socket-programming\notes\Client.cpp
+
+CMakeFiles\cpp_tutorial.dir\socket-programming\notes\Server.cpp.obj: ..\socket-programming\notes\Server.cpp
+
+CMakeFiles\cpp_tutorial.dir\socket-programming\server.cpp.obj: ..\socket-programming\server.cpp
 
 CMakeFiles\cpp_tutorial.dir\sololearn-course\basics.cpp.obj: ..\sololearn-course\basics.cpp
 
