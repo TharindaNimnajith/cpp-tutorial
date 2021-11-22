@@ -16,6 +16,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "D:/cpp-tutorial/parser/Main.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/parser/Main.cpp.obj"
   "D:/cpp-tutorial/singleton/Main.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/singleton/Main.cpp.obj"
   "D:/cpp-tutorial/singleton/Singleton.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/singleton/Singleton.cpp.obj"
+  "D:/cpp-tutorial/socket-programming/Main.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/socket-programming/Main.cpp.obj"
   "D:/cpp-tutorial/sololearn/basics.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/sololearn/basics.cpp.obj"
   "D:/cpp-tutorial/stack/Main.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/stack/Main.cpp.obj"
   "D:/cpp-tutorial/stack/Stack.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/stack/Stack.cpp.obj"

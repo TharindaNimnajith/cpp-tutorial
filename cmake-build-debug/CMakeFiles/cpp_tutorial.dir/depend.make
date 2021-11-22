@@ -21,6 +21,8 @@ CMakeFiles\cpp_tutorial.dir\singleton\Main.cpp.obj: ..\singleton\Singleton.h
 CMakeFiles\cpp_tutorial.dir\singleton\Singleton.cpp.obj: ..\singleton\Singleton.cpp
 CMakeFiles\cpp_tutorial.dir\singleton\Singleton.cpp.obj: ..\singleton\Singleton.h
 
+CMakeFiles\cpp_tutorial.dir\socket-programming\Main.cpp.obj: ..\socket-programming\Main.cpp
+
 CMakeFiles\cpp_tutorial.dir\sololearn\basics.cpp.obj: ..\sololearn\basics.cpp
 
 CMakeFiles\cpp_tutorial.dir\stack\Main.cpp.obj: ..\stack\Main.cpp

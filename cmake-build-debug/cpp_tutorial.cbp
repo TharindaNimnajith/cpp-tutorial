@@ -117,6 +117,9 @@
 		<Unit filename="D:/cpp-tutorial/singleton/Singleton.h">
 			<Option target="cpp_tutorial"/>
 		</Unit>
+		<Unit filename="D:/cpp-tutorial/socket-programming/Main.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
 		<Unit filename="D:/cpp-tutorial/sololearn/basics.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>

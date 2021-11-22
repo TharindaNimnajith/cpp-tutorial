@@ -310,6 +310,30 @@ singleton\Singleton.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\singleton\Singleton.cpp.s
 .PHONY : singleton\Singleton.cpp.s
 
+socket-programming\Main.obj: socket-programming\Main.cpp.obj
+.PHONY : socket-programming\Main.obj
+
+# target to build an object file
+socket-programming\Main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\socket-programming\Main.cpp.obj
+.PHONY : socket-programming\Main.cpp.obj
+
+socket-programming\Main.i: socket-programming\Main.cpp.i
+.PHONY : socket-programming\Main.i
+
+# target to preprocess a source file
+socket-programming\Main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\socket-programming\Main.cpp.i
+.PHONY : socket-programming\Main.cpp.i
+
+socket-programming\Main.s: socket-programming\Main.cpp.s
+.PHONY : socket-programming\Main.s
+
+# target to generate assembly for a file
+socket-programming\Main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\socket-programming\Main.cpp.s
+.PHONY : socket-programming\Main.cpp.s
+
 sololearn\basics.obj: sololearn\basics.cpp.obj
 .PHONY : sololearn\basics.obj
 
@@ -535,6 +559,9 @@ help:
 	@echo ... singleton/Singleton.obj
 	@echo ... singleton/Singleton.i
 	@echo ... singleton/Singleton.s
+	@echo ... socket-programming/Main.obj
+	@echo ... socket-programming/Main.i
+	@echo ... socket-programming/Main.s
 	@echo ... sololearn/basics.obj
 	@echo ... sololearn/basics.i
 	@echo ... sololearn/basics.s

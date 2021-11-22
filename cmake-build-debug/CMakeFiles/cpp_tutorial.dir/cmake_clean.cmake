@@ -7,6 +7,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/cpp_tutorial.dir/parser/Main.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/singleton/Main.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/singleton/Singleton.cpp.obj"
+  "CMakeFiles/cpp_tutorial.dir/socket-programming/Main.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/sololearn/basics.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/stack/Main.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/stack/Stack.cpp.obj"
