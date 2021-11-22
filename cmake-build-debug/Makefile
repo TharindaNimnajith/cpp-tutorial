@@ -238,6 +238,30 @@ memory-stack\Main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\memory-stack\Main.cpp.s
 .PHONY : memory-stack\Main.cpp.s
 
+parser\Main.obj: parser\Main.cpp.obj
+.PHONY : parser\Main.obj
+
+# target to build an object file
+parser\Main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\parser\Main.cpp.obj
+.PHONY : parser\Main.cpp.obj
+
+parser\Main.i: parser\Main.cpp.i
+.PHONY : parser\Main.i
+
+# target to preprocess a source file
+parser\Main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\parser\Main.cpp.i
+.PHONY : parser\Main.cpp.i
+
+parser\Main.s: parser\Main.cpp.s
+.PHONY : parser\Main.s
+
+# target to generate assembly for a file
+parser\Main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\parser\Main.cpp.s
+.PHONY : parser\Main.cpp.s
+
 singleton\Main.obj: singleton\Main.cpp.obj
 .PHONY : singleton\Main.obj
 
@@ -502,6 +526,9 @@ help:
 	@echo ... memory-stack/Main.obj
 	@echo ... memory-stack/Main.i
 	@echo ... memory-stack/Main.s
+	@echo ... parser/Main.obj
+	@echo ... parser/Main.i
+	@echo ... parser/Main.s
 	@echo ... singleton/Main.obj
 	@echo ... singleton/Main.i
 	@echo ... singleton/Main.s

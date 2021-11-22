@@ -6,11 +6,7 @@
 
 #IncludeRegexTransform: 
 
-D:/cpp-tutorial/stack/Stack.cpp
+D:/cpp-tutorial/parser/Main.cpp
 iostream
 -
-Stack.h
-D:/cpp-tutorial/stack/Stack.h
-
-D:/cpp-tutorial/stack/Stack.h
 

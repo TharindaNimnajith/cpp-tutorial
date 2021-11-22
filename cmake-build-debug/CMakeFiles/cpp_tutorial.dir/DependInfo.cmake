@@ -13,6 +13,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "D:/cpp-tutorial/getting-started/linker-error.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/getting-started/linker-error.cpp.obj"
   "D:/cpp-tutorial/getting-started/main.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/getting-started/main.cpp.obj"
   "D:/cpp-tutorial/memory-stack/Main.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/memory-stack/Main.cpp.obj"
+  "D:/cpp-tutorial/parser/Main.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/parser/Main.cpp.obj"
   "D:/cpp-tutorial/singleton/Main.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/singleton/Main.cpp.obj"
   "D:/cpp-tutorial/singleton/Singleton.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/singleton/Singleton.cpp.obj"
   "D:/cpp-tutorial/sololearn/basics.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/sololearn/basics.cpp.obj"

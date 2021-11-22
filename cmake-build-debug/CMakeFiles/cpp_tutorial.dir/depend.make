@@ -13,6 +13,8 @@ CMakeFiles\cpp_tutorial.dir\getting-started\main.cpp.obj: ..\getting-started\mai
 
 CMakeFiles\cpp_tutorial.dir\memory-stack\Main.cpp.obj: ..\memory-stack\Main.cpp
 
+CMakeFiles\cpp_tutorial.dir\parser\Main.cpp.obj: ..\parser\Main.cpp
+
 CMakeFiles\cpp_tutorial.dir\singleton\Main.cpp.obj: ..\singleton\Main.cpp
 CMakeFiles\cpp_tutorial.dir\singleton\Main.cpp.obj: ..\singleton\Singleton.h
 

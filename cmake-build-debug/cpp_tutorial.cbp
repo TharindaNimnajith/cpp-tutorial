@@ -105,6 +105,9 @@
 		<Unit filename="D:/cpp-tutorial/memory-stack/Main.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
+		<Unit filename="D:/cpp-tutorial/parser/Main.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
 		<Unit filename="D:/cpp-tutorial/singleton/Main.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
