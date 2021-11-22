@@ -102,61 +102,61 @@
 		<Unit filename="D:/cpp-tutorial/getting-started/main.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
+		<Unit filename="D:/cpp-tutorial/math-expression-parser/Main.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
 		<Unit filename="D:/cpp-tutorial/memory-stack/Main.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="D:/cpp-tutorial/parser/Main.cpp">
+		<Unit filename="D:/cpp-tutorial/singleton-pattern/Main.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="D:/cpp-tutorial/singleton/Main.cpp">
+		<Unit filename="D:/cpp-tutorial/singleton-pattern/Singleton.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="D:/cpp-tutorial/singleton/Singleton.cpp">
-			<Option target="cpp_tutorial"/>
-		</Unit>
-		<Unit filename="D:/cpp-tutorial/singleton/Singleton.h">
+		<Unit filename="D:/cpp-tutorial/singleton-pattern/Singleton.h">
 			<Option target="cpp_tutorial"/>
 		</Unit>
 		<Unit filename="D:/cpp-tutorial/socket-programming/Main.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="D:/cpp-tutorial/sololearn/basics.cpp">
+		<Unit filename="D:/cpp-tutorial/sololearn-course/basics.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="D:/cpp-tutorial/stack/Main.cpp">
+		<Unit filename="D:/cpp-tutorial/stack-data-structure/Main.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="D:/cpp-tutorial/stack/Stack.cpp">
+		<Unit filename="D:/cpp-tutorial/stack-data-structure/Stack.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="D:/cpp-tutorial/stack/Stack.h">
+		<Unit filename="D:/cpp-tutorial/stack-data-structure/Stack.h">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="D:/cpp-tutorial/uml/A.cpp">
+		<Unit filename="D:/cpp-tutorial/uml-inheritance/A.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="D:/cpp-tutorial/uml/A.h">
+		<Unit filename="D:/cpp-tutorial/uml-inheritance/A.h">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="D:/cpp-tutorial/uml/B.cpp">
+		<Unit filename="D:/cpp-tutorial/uml-inheritance/B.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="D:/cpp-tutorial/uml/B.h">
+		<Unit filename="D:/cpp-tutorial/uml-inheritance/B.h">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="D:/cpp-tutorial/uml/C.cpp">
+		<Unit filename="D:/cpp-tutorial/uml-inheritance/C.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="D:/cpp-tutorial/uml/C.h">
+		<Unit filename="D:/cpp-tutorial/uml-inheritance/C.h">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="D:/cpp-tutorial/uml/D.cpp">
+		<Unit filename="D:/cpp-tutorial/uml-inheritance/D.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="D:/cpp-tutorial/uml/D.h">
+		<Unit filename="D:/cpp-tutorial/uml-inheritance/D.h">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="D:/cpp-tutorial/uml/Main.cpp">
+		<Unit filename="D:/cpp-tutorial/uml-inheritance/Main.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
 		<Unit filename="D:/cpp-tutorial/CMakeLists.txt">

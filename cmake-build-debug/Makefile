@@ -214,6 +214,30 @@ getting-started\main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\getting-started\main.cpp.s
 .PHONY : getting-started\main.cpp.s
 
+math-expression-parser\Main.obj: math-expression-parser\Main.cpp.obj
+.PHONY : math-expression-parser\Main.obj
+
+# target to build an object file
+math-expression-parser\Main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\math-expression-parser\Main.cpp.obj
+.PHONY : math-expression-parser\Main.cpp.obj
+
+math-expression-parser\Main.i: math-expression-parser\Main.cpp.i
+.PHONY : math-expression-parser\Main.i
+
+# target to preprocess a source file
+math-expression-parser\Main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\math-expression-parser\Main.cpp.i
+.PHONY : math-expression-parser\Main.cpp.i
+
+math-expression-parser\Main.s: math-expression-parser\Main.cpp.s
+.PHONY : math-expression-parser\Main.s
+
+# target to generate assembly for a file
+math-expression-parser\Main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\math-expression-parser\Main.cpp.s
+.PHONY : math-expression-parser\Main.cpp.s
+
 memory-stack\Main.obj: memory-stack\Main.cpp.obj
 .PHONY : memory-stack\Main.obj
 
@@ -238,77 +262,53 @@ memory-stack\Main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\memory-stack\Main.cpp.s
 .PHONY : memory-stack\Main.cpp.s
 
-parser\Main.obj: parser\Main.cpp.obj
-.PHONY : parser\Main.obj
+singleton-pattern\Main.obj: singleton-pattern\Main.cpp.obj
+.PHONY : singleton-pattern\Main.obj
 
 # target to build an object file
-parser\Main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\parser\Main.cpp.obj
-.PHONY : parser\Main.cpp.obj
+singleton-pattern\Main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\singleton-pattern\Main.cpp.obj
+.PHONY : singleton-pattern\Main.cpp.obj
 
-parser\Main.i: parser\Main.cpp.i
-.PHONY : parser\Main.i
+singleton-pattern\Main.i: singleton-pattern\Main.cpp.i
+.PHONY : singleton-pattern\Main.i
 
 # target to preprocess a source file
-parser\Main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\parser\Main.cpp.i
-.PHONY : parser\Main.cpp.i
+singleton-pattern\Main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\singleton-pattern\Main.cpp.i
+.PHONY : singleton-pattern\Main.cpp.i
 
-parser\Main.s: parser\Main.cpp.s
-.PHONY : parser\Main.s
+singleton-pattern\Main.s: singleton-pattern\Main.cpp.s
+.PHONY : singleton-pattern\Main.s
 
 # target to generate assembly for a file
-parser\Main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\parser\Main.cpp.s
-.PHONY : parser\Main.cpp.s
+singleton-pattern\Main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\singleton-pattern\Main.cpp.s
+.PHONY : singleton-pattern\Main.cpp.s
 
-singleton\Main.obj: singleton\Main.cpp.obj
-.PHONY : singleton\Main.obj
+singleton-pattern\Singleton.obj: singleton-pattern\Singleton.cpp.obj
+.PHONY : singleton-pattern\Singleton.obj
 
 # target to build an object file
-singleton\Main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\singleton\Main.cpp.obj
-.PHONY : singleton\Main.cpp.obj
+singleton-pattern\Singleton.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\singleton-pattern\Singleton.cpp.obj
+.PHONY : singleton-pattern\Singleton.cpp.obj
 
-singleton\Main.i: singleton\Main.cpp.i
-.PHONY : singleton\Main.i
-
-# target to preprocess a source file
-singleton\Main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\singleton\Main.cpp.i
-.PHONY : singleton\Main.cpp.i
-
-singleton\Main.s: singleton\Main.cpp.s
-.PHONY : singleton\Main.s
-
-# target to generate assembly for a file
-singleton\Main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\singleton\Main.cpp.s
-.PHONY : singleton\Main.cpp.s
-
-singleton\Singleton.obj: singleton\Singleton.cpp.obj
-.PHONY : singleton\Singleton.obj
-
-# target to build an object file
-singleton\Singleton.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\singleton\Singleton.cpp.obj
-.PHONY : singleton\Singleton.cpp.obj
-
-singleton\Singleton.i: singleton\Singleton.cpp.i
-.PHONY : singleton\Singleton.i
+singleton-pattern\Singleton.i: singleton-pattern\Singleton.cpp.i
+.PHONY : singleton-pattern\Singleton.i
 
 # target to preprocess a source file
-singleton\Singleton.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\singleton\Singleton.cpp.i
-.PHONY : singleton\Singleton.cpp.i
+singleton-pattern\Singleton.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\singleton-pattern\Singleton.cpp.i
+.PHONY : singleton-pattern\Singleton.cpp.i
 
-singleton\Singleton.s: singleton\Singleton.cpp.s
-.PHONY : singleton\Singleton.s
+singleton-pattern\Singleton.s: singleton-pattern\Singleton.cpp.s
+.PHONY : singleton-pattern\Singleton.s
 
 # target to generate assembly for a file
-singleton\Singleton.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\singleton\Singleton.cpp.s
-.PHONY : singleton\Singleton.cpp.s
+singleton-pattern\Singleton.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\singleton-pattern\Singleton.cpp.s
+.PHONY : singleton-pattern\Singleton.cpp.s
 
 socket-programming\Main.obj: socket-programming\Main.cpp.obj
 .PHONY : socket-programming\Main.obj
@@ -334,197 +334,197 @@ socket-programming\Main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\socket-programming\Main.cpp.s
 .PHONY : socket-programming\Main.cpp.s
 
-sololearn\basics.obj: sololearn\basics.cpp.obj
-.PHONY : sololearn\basics.obj
+sololearn-course\basics.obj: sololearn-course\basics.cpp.obj
+.PHONY : sololearn-course\basics.obj
 
 # target to build an object file
-sololearn\basics.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\sololearn\basics.cpp.obj
-.PHONY : sololearn\basics.cpp.obj
+sololearn-course\basics.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\sololearn-course\basics.cpp.obj
+.PHONY : sololearn-course\basics.cpp.obj
 
-sololearn\basics.i: sololearn\basics.cpp.i
-.PHONY : sololearn\basics.i
+sololearn-course\basics.i: sololearn-course\basics.cpp.i
+.PHONY : sololearn-course\basics.i
 
 # target to preprocess a source file
-sololearn\basics.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\sololearn\basics.cpp.i
-.PHONY : sololearn\basics.cpp.i
+sololearn-course\basics.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\sololearn-course\basics.cpp.i
+.PHONY : sololearn-course\basics.cpp.i
 
-sololearn\basics.s: sololearn\basics.cpp.s
-.PHONY : sololearn\basics.s
+sololearn-course\basics.s: sololearn-course\basics.cpp.s
+.PHONY : sololearn-course\basics.s
 
 # target to generate assembly for a file
-sololearn\basics.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\sololearn\basics.cpp.s
-.PHONY : sololearn\basics.cpp.s
+sololearn-course\basics.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\sololearn-course\basics.cpp.s
+.PHONY : sololearn-course\basics.cpp.s
 
-stack\Main.obj: stack\Main.cpp.obj
-.PHONY : stack\Main.obj
+stack-data-structure\Main.obj: stack-data-structure\Main.cpp.obj
+.PHONY : stack-data-structure\Main.obj
 
 # target to build an object file
-stack\Main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\stack\Main.cpp.obj
-.PHONY : stack\Main.cpp.obj
+stack-data-structure\Main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\stack-data-structure\Main.cpp.obj
+.PHONY : stack-data-structure\Main.cpp.obj
 
-stack\Main.i: stack\Main.cpp.i
-.PHONY : stack\Main.i
+stack-data-structure\Main.i: stack-data-structure\Main.cpp.i
+.PHONY : stack-data-structure\Main.i
 
 # target to preprocess a source file
-stack\Main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\stack\Main.cpp.i
-.PHONY : stack\Main.cpp.i
+stack-data-structure\Main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\stack-data-structure\Main.cpp.i
+.PHONY : stack-data-structure\Main.cpp.i
 
-stack\Main.s: stack\Main.cpp.s
-.PHONY : stack\Main.s
+stack-data-structure\Main.s: stack-data-structure\Main.cpp.s
+.PHONY : stack-data-structure\Main.s
 
 # target to generate assembly for a file
-stack\Main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\stack\Main.cpp.s
-.PHONY : stack\Main.cpp.s
+stack-data-structure\Main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\stack-data-structure\Main.cpp.s
+.PHONY : stack-data-structure\Main.cpp.s
 
-stack\Stack.obj: stack\Stack.cpp.obj
-.PHONY : stack\Stack.obj
+stack-data-structure\Stack.obj: stack-data-structure\Stack.cpp.obj
+.PHONY : stack-data-structure\Stack.obj
 
 # target to build an object file
-stack\Stack.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\stack\Stack.cpp.obj
-.PHONY : stack\Stack.cpp.obj
+stack-data-structure\Stack.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\stack-data-structure\Stack.cpp.obj
+.PHONY : stack-data-structure\Stack.cpp.obj
 
-stack\Stack.i: stack\Stack.cpp.i
-.PHONY : stack\Stack.i
+stack-data-structure\Stack.i: stack-data-structure\Stack.cpp.i
+.PHONY : stack-data-structure\Stack.i
 
 # target to preprocess a source file
-stack\Stack.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\stack\Stack.cpp.i
-.PHONY : stack\Stack.cpp.i
+stack-data-structure\Stack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\stack-data-structure\Stack.cpp.i
+.PHONY : stack-data-structure\Stack.cpp.i
 
-stack\Stack.s: stack\Stack.cpp.s
-.PHONY : stack\Stack.s
+stack-data-structure\Stack.s: stack-data-structure\Stack.cpp.s
+.PHONY : stack-data-structure\Stack.s
 
 # target to generate assembly for a file
-stack\Stack.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\stack\Stack.cpp.s
-.PHONY : stack\Stack.cpp.s
+stack-data-structure\Stack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\stack-data-structure\Stack.cpp.s
+.PHONY : stack-data-structure\Stack.cpp.s
 
-uml\A.obj: uml\A.cpp.obj
-.PHONY : uml\A.obj
+uml-inheritance\A.obj: uml-inheritance\A.cpp.obj
+.PHONY : uml-inheritance\A.obj
 
 # target to build an object file
-uml\A.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml\A.cpp.obj
-.PHONY : uml\A.cpp.obj
+uml-inheritance\A.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml-inheritance\A.cpp.obj
+.PHONY : uml-inheritance\A.cpp.obj
 
-uml\A.i: uml\A.cpp.i
-.PHONY : uml\A.i
+uml-inheritance\A.i: uml-inheritance\A.cpp.i
+.PHONY : uml-inheritance\A.i
 
 # target to preprocess a source file
-uml\A.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml\A.cpp.i
-.PHONY : uml\A.cpp.i
+uml-inheritance\A.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml-inheritance\A.cpp.i
+.PHONY : uml-inheritance\A.cpp.i
 
-uml\A.s: uml\A.cpp.s
-.PHONY : uml\A.s
+uml-inheritance\A.s: uml-inheritance\A.cpp.s
+.PHONY : uml-inheritance\A.s
 
 # target to generate assembly for a file
-uml\A.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml\A.cpp.s
-.PHONY : uml\A.cpp.s
+uml-inheritance\A.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml-inheritance\A.cpp.s
+.PHONY : uml-inheritance\A.cpp.s
 
-uml\B.obj: uml\B.cpp.obj
-.PHONY : uml\B.obj
+uml-inheritance\B.obj: uml-inheritance\B.cpp.obj
+.PHONY : uml-inheritance\B.obj
 
 # target to build an object file
-uml\B.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml\B.cpp.obj
-.PHONY : uml\B.cpp.obj
+uml-inheritance\B.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml-inheritance\B.cpp.obj
+.PHONY : uml-inheritance\B.cpp.obj
 
-uml\B.i: uml\B.cpp.i
-.PHONY : uml\B.i
+uml-inheritance\B.i: uml-inheritance\B.cpp.i
+.PHONY : uml-inheritance\B.i
 
 # target to preprocess a source file
-uml\B.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml\B.cpp.i
-.PHONY : uml\B.cpp.i
+uml-inheritance\B.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml-inheritance\B.cpp.i
+.PHONY : uml-inheritance\B.cpp.i
 
-uml\B.s: uml\B.cpp.s
-.PHONY : uml\B.s
+uml-inheritance\B.s: uml-inheritance\B.cpp.s
+.PHONY : uml-inheritance\B.s
 
 # target to generate assembly for a file
-uml\B.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml\B.cpp.s
-.PHONY : uml\B.cpp.s
+uml-inheritance\B.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml-inheritance\B.cpp.s
+.PHONY : uml-inheritance\B.cpp.s
 
-uml\C.obj: uml\C.cpp.obj
-.PHONY : uml\C.obj
+uml-inheritance\C.obj: uml-inheritance\C.cpp.obj
+.PHONY : uml-inheritance\C.obj
 
 # target to build an object file
-uml\C.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml\C.cpp.obj
-.PHONY : uml\C.cpp.obj
+uml-inheritance\C.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml-inheritance\C.cpp.obj
+.PHONY : uml-inheritance\C.cpp.obj
 
-uml\C.i: uml\C.cpp.i
-.PHONY : uml\C.i
+uml-inheritance\C.i: uml-inheritance\C.cpp.i
+.PHONY : uml-inheritance\C.i
 
 # target to preprocess a source file
-uml\C.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml\C.cpp.i
-.PHONY : uml\C.cpp.i
+uml-inheritance\C.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml-inheritance\C.cpp.i
+.PHONY : uml-inheritance\C.cpp.i
 
-uml\C.s: uml\C.cpp.s
-.PHONY : uml\C.s
+uml-inheritance\C.s: uml-inheritance\C.cpp.s
+.PHONY : uml-inheritance\C.s
 
 # target to generate assembly for a file
-uml\C.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml\C.cpp.s
-.PHONY : uml\C.cpp.s
+uml-inheritance\C.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml-inheritance\C.cpp.s
+.PHONY : uml-inheritance\C.cpp.s
 
-uml\D.obj: uml\D.cpp.obj
-.PHONY : uml\D.obj
+uml-inheritance\D.obj: uml-inheritance\D.cpp.obj
+.PHONY : uml-inheritance\D.obj
 
 # target to build an object file
-uml\D.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml\D.cpp.obj
-.PHONY : uml\D.cpp.obj
+uml-inheritance\D.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml-inheritance\D.cpp.obj
+.PHONY : uml-inheritance\D.cpp.obj
 
-uml\D.i: uml\D.cpp.i
-.PHONY : uml\D.i
+uml-inheritance\D.i: uml-inheritance\D.cpp.i
+.PHONY : uml-inheritance\D.i
 
 # target to preprocess a source file
-uml\D.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml\D.cpp.i
-.PHONY : uml\D.cpp.i
+uml-inheritance\D.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml-inheritance\D.cpp.i
+.PHONY : uml-inheritance\D.cpp.i
 
-uml\D.s: uml\D.cpp.s
-.PHONY : uml\D.s
+uml-inheritance\D.s: uml-inheritance\D.cpp.s
+.PHONY : uml-inheritance\D.s
 
 # target to generate assembly for a file
-uml\D.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml\D.cpp.s
-.PHONY : uml\D.cpp.s
+uml-inheritance\D.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml-inheritance\D.cpp.s
+.PHONY : uml-inheritance\D.cpp.s
 
-uml\Main.obj: uml\Main.cpp.obj
-.PHONY : uml\Main.obj
+uml-inheritance\Main.obj: uml-inheritance\Main.cpp.obj
+.PHONY : uml-inheritance\Main.obj
 
 # target to build an object file
-uml\Main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml\Main.cpp.obj
-.PHONY : uml\Main.cpp.obj
+uml-inheritance\Main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml-inheritance\Main.cpp.obj
+.PHONY : uml-inheritance\Main.cpp.obj
 
-uml\Main.i: uml\Main.cpp.i
-.PHONY : uml\Main.i
+uml-inheritance\Main.i: uml-inheritance\Main.cpp.i
+.PHONY : uml-inheritance\Main.i
 
 # target to preprocess a source file
-uml\Main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml\Main.cpp.i
-.PHONY : uml\Main.cpp.i
+uml-inheritance\Main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml-inheritance\Main.cpp.i
+.PHONY : uml-inheritance\Main.cpp.i
 
-uml\Main.s: uml\Main.cpp.s
-.PHONY : uml\Main.s
+uml-inheritance\Main.s: uml-inheritance\Main.cpp.s
+.PHONY : uml-inheritance\Main.s
 
 # target to generate assembly for a file
-uml\Main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml\Main.cpp.s
-.PHONY : uml\Main.cpp.s
+uml-inheritance\Main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\uml-inheritance\Main.cpp.s
+.PHONY : uml-inheritance\Main.cpp.s
 
 # Help Target
 help:
@@ -547,45 +547,45 @@ help:
 	@echo ... getting-started/main.obj
 	@echo ... getting-started/main.i
 	@echo ... getting-started/main.s
+	@echo ... math-expression-parser/Main.obj
+	@echo ... math-expression-parser/Main.i
+	@echo ... math-expression-parser/Main.s
 	@echo ... memory-stack/Main.obj
 	@echo ... memory-stack/Main.i
 	@echo ... memory-stack/Main.s
-	@echo ... parser/Main.obj
-	@echo ... parser/Main.i
-	@echo ... parser/Main.s
-	@echo ... singleton/Main.obj
-	@echo ... singleton/Main.i
-	@echo ... singleton/Main.s
-	@echo ... singleton/Singleton.obj
-	@echo ... singleton/Singleton.i
-	@echo ... singleton/Singleton.s
+	@echo ... singleton-pattern/Main.obj
+	@echo ... singleton-pattern/Main.i
+	@echo ... singleton-pattern/Main.s
+	@echo ... singleton-pattern/Singleton.obj
+	@echo ... singleton-pattern/Singleton.i
+	@echo ... singleton-pattern/Singleton.s
 	@echo ... socket-programming/Main.obj
 	@echo ... socket-programming/Main.i
 	@echo ... socket-programming/Main.s
-	@echo ... sololearn/basics.obj
-	@echo ... sololearn/basics.i
-	@echo ... sololearn/basics.s
-	@echo ... stack/Main.obj
-	@echo ... stack/Main.i
-	@echo ... stack/Main.s
-	@echo ... stack/Stack.obj
-	@echo ... stack/Stack.i
-	@echo ... stack/Stack.s
-	@echo ... uml/A.obj
-	@echo ... uml/A.i
-	@echo ... uml/A.s
-	@echo ... uml/B.obj
-	@echo ... uml/B.i
-	@echo ... uml/B.s
-	@echo ... uml/C.obj
-	@echo ... uml/C.i
-	@echo ... uml/C.s
-	@echo ... uml/D.obj
-	@echo ... uml/D.i
-	@echo ... uml/D.s
-	@echo ... uml/Main.obj
-	@echo ... uml/Main.i
-	@echo ... uml/Main.s
+	@echo ... sololearn-course/basics.obj
+	@echo ... sololearn-course/basics.i
+	@echo ... sololearn-course/basics.s
+	@echo ... stack-data-structure/Main.obj
+	@echo ... stack-data-structure/Main.i
+	@echo ... stack-data-structure/Main.s
+	@echo ... stack-data-structure/Stack.obj
+	@echo ... stack-data-structure/Stack.i
+	@echo ... stack-data-structure/Stack.s
+	@echo ... uml-inheritance/A.obj
+	@echo ... uml-inheritance/A.i
+	@echo ... uml-inheritance/A.s
+	@echo ... uml-inheritance/B.obj
+	@echo ... uml-inheritance/B.i
+	@echo ... uml-inheritance/B.s
+	@echo ... uml-inheritance/C.obj
+	@echo ... uml-inheritance/C.i
+	@echo ... uml-inheritance/C.s
+	@echo ... uml-inheritance/D.obj
+	@echo ... uml-inheritance/D.i
+	@echo ... uml-inheritance/D.s
+	@echo ... uml-inheritance/Main.obj
+	@echo ... uml-inheritance/Main.i
+	@echo ... uml-inheritance/Main.s
 .PHONY : help
 
 

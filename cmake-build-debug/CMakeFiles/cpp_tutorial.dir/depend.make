@@ -11,46 +11,46 @@ CMakeFiles\cpp_tutorial.dir\getting-started\linker-error.cpp.obj: ..\getting-sta
 
 CMakeFiles\cpp_tutorial.dir\getting-started\main.cpp.obj: ..\getting-started\main.cpp
 
+CMakeFiles\cpp_tutorial.dir\math-expression-parser\Main.cpp.obj: ..\math-expression-parser\Main.cpp
+
 CMakeFiles\cpp_tutorial.dir\memory-stack\Main.cpp.obj: ..\memory-stack\Main.cpp
 
-CMakeFiles\cpp_tutorial.dir\parser\Main.cpp.obj: ..\parser\Main.cpp
+CMakeFiles\cpp_tutorial.dir\singleton-pattern\Main.cpp.obj: ..\singleton-pattern\Main.cpp
+CMakeFiles\cpp_tutorial.dir\singleton-pattern\Main.cpp.obj: ..\singleton-pattern\Singleton.h
 
-CMakeFiles\cpp_tutorial.dir\singleton\Main.cpp.obj: ..\singleton\Main.cpp
-CMakeFiles\cpp_tutorial.dir\singleton\Main.cpp.obj: ..\singleton\Singleton.h
-
-CMakeFiles\cpp_tutorial.dir\singleton\Singleton.cpp.obj: ..\singleton\Singleton.cpp
-CMakeFiles\cpp_tutorial.dir\singleton\Singleton.cpp.obj: ..\singleton\Singleton.h
+CMakeFiles\cpp_tutorial.dir\singleton-pattern\Singleton.cpp.obj: ..\singleton-pattern\Singleton.cpp
+CMakeFiles\cpp_tutorial.dir\singleton-pattern\Singleton.cpp.obj: ..\singleton-pattern\Singleton.h
 
 CMakeFiles\cpp_tutorial.dir\socket-programming\Main.cpp.obj: ..\socket-programming\Main.cpp
 
-CMakeFiles\cpp_tutorial.dir\sololearn\basics.cpp.obj: ..\sololearn\basics.cpp
+CMakeFiles\cpp_tutorial.dir\sololearn-course\basics.cpp.obj: ..\sololearn-course\basics.cpp
 
-CMakeFiles\cpp_tutorial.dir\stack\Main.cpp.obj: ..\stack\Main.cpp
-CMakeFiles\cpp_tutorial.dir\stack\Main.cpp.obj: ..\stack\Stack.h
+CMakeFiles\cpp_tutorial.dir\stack-data-structure\Main.cpp.obj: ..\stack-data-structure\Main.cpp
+CMakeFiles\cpp_tutorial.dir\stack-data-structure\Main.cpp.obj: ..\stack-data-structure\Stack.h
 
-CMakeFiles\cpp_tutorial.dir\stack\Stack.cpp.obj: ..\stack\Stack.cpp
-CMakeFiles\cpp_tutorial.dir\stack\Stack.cpp.obj: ..\stack\Stack.h
+CMakeFiles\cpp_tutorial.dir\stack-data-structure\Stack.cpp.obj: ..\stack-data-structure\Stack.cpp
+CMakeFiles\cpp_tutorial.dir\stack-data-structure\Stack.cpp.obj: ..\stack-data-structure\Stack.h
 
-CMakeFiles\cpp_tutorial.dir\uml\A.cpp.obj: ..\uml\A.cpp
-CMakeFiles\cpp_tutorial.dir\uml\A.cpp.obj: ..\uml\A.h
+CMakeFiles\cpp_tutorial.dir\uml-inheritance\A.cpp.obj: ..\uml-inheritance\A.cpp
+CMakeFiles\cpp_tutorial.dir\uml-inheritance\A.cpp.obj: ..\uml-inheritance\A.h
 
-CMakeFiles\cpp_tutorial.dir\uml\B.cpp.obj: ..\uml\A.h
-CMakeFiles\cpp_tutorial.dir\uml\B.cpp.obj: ..\uml\B.cpp
-CMakeFiles\cpp_tutorial.dir\uml\B.cpp.obj: ..\uml\B.h
+CMakeFiles\cpp_tutorial.dir\uml-inheritance\B.cpp.obj: ..\uml-inheritance\A.h
+CMakeFiles\cpp_tutorial.dir\uml-inheritance\B.cpp.obj: ..\uml-inheritance\B.cpp
+CMakeFiles\cpp_tutorial.dir\uml-inheritance\B.cpp.obj: ..\uml-inheritance\B.h
 
-CMakeFiles\cpp_tutorial.dir\uml\C.cpp.obj: ..\uml\A.h
-CMakeFiles\cpp_tutorial.dir\uml\C.cpp.obj: ..\uml\C.cpp
-CMakeFiles\cpp_tutorial.dir\uml\C.cpp.obj: ..\uml\C.h
+CMakeFiles\cpp_tutorial.dir\uml-inheritance\C.cpp.obj: ..\uml-inheritance\A.h
+CMakeFiles\cpp_tutorial.dir\uml-inheritance\C.cpp.obj: ..\uml-inheritance\C.cpp
+CMakeFiles\cpp_tutorial.dir\uml-inheritance\C.cpp.obj: ..\uml-inheritance\C.h
 
-CMakeFiles\cpp_tutorial.dir\uml\D.cpp.obj: ..\uml\A.h
-CMakeFiles\cpp_tutorial.dir\uml\D.cpp.obj: ..\uml\B.h
-CMakeFiles\cpp_tutorial.dir\uml\D.cpp.obj: ..\uml\C.h
-CMakeFiles\cpp_tutorial.dir\uml\D.cpp.obj: ..\uml\D.cpp
-CMakeFiles\cpp_tutorial.dir\uml\D.cpp.obj: ..\uml\D.h
+CMakeFiles\cpp_tutorial.dir\uml-inheritance\D.cpp.obj: ..\uml-inheritance\A.h
+CMakeFiles\cpp_tutorial.dir\uml-inheritance\D.cpp.obj: ..\uml-inheritance\B.h
+CMakeFiles\cpp_tutorial.dir\uml-inheritance\D.cpp.obj: ..\uml-inheritance\C.h
+CMakeFiles\cpp_tutorial.dir\uml-inheritance\D.cpp.obj: ..\uml-inheritance\D.cpp
+CMakeFiles\cpp_tutorial.dir\uml-inheritance\D.cpp.obj: ..\uml-inheritance\D.h
 
-CMakeFiles\cpp_tutorial.dir\uml\Main.cpp.obj: ..\uml\A.h
-CMakeFiles\cpp_tutorial.dir\uml\Main.cpp.obj: ..\uml\B.h
-CMakeFiles\cpp_tutorial.dir\uml\Main.cpp.obj: ..\uml\C.h
-CMakeFiles\cpp_tutorial.dir\uml\Main.cpp.obj: ..\uml\D.h
-CMakeFiles\cpp_tutorial.dir\uml\Main.cpp.obj: ..\uml\Main.cpp
+CMakeFiles\cpp_tutorial.dir\uml-inheritance\Main.cpp.obj: ..\uml-inheritance\A.h
+CMakeFiles\cpp_tutorial.dir\uml-inheritance\Main.cpp.obj: ..\uml-inheritance\B.h
+CMakeFiles\cpp_tutorial.dir\uml-inheritance\Main.cpp.obj: ..\uml-inheritance\C.h
+CMakeFiles\cpp_tutorial.dir\uml-inheritance\Main.cpp.obj: ..\uml-inheritance\D.h
+CMakeFiles\cpp_tutorial.dir\uml-inheritance\Main.cpp.obj: ..\uml-inheritance\Main.cpp
 

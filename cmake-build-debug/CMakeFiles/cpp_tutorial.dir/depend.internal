@@ -11,46 +11,46 @@ CMakeFiles/cpp_tutorial.dir/getting-started/linker-error.cpp.obj
  D:/cpp-tutorial/getting-started/linker-error.cpp
 CMakeFiles/cpp_tutorial.dir/getting-started/main.cpp.obj
  D:/cpp-tutorial/getting-started/main.cpp
+CMakeFiles/cpp_tutorial.dir/math-expression-parser/Main.cpp.obj
+ D:/cpp-tutorial/math-expression-parser/Main.cpp
 CMakeFiles/cpp_tutorial.dir/memory-stack/Main.cpp.obj
  D:/cpp-tutorial/memory-stack/Main.cpp
-CMakeFiles/cpp_tutorial.dir/parser/Main.cpp.obj
- D:/cpp-tutorial/parser/Main.cpp
-CMakeFiles/cpp_tutorial.dir/singleton/Main.cpp.obj
- D:/cpp-tutorial/singleton/Main.cpp
- D:/cpp-tutorial/singleton/Singleton.h
-CMakeFiles/cpp_tutorial.dir/singleton/Singleton.cpp.obj
- D:/cpp-tutorial/singleton/Singleton.cpp
- D:/cpp-tutorial/singleton/Singleton.h
+CMakeFiles/cpp_tutorial.dir/singleton-pattern/Main.cpp.obj
+ D:/cpp-tutorial/singleton-pattern/Main.cpp
+ D:/cpp-tutorial/singleton-pattern/Singleton.h
+CMakeFiles/cpp_tutorial.dir/singleton-pattern/Singleton.cpp.obj
+ D:/cpp-tutorial/singleton-pattern/Singleton.cpp
+ D:/cpp-tutorial/singleton-pattern/Singleton.h
 CMakeFiles/cpp_tutorial.dir/socket-programming/Main.cpp.obj
  D:/cpp-tutorial/socket-programming/Main.cpp
-CMakeFiles/cpp_tutorial.dir/sololearn/basics.cpp.obj
- D:/cpp-tutorial/sololearn/basics.cpp
-CMakeFiles/cpp_tutorial.dir/stack/Main.cpp.obj
- D:/cpp-tutorial/stack/Main.cpp
- D:/cpp-tutorial/stack/Stack.h
-CMakeFiles/cpp_tutorial.dir/stack/Stack.cpp.obj
- D:/cpp-tutorial/stack/Stack.cpp
- D:/cpp-tutorial/stack/Stack.h
-CMakeFiles/cpp_tutorial.dir/uml/A.cpp.obj
- D:/cpp-tutorial/uml/A.cpp
- D:/cpp-tutorial/uml/A.h
-CMakeFiles/cpp_tutorial.dir/uml/B.cpp.obj
- D:/cpp-tutorial/uml/A.h
- D:/cpp-tutorial/uml/B.cpp
- D:/cpp-tutorial/uml/B.h
-CMakeFiles/cpp_tutorial.dir/uml/C.cpp.obj
- D:/cpp-tutorial/uml/A.h
- D:/cpp-tutorial/uml/C.cpp
- D:/cpp-tutorial/uml/C.h
-CMakeFiles/cpp_tutorial.dir/uml/D.cpp.obj
- D:/cpp-tutorial/uml/A.h
- D:/cpp-tutorial/uml/B.h
- D:/cpp-tutorial/uml/C.h
- D:/cpp-tutorial/uml/D.cpp
- D:/cpp-tutorial/uml/D.h
-CMakeFiles/cpp_tutorial.dir/uml/Main.cpp.obj
- D:/cpp-tutorial/uml/A.h
- D:/cpp-tutorial/uml/B.h
- D:/cpp-tutorial/uml/C.h
- D:/cpp-tutorial/uml/D.h
- D:/cpp-tutorial/uml/Main.cpp
+CMakeFiles/cpp_tutorial.dir/sololearn-course/basics.cpp.obj
+ D:/cpp-tutorial/sololearn-course/basics.cpp
+CMakeFiles/cpp_tutorial.dir/stack-data-structure/Main.cpp.obj
+ D:/cpp-tutorial/stack-data-structure/Main.cpp
+ D:/cpp-tutorial/stack-data-structure/Stack.h
+CMakeFiles/cpp_tutorial.dir/stack-data-structure/Stack.cpp.obj
+ D:/cpp-tutorial/stack-data-structure/Stack.cpp
+ D:/cpp-tutorial/stack-data-structure/Stack.h
+CMakeFiles/cpp_tutorial.dir/uml-inheritance/A.cpp.obj
+ D:/cpp-tutorial/uml-inheritance/A.cpp
+ D:/cpp-tutorial/uml-inheritance/A.h
+CMakeFiles/cpp_tutorial.dir/uml-inheritance/B.cpp.obj
+ D:/cpp-tutorial/uml-inheritance/A.h
+ D:/cpp-tutorial/uml-inheritance/B.cpp
+ D:/cpp-tutorial/uml-inheritance/B.h
+CMakeFiles/cpp_tutorial.dir/uml-inheritance/C.cpp.obj
+ D:/cpp-tutorial/uml-inheritance/A.h
+ D:/cpp-tutorial/uml-inheritance/C.cpp
+ D:/cpp-tutorial/uml-inheritance/C.h
+CMakeFiles/cpp_tutorial.dir/uml-inheritance/D.cpp.obj
+ D:/cpp-tutorial/uml-inheritance/A.h
+ D:/cpp-tutorial/uml-inheritance/B.h
+ D:/cpp-tutorial/uml-inheritance/C.h
+ D:/cpp-tutorial/uml-inheritance/D.cpp
+ D:/cpp-tutorial/uml-inheritance/D.h
+CMakeFiles/cpp_tutorial.dir/uml-inheritance/Main.cpp.obj
+ D:/cpp-tutorial/uml-inheritance/A.h
+ D:/cpp-tutorial/uml-inheritance/B.h
+ D:/cpp-tutorial/uml-inheritance/C.h
+ D:/cpp-tutorial/uml-inheritance/D.h
+ D:/cpp-tutorial/uml-inheritance/Main.cpp
