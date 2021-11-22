@@ -6,14 +6,14 @@
 
 #include "A.h"
 
-void A::run() {
-    std::cout << "A" << std::endl;
-}
-
 A::A() {
     A::x = 0;
     std::cout << "A Constructor" << std::endl;
 };
+
+void A::run() {
+    std::cout << "A" << std::endl;
+}
 
 A::~A() {
     std::cout << "A Destructor" << std::endl;

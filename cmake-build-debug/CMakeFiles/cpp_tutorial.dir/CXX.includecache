@@ -6,15 +6,7 @@
 
 #IncludeRegexTransform: 
 
-D:/cpp-tutorial/memory-stack/Main.cpp
-iostream
--
-
 D:/cpp-tutorial/stack/Main.cpp
-Stack.h
-D:/cpp-tutorial/stack/Stack.h
-
-D:/cpp-tutorial/stack/Stack.cpp
 iostream
 -
 Stack.h
