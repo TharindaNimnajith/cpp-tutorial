@@ -4,7 +4,7 @@
 
 #include "D.h"
 
-int main() {
+int main8() {
     D *d = new D();
     //d->run(); // non-static member 'run' found in multiple base-class subobjects of type 'A'
     d->B::run();

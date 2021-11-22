@@ -11,6 +11,8 @@ CMakeFiles/cpp_tutorial.dir/getting-started/linker-error.cpp.obj
  D:/cpp-tutorial/getting-started/linker-error.cpp
 CMakeFiles/cpp_tutorial.dir/getting-started/main.cpp.obj
  D:/cpp-tutorial/getting-started/main.cpp
+CMakeFiles/cpp_tutorial.dir/memory-stack/Main.cpp.obj
+ D:/cpp-tutorial/memory-stack/Main.cpp
 CMakeFiles/cpp_tutorial.dir/singleton/Main.cpp.obj
  D:/cpp-tutorial/singleton/Main.cpp
  D:/cpp-tutorial/singleton/Singleton.h
@@ -19,6 +21,12 @@ CMakeFiles/cpp_tutorial.dir/singleton/Singleton.cpp.obj
  D:/cpp-tutorial/singleton/Singleton.h
 CMakeFiles/cpp_tutorial.dir/sololearn/basics.cpp.obj
  D:/cpp-tutorial/sololearn/basics.cpp
+CMakeFiles/cpp_tutorial.dir/stack/Main.cpp.obj
+ D:/cpp-tutorial/stack/Main.cpp
+ D:/cpp-tutorial/stack/Stack.h
+CMakeFiles/cpp_tutorial.dir/stack/Stack.cpp.obj
+ D:/cpp-tutorial/stack/Stack.cpp
+ D:/cpp-tutorial/stack/Stack.h
 CMakeFiles/cpp_tutorial.dir/uml/A.cpp.obj
  D:/cpp-tutorial/uml/A.cpp
  D:/cpp-tutorial/uml/A.h
