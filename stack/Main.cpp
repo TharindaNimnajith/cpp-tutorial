@@ -12,6 +12,7 @@ int main() {
 
     stack->pop();
     stack->getTop();
+    stack->print();
 
     int i = 10;
     while (!stack->isFull()) {
@@ -20,12 +21,14 @@ int main() {
         i += 10;
     }
     stack->push(50);
+    stack->print();
 
     while (!stack->isEmpty()) {
         stack->pop();
         stack->getTop();
     }
     stack->pop();
+    stack->print();
 
     return 0;
 }

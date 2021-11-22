@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-D:/cpp-tutorial/stack/Main.cpp
+D:/cpp-tutorial/stack/Stack.cpp
 iostream
 -
 Stack.h

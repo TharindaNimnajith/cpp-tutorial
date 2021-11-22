@@ -12,18 +12,19 @@ Stack::Stack() {
 }
 
 bool Stack::push(int x) {
-    if (Stack::isFull())
-        return false;
-    else
+    if (!Stack::isFull()) {
         Stack::stack[++top] = x;
-    return true;
+        return true;
+    }
+    std::cout << "Stack is Full" << std::endl;
+    return false;
 }
 
 int Stack::pop() {
-    if (Stack::isEmpty())
-        return 0;
-    else
+    if (!Stack::isEmpty())
         return Stack::stack[top--];
+    std::cout << "Stack is Empty" << std::endl;
+    return 0;
 }
 
 void Stack::getTop() const {
@@ -31,22 +32,26 @@ void Stack::getTop() const {
 }
 
 void Stack::print() {
-    std::cout << Stack::stack << std::endl;
+    if (isEmpty())
+        return;
+    int temp = Stack::top;
+    while (temp > -1) {
+        std::cout << Stack::stack[temp--];
+        if (temp > -1)
+            std::cout << ", ";
+    }
+    std::cout << std::endl;
 }
 
 bool Stack::isEmpty() const {
-    if (Stack::top < 0) {
-        std::cout << "Stack is Empty" << std::endl;
+    if (Stack::top < 0)
         return true;
-    }
     return false;
 }
 
 bool Stack::isFull() const {
-    if (Stack::top >= (MAX - 1)) {
-        std::cout << "Stack is Full" << std::endl;
+    if (Stack::top >= (MAX - 1))
         return true;
-    }
     return false;
 }
 
