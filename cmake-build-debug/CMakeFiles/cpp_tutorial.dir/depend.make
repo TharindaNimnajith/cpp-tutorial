@@ -7,9 +7,9 @@ CMakeFiles\cpp_tutorial.dir\clion-test\Employee.cpp.obj: ..\clion-test\Employee.
 CMakeFiles\cpp_tutorial.dir\clion-test\Student.cpp.obj: ..\clion-test\Student.cpp
 CMakeFiles\cpp_tutorial.dir\clion-test\Student.cpp.obj: ..\clion-test\Student.h
 
-CMakeFiles\cpp_tutorial.dir\getting-started\linker-error.cpp.obj: ..\getting-started\linker-error.cpp
+CMakeFiles\cpp_tutorial.dir\getting-started\LinkerError.cpp.obj: ..\getting-started\LinkerError.cpp
 
-CMakeFiles\cpp_tutorial.dir\getting-started\main.cpp.obj: ..\getting-started\main.cpp
+CMakeFiles\cpp_tutorial.dir\getting-started\Main.cpp.obj: ..\getting-started\Main.cpp
 
 CMakeFiles\cpp_tutorial.dir\math-expression-parser\Main.cpp.obj: ..\math-expression-parser\Main.cpp
 
@@ -21,15 +21,15 @@ CMakeFiles\cpp_tutorial.dir\singleton-pattern\Main.cpp.obj: ..\singleton-pattern
 CMakeFiles\cpp_tutorial.dir\singleton-pattern\Singleton.cpp.obj: ..\singleton-pattern\Singleton.cpp
 CMakeFiles\cpp_tutorial.dir\singleton-pattern\Singleton.cpp.obj: ..\singleton-pattern\Singleton.h
 
-CMakeFiles\cpp_tutorial.dir\socket-programming\client.cpp.obj: ..\socket-programming\client.cpp
+CMakeFiles\cpp_tutorial.dir\socket-programming\Client.cpp.obj: ..\socket-programming\Client.cpp
+
+CMakeFiles\cpp_tutorial.dir\socket-programming\Server.cpp.obj: ..\socket-programming\Server.cpp
 
 CMakeFiles\cpp_tutorial.dir\socket-programming\notes\Client.cpp.obj: ..\socket-programming\notes\Client.cpp
 
 CMakeFiles\cpp_tutorial.dir\socket-programming\notes\Server.cpp.obj: ..\socket-programming\notes\Server.cpp
 
-CMakeFiles\cpp_tutorial.dir\socket-programming\server.cpp.obj: ..\socket-programming\server.cpp
-
-CMakeFiles\cpp_tutorial.dir\sololearn-course\basics.cpp.obj: ..\sololearn-course\basics.cpp
+CMakeFiles\cpp_tutorial.dir\sololearn-course\Basics.cpp.obj: ..\sololearn-course\Basics.cpp
 
 CMakeFiles\cpp_tutorial.dir\stack-data-structure\Main.cpp.obj: ..\stack-data-structure\Main.cpp
 CMakeFiles\cpp_tutorial.dir\stack-data-structure\Main.cpp.obj: ..\stack-data-structure\Stack.h

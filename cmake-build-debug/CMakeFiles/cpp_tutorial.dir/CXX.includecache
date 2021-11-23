@@ -6,7 +6,31 @@
 
 #IncludeRegexTransform: 
 
-D:/cpp-tutorial/socket-programming/client.cpp
+D:/cpp-tutorial/clion-test/Employee.cpp
+Employee.h
+D:/cpp-tutorial/clion-test/Employee.h
 
-D:/cpp-tutorial/socket-programming/server.cpp
+D:/cpp-tutorial/clion-test/Employee.h
+
+D:/cpp-tutorial/clion-test/Student.cpp
+Student.h
+D:/cpp-tutorial/clion-test/Student.h
+
+D:/cpp-tutorial/clion-test/Student.h
+
+D:/cpp-tutorial/getting-started/LinkerError.cpp
+iostream
+-
+
+D:/cpp-tutorial/getting-started/Main.cpp
+iostream
+-
+
+D:/cpp-tutorial/socket-programming/Client.cpp
+
+D:/cpp-tutorial/socket-programming/Server.cpp
+
+D:/cpp-tutorial/sololearn-course/Basics.cpp
+iostream
+-
 

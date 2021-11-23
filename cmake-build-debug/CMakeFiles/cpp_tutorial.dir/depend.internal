@@ -7,10 +7,10 @@ CMakeFiles/cpp_tutorial.dir/clion-test/Employee.cpp.obj
 CMakeFiles/cpp_tutorial.dir/clion-test/Student.cpp.obj
  D:/cpp-tutorial/clion-test/Student.cpp
  D:/cpp-tutorial/clion-test/Student.h
-CMakeFiles/cpp_tutorial.dir/getting-started/linker-error.cpp.obj
- D:/cpp-tutorial/getting-started/linker-error.cpp
-CMakeFiles/cpp_tutorial.dir/getting-started/main.cpp.obj
- D:/cpp-tutorial/getting-started/main.cpp
+CMakeFiles/cpp_tutorial.dir/getting-started/LinkerError.cpp.obj
+ D:/cpp-tutorial/getting-started/LinkerError.cpp
+CMakeFiles/cpp_tutorial.dir/getting-started/Main.cpp.obj
+ D:/cpp-tutorial/getting-started/Main.cpp
 CMakeFiles/cpp_tutorial.dir/math-expression-parser/Main.cpp.obj
  D:/cpp-tutorial/math-expression-parser/Main.cpp
 CMakeFiles/cpp_tutorial.dir/memory-stack/Main.cpp.obj
@@ -21,16 +21,16 @@ CMakeFiles/cpp_tutorial.dir/singleton-pattern/Main.cpp.obj
 CMakeFiles/cpp_tutorial.dir/singleton-pattern/Singleton.cpp.obj
  D:/cpp-tutorial/singleton-pattern/Singleton.cpp
  D:/cpp-tutorial/singleton-pattern/Singleton.h
-CMakeFiles/cpp_tutorial.dir/socket-programming/client.cpp.obj
- D:/cpp-tutorial/socket-programming/client.cpp
+CMakeFiles/cpp_tutorial.dir/socket-programming/Client.cpp.obj
+ D:/cpp-tutorial/socket-programming/Client.cpp
+CMakeFiles/cpp_tutorial.dir/socket-programming/Server.cpp.obj
+ D:/cpp-tutorial/socket-programming/Server.cpp
 CMakeFiles/cpp_tutorial.dir/socket-programming/notes/Client.cpp.obj
  D:/cpp-tutorial/socket-programming/notes/Client.cpp
 CMakeFiles/cpp_tutorial.dir/socket-programming/notes/Server.cpp.obj
  D:/cpp-tutorial/socket-programming/notes/Server.cpp
-CMakeFiles/cpp_tutorial.dir/socket-programming/server.cpp.obj
- D:/cpp-tutorial/socket-programming/server.cpp
-CMakeFiles/cpp_tutorial.dir/sololearn-course/basics.cpp.obj
- D:/cpp-tutorial/sololearn-course/basics.cpp
+CMakeFiles/cpp_tutorial.dir/sololearn-course/Basics.cpp.obj
+ D:/cpp-tutorial/sololearn-course/Basics.cpp
 CMakeFiles/cpp_tutorial.dir/stack-data-structure/Main.cpp.obj
  D:/cpp-tutorial/stack-data-structure/Main.cpp
  D:/cpp-tutorial/stack-data-structure/Stack.h
