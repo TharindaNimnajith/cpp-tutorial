@@ -11,7 +11,7 @@
 //
 //#define PORT 8080
 //
-//int main00(int argc, char const *argv[]) {
+//int main(int argc, char const *argv[]) {
 //    int sock = 0, valread;
 //    struct sockaddr_in serv_addr;
 //    char *hello = "Hello from client";

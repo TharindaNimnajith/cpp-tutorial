@@ -7,24 +7,6 @@
 #IncludeRegexTransform: 
 
 D:/cpp-tutorial/socket-programming/client.cpp
-iostream
--
-boost/array.hpp
--
-boost/asio.hpp
--
-
-D:/cpp-tutorial/socket-programming/notes/Client.cpp
-
-D:/cpp-tutorial/socket-programming/notes/Server.cpp
 
 D:/cpp-tutorial/socket-programming/server.cpp
-ctime
--
-iostream
--
-string
--
-boost/asio.hpp
--
 
