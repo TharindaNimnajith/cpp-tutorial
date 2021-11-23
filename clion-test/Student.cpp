@@ -3,3 +3,7 @@
 //
 
 #include "Student.h"
+
+Student::Student() = default;
+
+Student::~Student() = default;

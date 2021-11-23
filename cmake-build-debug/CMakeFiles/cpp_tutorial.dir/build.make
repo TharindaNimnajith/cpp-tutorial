@@ -55,42 +55,42 @@ include CMakeFiles\cpp_tutorial.dir\progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles\cpp_tutorial.dir\flags.make
 
-CMakeFiles\cpp_tutorial.dir\getting-started\linker-error.cpp.obj: CMakeFiles\cpp_tutorial.dir\flags.make
-CMakeFiles\cpp_tutorial.dir\getting-started\linker-error.cpp.obj: ..\getting-started\linker-error.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cpp-tutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/cpp_tutorial.dir/getting-started/linker-error.cpp.obj"
+CMakeFiles\cpp_tutorial.dir\getting-started\LinkerError.cpp.obj: CMakeFiles\cpp_tutorial.dir\flags.make
+CMakeFiles\cpp_tutorial.dir\getting-started\LinkerError.cpp.obj: ..\getting-started\LinkerError.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cpp-tutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/cpp_tutorial.dir/getting-started/LinkerError.cpp.obj"
 	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\cpp_tutorial.dir\getting-started\linker-error.cpp.obj /FdCMakeFiles\cpp_tutorial.dir\ /FS -c D:\cpp-tutorial\getting-started\linker-error.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\cpp_tutorial.dir\getting-started\LinkerError.cpp.obj /FdCMakeFiles\cpp_tutorial.dir\ /FS -c D:\cpp-tutorial\getting-started\LinkerError.cpp
 <<
 
-CMakeFiles\cpp_tutorial.dir\getting-started\linker-error.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_tutorial.dir/getting-started/linker-error.cpp.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\cpp_tutorial.dir\getting-started\linker-error.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cpp-tutorial\getting-started\linker-error.cpp
+CMakeFiles\cpp_tutorial.dir\getting-started\LinkerError.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_tutorial.dir/getting-started/LinkerError.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\cpp_tutorial.dir\getting-started\LinkerError.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cpp-tutorial\getting-started\LinkerError.cpp
 <<
 
-CMakeFiles\cpp_tutorial.dir\getting-started\linker-error.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_tutorial.dir/getting-started/linker-error.cpp.s"
+CMakeFiles\cpp_tutorial.dir\getting-started\LinkerError.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_tutorial.dir/getting-started/LinkerError.cpp.s"
 	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\cpp_tutorial.dir\getting-started\linker-error.cpp.s /c D:\cpp-tutorial\getting-started\linker-error.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\cpp_tutorial.dir\getting-started\LinkerError.cpp.s /c D:\cpp-tutorial\getting-started\LinkerError.cpp
 <<
 
-CMakeFiles\cpp_tutorial.dir\getting-started\main.cpp.obj: CMakeFiles\cpp_tutorial.dir\flags.make
-CMakeFiles\cpp_tutorial.dir\getting-started\main.cpp.obj: ..\getting-started\main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cpp-tutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/cpp_tutorial.dir/getting-started/main.cpp.obj"
+CMakeFiles\cpp_tutorial.dir\getting-started\Main.cpp.obj: CMakeFiles\cpp_tutorial.dir\flags.make
+CMakeFiles\cpp_tutorial.dir\getting-started\Main.cpp.obj: ..\getting-started\Main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cpp-tutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/cpp_tutorial.dir/getting-started/Main.cpp.obj"
 	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\cpp_tutorial.dir\getting-started\main.cpp.obj /FdCMakeFiles\cpp_tutorial.dir\ /FS -c D:\cpp-tutorial\getting-started\main.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\cpp_tutorial.dir\getting-started\Main.cpp.obj /FdCMakeFiles\cpp_tutorial.dir\ /FS -c D:\cpp-tutorial\getting-started\Main.cpp
 <<
 
-CMakeFiles\cpp_tutorial.dir\getting-started\main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_tutorial.dir/getting-started/main.cpp.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\cpp_tutorial.dir\getting-started\main.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cpp-tutorial\getting-started\main.cpp
+CMakeFiles\cpp_tutorial.dir\getting-started\Main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_tutorial.dir/getting-started/Main.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\cpp_tutorial.dir\getting-started\Main.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cpp-tutorial\getting-started\Main.cpp
 <<
 
-CMakeFiles\cpp_tutorial.dir\getting-started\main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_tutorial.dir/getting-started/main.cpp.s"
+CMakeFiles\cpp_tutorial.dir\getting-started\Main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_tutorial.dir/getting-started/Main.cpp.s"
 	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\cpp_tutorial.dir\getting-started\main.cpp.s /c D:\cpp-tutorial\getting-started\main.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\cpp_tutorial.dir\getting-started\Main.cpp.s /c D:\cpp-tutorial\getting-started\Main.cpp
 <<
 
 CMakeFiles\cpp_tutorial.dir\clion-test\Student.cpp.obj: CMakeFiles\cpp_tutorial.dir\flags.make
@@ -131,23 +131,23 @@ CMakeFiles\cpp_tutorial.dir\clion-test\Employee.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\cpp_tutorial.dir\clion-test\Employee.cpp.s /c D:\cpp-tutorial\clion-test\Employee.cpp
 <<
 
-CMakeFiles\cpp_tutorial.dir\sololearn-course\basics.cpp.obj: CMakeFiles\cpp_tutorial.dir\flags.make
-CMakeFiles\cpp_tutorial.dir\sololearn-course\basics.cpp.obj: ..\sololearn-course\basics.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cpp-tutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/cpp_tutorial.dir/sololearn-course/basics.cpp.obj"
+CMakeFiles\cpp_tutorial.dir\sololearn-course\Basics.cpp.obj: CMakeFiles\cpp_tutorial.dir\flags.make
+CMakeFiles\cpp_tutorial.dir\sololearn-course\Basics.cpp.obj: ..\sololearn-course\Basics.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cpp-tutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/cpp_tutorial.dir/sololearn-course/Basics.cpp.obj"
 	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\cpp_tutorial.dir\sololearn-course\basics.cpp.obj /FdCMakeFiles\cpp_tutorial.dir\ /FS -c D:\cpp-tutorial\sololearn-course\basics.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\cpp_tutorial.dir\sololearn-course\Basics.cpp.obj /FdCMakeFiles\cpp_tutorial.dir\ /FS -c D:\cpp-tutorial\sololearn-course\Basics.cpp
 <<
 
-CMakeFiles\cpp_tutorial.dir\sololearn-course\basics.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_tutorial.dir/sololearn-course/basics.cpp.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\cpp_tutorial.dir\sololearn-course\basics.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cpp-tutorial\sololearn-course\basics.cpp
+CMakeFiles\cpp_tutorial.dir\sololearn-course\Basics.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_tutorial.dir/sololearn-course/Basics.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\cpp_tutorial.dir\sololearn-course\Basics.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cpp-tutorial\sololearn-course\Basics.cpp
 <<
 
-CMakeFiles\cpp_tutorial.dir\sololearn-course\basics.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_tutorial.dir/sololearn-course/basics.cpp.s"
+CMakeFiles\cpp_tutorial.dir\sololearn-course\Basics.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_tutorial.dir/sololearn-course/Basics.cpp.s"
 	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\cpp_tutorial.dir\sololearn-course\basics.cpp.s /c D:\cpp-tutorial\sololearn-course\basics.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\cpp_tutorial.dir\sololearn-course\Basics.cpp.s /c D:\cpp-tutorial\sololearn-course\Basics.cpp
 <<
 
 CMakeFiles\cpp_tutorial.dir\singleton-pattern\Singleton.cpp.obj: CMakeFiles\cpp_tutorial.dir\flags.make
@@ -397,51 +397,51 @@ CMakeFiles\cpp_tutorial.dir\socket-programming\notes\Server.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\cpp_tutorial.dir\socket-programming\notes\Server.cpp.s /c D:\cpp-tutorial\socket-programming\notes\Server.cpp
 <<
 
-CMakeFiles\cpp_tutorial.dir\socket-programming\client.cpp.obj: CMakeFiles\cpp_tutorial.dir\flags.make
-CMakeFiles\cpp_tutorial.dir\socket-programming\client.cpp.obj: ..\socket-programming\client.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cpp-tutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/cpp_tutorial.dir/socket-programming/client.cpp.obj"
+CMakeFiles\cpp_tutorial.dir\socket-programming\Client.cpp.obj: CMakeFiles\cpp_tutorial.dir\flags.make
+CMakeFiles\cpp_tutorial.dir\socket-programming\Client.cpp.obj: ..\socket-programming\Client.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cpp-tutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/cpp_tutorial.dir/socket-programming/Client.cpp.obj"
 	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\cpp_tutorial.dir\socket-programming\client.cpp.obj /FdCMakeFiles\cpp_tutorial.dir\ /FS -c D:\cpp-tutorial\socket-programming\client.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\cpp_tutorial.dir\socket-programming\Client.cpp.obj /FdCMakeFiles\cpp_tutorial.dir\ /FS -c D:\cpp-tutorial\socket-programming\Client.cpp
 <<
 
-CMakeFiles\cpp_tutorial.dir\socket-programming\client.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_tutorial.dir/socket-programming/client.cpp.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\cpp_tutorial.dir\socket-programming\client.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cpp-tutorial\socket-programming\client.cpp
+CMakeFiles\cpp_tutorial.dir\socket-programming\Client.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_tutorial.dir/socket-programming/Client.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\cpp_tutorial.dir\socket-programming\Client.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cpp-tutorial\socket-programming\Client.cpp
 <<
 
-CMakeFiles\cpp_tutorial.dir\socket-programming\client.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_tutorial.dir/socket-programming/client.cpp.s"
+CMakeFiles\cpp_tutorial.dir\socket-programming\Client.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_tutorial.dir/socket-programming/Client.cpp.s"
 	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\cpp_tutorial.dir\socket-programming\client.cpp.s /c D:\cpp-tutorial\socket-programming\client.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\cpp_tutorial.dir\socket-programming\Client.cpp.s /c D:\cpp-tutorial\socket-programming\Client.cpp
 <<
 
-CMakeFiles\cpp_tutorial.dir\socket-programming\server.cpp.obj: CMakeFiles\cpp_tutorial.dir\flags.make
-CMakeFiles\cpp_tutorial.dir\socket-programming\server.cpp.obj: ..\socket-programming\server.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cpp-tutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/cpp_tutorial.dir/socket-programming/server.cpp.obj"
+CMakeFiles\cpp_tutorial.dir\socket-programming\Server.cpp.obj: CMakeFiles\cpp_tutorial.dir\flags.make
+CMakeFiles\cpp_tutorial.dir\socket-programming\Server.cpp.obj: ..\socket-programming\Server.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cpp-tutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/cpp_tutorial.dir/socket-programming/Server.cpp.obj"
 	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\cpp_tutorial.dir\socket-programming\server.cpp.obj /FdCMakeFiles\cpp_tutorial.dir\ /FS -c D:\cpp-tutorial\socket-programming\server.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\cpp_tutorial.dir\socket-programming\Server.cpp.obj /FdCMakeFiles\cpp_tutorial.dir\ /FS -c D:\cpp-tutorial\socket-programming\Server.cpp
 <<
 
-CMakeFiles\cpp_tutorial.dir\socket-programming\server.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_tutorial.dir/socket-programming/server.cpp.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\cpp_tutorial.dir\socket-programming\server.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cpp-tutorial\socket-programming\server.cpp
+CMakeFiles\cpp_tutorial.dir\socket-programming\Server.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_tutorial.dir/socket-programming/Server.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\cpp_tutorial.dir\socket-programming\Server.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cpp-tutorial\socket-programming\Server.cpp
 <<
 
-CMakeFiles\cpp_tutorial.dir\socket-programming\server.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_tutorial.dir/socket-programming/server.cpp.s"
+CMakeFiles\cpp_tutorial.dir\socket-programming\Server.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_tutorial.dir/socket-programming/Server.cpp.s"
 	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\cpp_tutorial.dir\socket-programming\server.cpp.s /c D:\cpp-tutorial\socket-programming\server.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\cpp_tutorial.dir\socket-programming\Server.cpp.s /c D:\cpp-tutorial\socket-programming\Server.cpp
 <<
 
 # Object files for target cpp_tutorial
 cpp_tutorial_OBJECTS = \
-"CMakeFiles\cpp_tutorial.dir\getting-started\linker-error.cpp.obj" \
-"CMakeFiles\cpp_tutorial.dir\getting-started\main.cpp.obj" \
+"CMakeFiles\cpp_tutorial.dir\getting-started\LinkerError.cpp.obj" \
+"CMakeFiles\cpp_tutorial.dir\getting-started\Main.cpp.obj" \
 "CMakeFiles\cpp_tutorial.dir\clion-test\Student.cpp.obj" \
 "CMakeFiles\cpp_tutorial.dir\clion-test\Employee.cpp.obj" \
-"CMakeFiles\cpp_tutorial.dir\sololearn-course\basics.cpp.obj" \
+"CMakeFiles\cpp_tutorial.dir\sololearn-course\Basics.cpp.obj" \
 "CMakeFiles\cpp_tutorial.dir\singleton-pattern\Singleton.cpp.obj" \
 "CMakeFiles\cpp_tutorial.dir\singleton-pattern\Main.cpp.obj" \
 "CMakeFiles\cpp_tutorial.dir\uml-inheritance\A.cpp.obj" \
@@ -455,17 +455,17 @@ cpp_tutorial_OBJECTS = \
 "CMakeFiles\cpp_tutorial.dir\math-expression-parser\Main.cpp.obj" \
 "CMakeFiles\cpp_tutorial.dir\socket-programming\notes\Client.cpp.obj" \
 "CMakeFiles\cpp_tutorial.dir\socket-programming\notes\Server.cpp.obj" \
-"CMakeFiles\cpp_tutorial.dir\socket-programming\client.cpp.obj" \
-"CMakeFiles\cpp_tutorial.dir\socket-programming\server.cpp.obj"
+"CMakeFiles\cpp_tutorial.dir\socket-programming\Client.cpp.obj" \
+"CMakeFiles\cpp_tutorial.dir\socket-programming\Server.cpp.obj"
 
 # External object files for target cpp_tutorial
 cpp_tutorial_EXTERNAL_OBJECTS =
 
-cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\getting-started\linker-error.cpp.obj
-cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\getting-started\main.cpp.obj
+cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\getting-started\LinkerError.cpp.obj
+cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\getting-started\Main.cpp.obj
 cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\clion-test\Student.cpp.obj
 cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\clion-test\Employee.cpp.obj
-cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\sololearn-course\basics.cpp.obj
+cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\sololearn-course\Basics.cpp.obj
 cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\singleton-pattern\Singleton.cpp.obj
 cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\singleton-pattern\Main.cpp.obj
 cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\uml-inheritance\A.cpp.obj
@@ -479,8 +479,8 @@ cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\stack-data-structure\Main.cpp.obj
 cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\math-expression-parser\Main.cpp.obj
 cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\socket-programming\notes\Client.cpp.obj
 cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\socket-programming\notes\Server.cpp.obj
-cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\socket-programming\client.cpp.obj
-cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\socket-programming\server.cpp.obj
+cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\socket-programming\Client.cpp.obj
+cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\socket-programming\Server.cpp.obj
 cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\build.make
 cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\objects1.rsp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\cpp-tutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Linking CXX executable cpp_tutorial.exe"

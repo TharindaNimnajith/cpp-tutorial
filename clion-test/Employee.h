@@ -5,4 +5,16 @@
 #ifndef CPP_TUTORIAL_EMPLOYEE_H
 #define CPP_TUTORIAL_EMPLOYEE_H
 
+
+class Employee {
+
+private:
+
+public:
+    Employee();
+
+    ~Employee();
+};
+
+
 #endif  // CPP_TUTORIAL_EMPLOYEE_H

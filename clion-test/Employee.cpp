@@ -3,3 +3,7 @@
 //
 
 #include "Employee.h"
+
+Employee::Employee() = default;
+
+Employee::~Employee() = default;

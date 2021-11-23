@@ -96,10 +96,10 @@
 		<Unit filename="D:/cpp-tutorial/clion-test/Student.h">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="D:/cpp-tutorial/getting-started/linker-error.cpp">
+		<Unit filename="D:/cpp-tutorial/getting-started/LinkerError.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="D:/cpp-tutorial/getting-started/main.cpp">
+		<Unit filename="D:/cpp-tutorial/getting-started/Main.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
 		<Unit filename="D:/cpp-tutorial/math-expression-parser/Main.cpp">
@@ -117,7 +117,10 @@
 		<Unit filename="D:/cpp-tutorial/singleton-pattern/Singleton.h">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="D:/cpp-tutorial/socket-programming/client.cpp">
+		<Unit filename="D:/cpp-tutorial/socket-programming/Client.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="D:/cpp-tutorial/socket-programming/Server.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
 		<Unit filename="D:/cpp-tutorial/socket-programming/notes/Client.cpp">
@@ -126,10 +129,7 @@
 		<Unit filename="D:/cpp-tutorial/socket-programming/notes/Server.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="D:/cpp-tutorial/socket-programming/server.cpp">
-			<Option target="cpp_tutorial"/>
-		</Unit>
-		<Unit filename="D:/cpp-tutorial/sololearn-course/basics.cpp">
+		<Unit filename="D:/cpp-tutorial/sololearn-course/Basics.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
 		<Unit filename="D:/cpp-tutorial/stack-data-structure/Main.cpp">
