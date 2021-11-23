@@ -6,7 +6,7 @@
 
 using namespace std;
 
-int main6() {
+int main() {
     int num = 1;
     int number;
     int total = 0;

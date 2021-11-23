@@ -6,18 +6,6 @@
 
 #IncludeRegexTransform: 
 
-D:/cpp-tutorial/clion-test/Employee.cpp
-Employee.h
-D:/cpp-tutorial/clion-test/Employee.h
-
-D:/cpp-tutorial/clion-test/Employee.h
-
-D:/cpp-tutorial/clion-test/Student.cpp
-Student.h
-D:/cpp-tutorial/clion-test/Student.h
-
-D:/cpp-tutorial/clion-test/Student.h
-
 D:/cpp-tutorial/getting-started/LinkerError.cpp
 iostream
 -
@@ -26,11 +14,51 @@ D:/cpp-tutorial/getting-started/Main.cpp
 iostream
 -
 
-D:/cpp-tutorial/socket-programming/Client.cpp
+D:/cpp-tutorial/math-expression-parser/Main.cpp
+iostream
+-
 
-D:/cpp-tutorial/socket-programming/Server.cpp
+D:/cpp-tutorial/memory-stack/Main.cpp
+iostream
+-
+
+D:/cpp-tutorial/singleton-pattern/Main.cpp
+Singleton.h
+D:/cpp-tutorial/singleton-pattern/Singleton.h
+
+D:/cpp-tutorial/singleton-pattern/Singleton.h
+iostream
+-
 
 D:/cpp-tutorial/sololearn-course/Basics.cpp
 iostream
 -
+
+D:/cpp-tutorial/stack-data-structure/Main.cpp
+iostream
+-
+Stack.h
+D:/cpp-tutorial/stack-data-structure/Stack.h
+
+D:/cpp-tutorial/stack-data-structure/Stack.h
+
+D:/cpp-tutorial/uml-inheritance/A.h
+
+D:/cpp-tutorial/uml-inheritance/B.h
+A.h
+D:/cpp-tutorial/uml-inheritance/A.h
+
+D:/cpp-tutorial/uml-inheritance/C.h
+A.h
+D:/cpp-tutorial/uml-inheritance/A.h
+
+D:/cpp-tutorial/uml-inheritance/D.h
+C.h
+D:/cpp-tutorial/uml-inheritance/C.h
+B.h
+D:/cpp-tutorial/uml-inheritance/B.h
+
+D:/cpp-tutorial/uml-inheritance/Main.cpp
+D.h
+D:/cpp-tutorial/uml-inheritance/D.h
 

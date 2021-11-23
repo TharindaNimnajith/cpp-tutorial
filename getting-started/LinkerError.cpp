@@ -4,14 +4,14 @@
 
 #include <iostream>
 
-//extern int x;
+extern int x;
 
-int main2() {
+int main() {
     // single line comment
     /*
      multi-line
      comment
     */
-    //std::cout << x;  // linker error
+    std::cout << x;  // linker error
     return 0;
 }

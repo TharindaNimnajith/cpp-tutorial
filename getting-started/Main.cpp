@@ -6,7 +6,7 @@
 
 using namespace std;
 
-int main3() {
+int main() {
     int favorite_number;
     cout << "Enter a number between 1 and 100:";
     cin >> favorite_number;

@@ -6,7 +6,7 @@
 
 #include "Stack.h"
 
-int main10() {
+int main() {
     Stack *stack;
     stack = new Stack();
 

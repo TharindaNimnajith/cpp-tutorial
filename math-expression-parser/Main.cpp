@@ -40,7 +40,7 @@ void evaluate(const std::string &input) {
     }
 }
 
-int main11() {
+int main() {
     std::string input;
     std::cout << "Enter expression:" << std::endl;
     std::cin >> input;

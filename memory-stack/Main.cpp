@@ -12,7 +12,7 @@ void func(const int *mainLocal) {
         std::cout << "Stack is growing down" << std::endl;
 }
 
-int main9() {
+int main() {
     int mainLocal;
     func(&mainLocal);
     return 0;

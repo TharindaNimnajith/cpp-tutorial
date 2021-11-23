@@ -1,3 +1,7 @@
+//
+// Created by ASUS on 11/22/2021.
+//
+
 // C++ program to evaluate a given expression
 #include <iostream>
 
@@ -40,7 +44,7 @@ int evaluate(char *exp) {
 }
 
 // Driver program to test above function
-int main0() {
+int main() {
     char expr1[] = "1+2*5+3";
     int res = evaluate(expr1);
     (res == -1) ? cout << expr1 << " is " << "Invalid\n" :

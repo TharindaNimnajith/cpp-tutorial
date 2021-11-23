@@ -12,7 +12,7 @@
 
 using namespace std;
 
-int main5() {
+int main() {
     int age = 18;
     if (age > 14) {
         if (age >= 18)
