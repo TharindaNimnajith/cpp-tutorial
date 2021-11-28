@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "D:/cpp-tutorial/clion-test/Employee.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/clion-test/Employee.cpp.obj"
   "D:/cpp-tutorial/clion-test/Student.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/clion-test/Student.cpp.obj"
+  "D:/cpp-tutorial/dynamic-linking/SortingAlgorithms.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/dynamic-linking/SortingAlgorithms.cpp.obj"
   "D:/cpp-tutorial/getting-started/LinkerError.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/getting-started/LinkerError.cpp.obj"
   "D:/cpp-tutorial/getting-started/Main.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/getting-started/Main.cpp.obj"
   "D:/cpp-tutorial/math-expression-parser/Main.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/math-expression-parser/Main.cpp.obj"

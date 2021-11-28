@@ -166,6 +166,30 @@ clion-test\Student.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\clion-test\Student.cpp.s
 .PHONY : clion-test\Student.cpp.s
 
+dynamic-linking\SortingAlgorithms.obj: dynamic-linking\SortingAlgorithms.cpp.obj
+.PHONY : dynamic-linking\SortingAlgorithms.obj
+
+# target to build an object file
+dynamic-linking\SortingAlgorithms.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\dynamic-linking\SortingAlgorithms.cpp.obj
+.PHONY : dynamic-linking\SortingAlgorithms.cpp.obj
+
+dynamic-linking\SortingAlgorithms.i: dynamic-linking\SortingAlgorithms.cpp.i
+.PHONY : dynamic-linking\SortingAlgorithms.i
+
+# target to preprocess a source file
+dynamic-linking\SortingAlgorithms.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\dynamic-linking\SortingAlgorithms.cpp.i
+.PHONY : dynamic-linking\SortingAlgorithms.cpp.i
+
+dynamic-linking\SortingAlgorithms.s: dynamic-linking\SortingAlgorithms.cpp.s
+.PHONY : dynamic-linking\SortingAlgorithms.s
+
+# target to generate assembly for a file
+dynamic-linking\SortingAlgorithms.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\dynamic-linking\SortingAlgorithms.cpp.s
+.PHONY : dynamic-linking\SortingAlgorithms.cpp.s
+
 getting-started\LinkerError.obj: getting-started\LinkerError.cpp.obj
 .PHONY : getting-started\LinkerError.obj
 
@@ -613,6 +637,9 @@ help:
 	@echo ... clion-test/Student.obj
 	@echo ... clion-test/Student.i
 	@echo ... clion-test/Student.s
+	@echo ... dynamic-linking/SortingAlgorithms.obj
+	@echo ... dynamic-linking/SortingAlgorithms.i
+	@echo ... dynamic-linking/SortingAlgorithms.s
 	@echo ... getting-started/LinkerError.obj
 	@echo ... getting-started/LinkerError.i
 	@echo ... getting-started/LinkerError.s

@@ -7,6 +7,9 @@ CMakeFiles\cpp_tutorial.dir\clion-test\Employee.cpp.obj: ..\clion-test\Employee.
 CMakeFiles\cpp_tutorial.dir\clion-test\Student.cpp.obj: ..\clion-test\Student.cpp
 CMakeFiles\cpp_tutorial.dir\clion-test\Student.cpp.obj: ..\clion-test\Student.h
 
+CMakeFiles\cpp_tutorial.dir\dynamic-linking\SortingAlgorithms.cpp.obj: ..\dynamic-linking\SortingAlgorithms.cpp
+CMakeFiles\cpp_tutorial.dir\dynamic-linking\SortingAlgorithms.cpp.obj: ..\dynamic-linking\SortingAlgorithms.h
+
 CMakeFiles\cpp_tutorial.dir\getting-started\LinkerError.cpp.obj: ..\getting-started\LinkerError.cpp
 
 CMakeFiles\cpp_tutorial.dir\getting-started\Main.cpp.obj: ..\getting-started\Main.cpp

@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/cpp_tutorial.dir/clion-test/Employee.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/clion-test/Student.cpp.obj"
+  "CMakeFiles/cpp_tutorial.dir/dynamic-linking/SortingAlgorithms.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/getting-started/LinkerError.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/getting-started/Main.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/math-expression-parser/Main.cpp.obj"

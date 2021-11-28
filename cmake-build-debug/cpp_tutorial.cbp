@@ -96,6 +96,12 @@
 		<Unit filename="D:/cpp-tutorial/clion-test/Student.h">
 			<Option target="cpp_tutorial"/>
 		</Unit>
+		<Unit filename="D:/cpp-tutorial/dynamic-linking/SortingAlgorithms.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="D:/cpp-tutorial/dynamic-linking/SortingAlgorithms.h">
+			<Option target="cpp_tutorial"/>
+		</Unit>
 		<Unit filename="D:/cpp-tutorial/getting-started/LinkerError.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
