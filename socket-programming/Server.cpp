@@ -8,4 +8,5 @@
 
 void getDateTime() {
     std::string s = date::format("%F %T", std::chrono::system_clock::now());
+    std::cout << s << std::endl;
 }
