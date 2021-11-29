@@ -492,6 +492,44 @@ CMakeFiles\cpp_tutorial.dir\socket-programming\Server.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\cpp_tutorial.dir\socket-programming\Server.cpp.s /c D:\cpp-tutorial\socket-programming\Server.cpp
 <<
 
+CMakeFiles\cpp_tutorial.dir\header-definition\Main.cpp.obj: CMakeFiles\cpp_tutorial.dir\flags.make
+CMakeFiles\cpp_tutorial.dir\header-definition\Main.cpp.obj: ..\header-definition\Main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cpp-tutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/cpp_tutorial.dir/header-definition/Main.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\cpp_tutorial.dir\header-definition\Main.cpp.obj /FdCMakeFiles\cpp_tutorial.dir\ /FS -c D:\cpp-tutorial\header-definition\Main.cpp
+<<
+
+CMakeFiles\cpp_tutorial.dir\header-definition\Main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_tutorial.dir/header-definition/Main.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\cpp_tutorial.dir\header-definition\Main.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cpp-tutorial\header-definition\Main.cpp
+<<
+
+CMakeFiles\cpp_tutorial.dir\header-definition\Main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_tutorial.dir/header-definition/Main.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\cpp_tutorial.dir\header-definition\Main.cpp.s /c D:\cpp-tutorial\header-definition\Main.cpp
+<<
+
+CMakeFiles\cpp_tutorial.dir\header-definition\Calculator.cpp.obj: CMakeFiles\cpp_tutorial.dir\flags.make
+CMakeFiles\cpp_tutorial.dir\header-definition\Calculator.cpp.obj: ..\header-definition\Calculator.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cpp-tutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/cpp_tutorial.dir/header-definition/Calculator.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\cpp_tutorial.dir\header-definition\Calculator.cpp.obj /FdCMakeFiles\cpp_tutorial.dir\ /FS -c D:\cpp-tutorial\header-definition\Calculator.cpp
+<<
+
+CMakeFiles\cpp_tutorial.dir\header-definition\Calculator.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_tutorial.dir/header-definition/Calculator.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\cpp_tutorial.dir\header-definition\Calculator.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cpp-tutorial\header-definition\Calculator.cpp
+<<
+
+CMakeFiles\cpp_tutorial.dir\header-definition\Calculator.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_tutorial.dir/header-definition/Calculator.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\cpp_tutorial.dir\header-definition\Calculator.cpp.s /c D:\cpp-tutorial\header-definition\Calculator.cpp
+<<
+
 # Object files for target cpp_tutorial
 cpp_tutorial_OBJECTS = \
 "CMakeFiles\cpp_tutorial.dir\getting-started\LinkerError.cpp.obj" \
@@ -516,7 +554,9 @@ cpp_tutorial_OBJECTS = \
 "CMakeFiles\cpp_tutorial.dir\socket-programming\notes\Server2.cpp.obj" \
 "CMakeFiles\cpp_tutorial.dir\dynamic-linking\SortingAlgorithms.cpp.obj" \
 "CMakeFiles\cpp_tutorial.dir\socket-programming\Client.cpp.obj" \
-"CMakeFiles\cpp_tutorial.dir\socket-programming\Server.cpp.obj"
+"CMakeFiles\cpp_tutorial.dir\socket-programming\Server.cpp.obj" \
+"CMakeFiles\cpp_tutorial.dir\header-definition\Main.cpp.obj" \
+"CMakeFiles\cpp_tutorial.dir\header-definition\Calculator.cpp.obj"
 
 # External object files for target cpp_tutorial
 cpp_tutorial_EXTERNAL_OBJECTS =
@@ -544,9 +584,11 @@ cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\socket-programming\notes\Server2.c
 cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\dynamic-linking\SortingAlgorithms.cpp.obj
 cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\socket-programming\Client.cpp.obj
 cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\socket-programming\Server.cpp.obj
+cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\header-definition\Main.cpp.obj
+cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\header-definition\Calculator.cpp.obj
 cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\build.make
 cpp_tutorial.exe: CMakeFiles\cpp_tutorial.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\cpp-tutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Linking CXX executable cpp_tutorial.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\cpp-tutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Linking CXX executable cpp_tutorial.exe"
 	"C:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cpp_tutorial.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cpp_tutorial.dir\objects1.rsp @<<
  /out:cpp_tutorial.exe /implib:cpp_tutorial.lib /pdb:D:\cpp-tutorial\cmake-build-debug\cpp_tutorial.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<

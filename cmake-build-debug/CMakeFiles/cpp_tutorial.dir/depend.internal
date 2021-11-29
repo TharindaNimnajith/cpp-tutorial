@@ -26,12 +26,19 @@ CMakeFiles/cpp_tutorial.dir/singleton-pattern/Singleton.cpp.obj
  D:/cpp-tutorial/singleton-pattern/Singleton.h
 CMakeFiles/cpp_tutorial.dir/socket-programming/Client.cpp.obj
  D:/cpp-tutorial/socket-programming/Client.cpp
+ D:/cpp-tutorial/socket-programming/Server.cpp
+ D:/cpp-tutorial/socket-programming/date.h
 CMakeFiles/cpp_tutorial.dir/socket-programming/Server.cpp.obj
  D:/cpp-tutorial/socket-programming/Server.cpp
-CMakeFiles/cpp_tutorial.dir/socket-programming/notes/Client.cpp.obj
- D:/cpp-tutorial/socket-programming/notes/Client.cpp
-CMakeFiles/cpp_tutorial.dir/socket-programming/notes/Server.cpp.obj
- D:/cpp-tutorial/socket-programming/notes/Server.cpp
+ D:/cpp-tutorial/socket-programming/date.h
+CMakeFiles/cpp_tutorial.dir/socket-programming/notes/Client1.cpp.obj
+ D:/cpp-tutorial/socket-programming/notes/Client1.cpp
+CMakeFiles/cpp_tutorial.dir/socket-programming/notes/Client2.cpp.obj
+ D:/cpp-tutorial/socket-programming/notes/Client2.cpp
+CMakeFiles/cpp_tutorial.dir/socket-programming/notes/Server1.cpp.obj
+ D:/cpp-tutorial/socket-programming/notes/Server1.cpp
+CMakeFiles/cpp_tutorial.dir/socket-programming/notes/Server2.cpp.obj
+ D:/cpp-tutorial/socket-programming/notes/Server2.cpp
 CMakeFiles/cpp_tutorial.dir/sololearn-course/Basics.cpp.obj
  D:/cpp-tutorial/sololearn-course/Basics.cpp
 CMakeFiles/cpp_tutorial.dir/stack-data-structure/Main.cpp.obj

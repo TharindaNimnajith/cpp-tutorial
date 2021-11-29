@@ -5,6 +5,7 @@
 #ifndef CPP_TUTORIAL_STACK_H
 #define CPP_TUTORIAL_STACK_H
 
+
 #define MAX 10
 
 class Stack {

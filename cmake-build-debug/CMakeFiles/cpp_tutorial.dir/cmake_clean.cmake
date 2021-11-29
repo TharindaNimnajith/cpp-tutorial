@@ -4,6 +4,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/cpp_tutorial.dir/dynamic-linking/SortingAlgorithms.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/getting-started/LinkerError.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/getting-started/Main.cpp.obj"
+  "CMakeFiles/cpp_tutorial.dir/header-definition/Calculator.cpp.obj"
+  "CMakeFiles/cpp_tutorial.dir/header-definition/Main.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/math-expression-parser/Main.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/memory-stack/Main.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/singleton-pattern/Main.cpp.obj"
