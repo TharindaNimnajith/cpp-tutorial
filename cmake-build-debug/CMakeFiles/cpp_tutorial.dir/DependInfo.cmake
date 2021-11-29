@@ -13,7 +13,6 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "D:/cpp-tutorial/dynamic-linking/SortingAlgorithms.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/dynamic-linking/SortingAlgorithms.cpp.obj"
   "D:/cpp-tutorial/getting-started/LinkerError.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/getting-started/LinkerError.cpp.obj"
   "D:/cpp-tutorial/getting-started/Main.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/getting-started/Main.cpp.obj"
-  "D:/cpp-tutorial/header-definition/Calculator.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/header-definition/Calculator.cpp.obj"
   "D:/cpp-tutorial/header-definition/Main.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/header-definition/Main.cpp.obj"
   "D:/cpp-tutorial/math-expression-parser/Main.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/math-expression-parser/Main.cpp.obj"
   "D:/cpp-tutorial/memory-stack/Main.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/memory-stack/Main.cpp.obj"

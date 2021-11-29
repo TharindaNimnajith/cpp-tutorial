@@ -238,30 +238,6 @@ getting-started\Main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\getting-started\Main.cpp.s
 .PHONY : getting-started\Main.cpp.s
 
-header-definition\Calculator.obj: header-definition\Calculator.cpp.obj
-.PHONY : header-definition\Calculator.obj
-
-# target to build an object file
-header-definition\Calculator.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\header-definition\Calculator.cpp.obj
-.PHONY : header-definition\Calculator.cpp.obj
-
-header-definition\Calculator.i: header-definition\Calculator.cpp.i
-.PHONY : header-definition\Calculator.i
-
-# target to preprocess a source file
-header-definition\Calculator.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\header-definition\Calculator.cpp.i
-.PHONY : header-definition\Calculator.cpp.i
-
-header-definition\Calculator.s: header-definition\Calculator.cpp.s
-.PHONY : header-definition\Calculator.s
-
-# target to generate assembly for a file
-header-definition\Calculator.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\header-definition\Calculator.cpp.s
-.PHONY : header-definition\Calculator.cpp.s
-
 header-definition\Main.obj: header-definition\Main.cpp.obj
 .PHONY : header-definition\Main.obj
 
@@ -742,9 +718,6 @@ help:
 	@echo ... getting-started/Main.obj
 	@echo ... getting-started/Main.i
 	@echo ... getting-started/Main.s
-	@echo ... header-definition/Calculator.obj
-	@echo ... header-definition/Calculator.i
-	@echo ... header-definition/Calculator.s
 	@echo ... header-definition/Main.obj
 	@echo ... header-definition/Main.i
 	@echo ... header-definition/Main.s

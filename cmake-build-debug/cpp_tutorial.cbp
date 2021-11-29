@@ -108,9 +108,6 @@
 		<Unit filename="D:/cpp-tutorial/getting-started/Main.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
-		<Unit filename="D:/cpp-tutorial/header-definition/Calculator.cpp">
-			<Option target="cpp_tutorial"/>
-		</Unit>
 		<Unit filename="D:/cpp-tutorial/header-definition/Calculator.h">
 			<Option target="cpp_tutorial"/>
 		</Unit>
