@@ -7,8 +7,9 @@
 int main() {
     SortingAlgorithms *sortingAlgorithms;
     sortingAlgorithms = new SortingAlgorithms();
-    std::vector<int> myNumbers = {30, 10, 45, 32, 1, 60};
-    sortingAlgorithms->bubbleSort(myNumbers);
-    sortingAlgorithms->quickSort(myNumbers);
+    std::vector<int> arr = {30, 10, 45, 32, 1, 60};
+    int n = arr.size();
+    sortingAlgorithms->bubbleSort(arr, n);
+    sortingAlgorithms->quickSort(arr, 0, n - 1);
     return 0;
 }
