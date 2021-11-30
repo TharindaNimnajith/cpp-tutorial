@@ -16,6 +16,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "D:/cpp-tutorial/header-definition/Main.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/header-definition/Main.cpp.obj"
   "D:/cpp-tutorial/math-expression-parser/Main.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/math-expression-parser/Main.cpp.obj"
   "D:/cpp-tutorial/memory-stack/Main.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/memory-stack/Main.cpp.obj"
+  "D:/cpp-tutorial/namespaces/Main.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/namespaces/Main.cpp.obj"
   "D:/cpp-tutorial/singleton-pattern/Main.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/singleton-pattern/Main.cpp.obj"
   "D:/cpp-tutorial/singleton-pattern/Singleton.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/singleton-pattern/Singleton.cpp.obj"
   "D:/cpp-tutorial/socket-programming/Client.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/socket-programming/Client.cpp.obj"

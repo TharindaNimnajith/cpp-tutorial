@@ -7,6 +7,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/cpp_tutorial.dir/header-definition/Main.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/math-expression-parser/Main.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/memory-stack/Main.cpp.obj"
+  "CMakeFiles/cpp_tutorial.dir/namespaces/Main.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/singleton-pattern/Main.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/singleton-pattern/Singleton.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/socket-programming/Client.cpp.obj"

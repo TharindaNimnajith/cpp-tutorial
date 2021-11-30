@@ -310,6 +310,30 @@ memory-stack\Main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\memory-stack\Main.cpp.s
 .PHONY : memory-stack\Main.cpp.s
 
+namespaces\Main.obj: namespaces\Main.cpp.obj
+.PHONY : namespaces\Main.obj
+
+# target to build an object file
+namespaces\Main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\namespaces\Main.cpp.obj
+.PHONY : namespaces\Main.cpp.obj
+
+namespaces\Main.i: namespaces\Main.cpp.i
+.PHONY : namespaces\Main.i
+
+# target to preprocess a source file
+namespaces\Main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\namespaces\Main.cpp.i
+.PHONY : namespaces\Main.cpp.i
+
+namespaces\Main.s: namespaces\Main.cpp.s
+.PHONY : namespaces\Main.s
+
+# target to generate assembly for a file
+namespaces\Main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\namespaces\Main.cpp.s
+.PHONY : namespaces\Main.cpp.s
+
 singleton-pattern\Main.obj: singleton-pattern\Main.cpp.obj
 .PHONY : singleton-pattern\Main.obj
 
@@ -727,6 +751,9 @@ help:
 	@echo ... memory-stack/Main.obj
 	@echo ... memory-stack/Main.i
 	@echo ... memory-stack/Main.s
+	@echo ... namespaces/Main.obj
+	@echo ... namespaces/Main.i
+	@echo ... namespaces/Main.s
 	@echo ... singleton-pattern/Main.obj
 	@echo ... singleton-pattern/Main.i
 	@echo ... singleton-pattern/Main.s

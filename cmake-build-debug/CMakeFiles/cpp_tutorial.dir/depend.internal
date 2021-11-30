@@ -14,10 +14,15 @@ CMakeFiles/cpp_tutorial.dir/getting-started/LinkerError.cpp.obj
  D:/cpp-tutorial/getting-started/LinkerError.cpp
 CMakeFiles/cpp_tutorial.dir/getting-started/Main.cpp.obj
  D:/cpp-tutorial/getting-started/Main.cpp
+CMakeFiles/cpp_tutorial.dir/header-definition/Main.cpp.obj
+ D:/cpp-tutorial/header-definition/Calculator.h
+ D:/cpp-tutorial/header-definition/Main.cpp
 CMakeFiles/cpp_tutorial.dir/math-expression-parser/Main.cpp.obj
  D:/cpp-tutorial/math-expression-parser/Main.cpp
 CMakeFiles/cpp_tutorial.dir/memory-stack/Main.cpp.obj
  D:/cpp-tutorial/memory-stack/Main.cpp
+CMakeFiles/cpp_tutorial.dir/namespaces/Main.cpp.obj
+ D:/cpp-tutorial/namespaces/Main.cpp
 CMakeFiles/cpp_tutorial.dir/singleton-pattern/Main.cpp.obj
  D:/cpp-tutorial/singleton-pattern/Main.cpp
  D:/cpp-tutorial/singleton-pattern/Singleton.h
