@@ -25,6 +25,8 @@ CMakeFiles\cpp_tutorial.dir\memory-stack\Main.cpp.obj: ..\memory-stack\Main.cpp
 
 CMakeFiles\cpp_tutorial.dir\namespaces\Main.cpp.obj: ..\namespaces\Main.cpp
 
+CMakeFiles\cpp_tutorial.dir\pointers\Main.cpp.obj: ..\pointers\Main.cpp
+
 CMakeFiles\cpp_tutorial.dir\singleton-pattern\Main.cpp.obj: ..\singleton-pattern\Main.cpp
 CMakeFiles\cpp_tutorial.dir\singleton-pattern\Main.cpp.obj: ..\singleton-pattern\Singleton.h
 
