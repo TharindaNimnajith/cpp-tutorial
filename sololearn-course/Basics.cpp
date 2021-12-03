@@ -44,19 +44,19 @@ int main() {
     int x = 10;
     int y;
 
-    x += 4; // equivalent to x = x + 4
-    x -= 5; // equivalent to x = x - 5
-    x *= 3; // equivalent to x = x * 3
-    x /= 2; // equivalent to x = x / 2
-    x %= 4; // equivalent to x = x % 4
+    x += 4;  // equivalent to x = x + 4
+    x -= 5;  // equivalent to x = x - 5
+    x *= 3;  // equivalent to x = x * 3
+    x /= 2;  // equivalent to x = x / 2
+    x %= 4;  // equivalent to x = x % 4
 
-    x++; // equivalent to x = x + 1
-    ++x; // prefix
-    x++; // postfix
+    x++;  // equivalent to x = x + 1
+    ++x;  // prefix
+    x++;  // postfix
 
-    x--; // equivalent to x = x - 1
-    --x; // prefix
-    x--; // postfix
+    x--;  // equivalent to x = x - 1
+    --x;  // prefix
+    x--;  // postfix
 
     cout << x << endl;
 

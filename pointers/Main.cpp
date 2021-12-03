@@ -3,6 +3,7 @@
 //
 
 #pragma clang diagnostic push
+#pragma ide diagnostic ignored "ConstantConditionsOC"
 #pragma clang diagnostic ignored "-Wunknown-pragmas"
 #pragma ide diagnostic ignored "UnusedValue"
 
@@ -18,7 +19,7 @@ void print(int arr[], int size) {
         std::cout << ptr << std::endl;
         std::cout << "Value of var[" << i << "] = ";
         std::cout << *ptr << std::endl;
-        ptr++; // point to the next location
+        ptr++;  // point to the next location
     }
 }
 
@@ -51,7 +52,7 @@ int main() {
     int arr[] = {1, 2, 3, 4, 5, 6};
     std::cout << "Size of array: " << sizeof(arr) << std::endl;
     std::cout << "Length of array: " << sizeof(arr) / sizeof(arr[0]) << std::endl;
-    print(arr, sizeof(arr) / sizeof(arr[0])); // array pointer decaying
+    print(arr, sizeof(arr) / sizeof(arr[0]));  // array pointer decaying
 
     // dangling pointers
     std::string *pStr = nullptr;

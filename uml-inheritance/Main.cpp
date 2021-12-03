@@ -8,7 +8,7 @@
 
 int main() {
     D *d = new D();
-    //d->run(); // non-static member 'run' found in multiple base-class subobjects of type 'A'
+    // d->run();  // non-static member 'run' found in multiple base-class subobjects of type 'A'
     d->B::run();
     d->C::run();
 
