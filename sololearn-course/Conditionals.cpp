@@ -79,6 +79,8 @@ int main() {
         cout << "Your age is less than 16" << endl;
     }
 
+    int temp;
+    std::cin >> temp;
     return 0;
 }
 

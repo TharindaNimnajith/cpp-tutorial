@@ -3,6 +3,7 @@
 //
 
 #include <iostream>
+#include <cstring>
 
 #define MAX 20
 
@@ -45,5 +46,8 @@ int main() {
     std::cout << "Enter expression:" << std::endl;
     std::cin >> input;
     evaluate(input);
+
+    int temp;
+    std::cin >> temp;
     return 0;
 }

@@ -8,10 +8,15 @@ extern int x;
 
 int main() {
     // single line comment
+
     /*
      multi-line
      comment
     */
+
     std::cout << x;  // linker error
+
+    int temp;
+    std::cin >> temp;
     return 0;
 }

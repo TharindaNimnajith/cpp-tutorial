@@ -11,5 +11,8 @@ int main() {
     cout << "Enter a number between 1 and 100:";
     cin >> favorite_number;
     cout << "Number: " << favorite_number << endl;
+
+    int temp;
+    std::cin >> temp;
     return 0;
 }

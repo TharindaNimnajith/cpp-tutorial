@@ -30,5 +30,7 @@ int main() {
     stack->pop();
     stack->print();
 
+    int temp;
+    std::cin >> temp;
     return 0;
 }

@@ -17,4 +17,8 @@ namespace abc {
 int main() {
     print();
     abc::print();
+
+    int temp;
+    std::cin >> temp;
+    return 0;
 }

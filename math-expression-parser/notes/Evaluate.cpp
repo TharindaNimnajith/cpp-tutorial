@@ -2,7 +2,6 @@
 // Created by ASUS on 11/22/2021.
 //
 
-// C++ program to evaluate a given expression
 #include <iostream>
 
 using namespace std;
@@ -36,10 +35,10 @@ int evaluate(char *exp) {
         else if (opr == '-') res -= value(opd);
         else if (opr == '*') res *= value(opd);
         else if (opr == '/') res /= value(opd);
-
-            // If not a valid operator
+        // If not a valid operator
         else return -1;
     }
+
     return res;
 }
 
@@ -65,5 +64,7 @@ int main() {
     (res == -1) ? cout << expr4 << " is " << "Invalid\n" :
     cout << "Value of " << expr4 << " is " << res << endl;
 
+    int temp;
+    std::cin >> temp;
     return 0;
 }

@@ -37,5 +37,7 @@ int main() {
         a++;
     } while (a < 5);
 
+    int temp;
+    std::cin >> temp;
     return 0;
 }

@@ -69,6 +69,10 @@ int main() {
     // smart pointer mechanism is similar to garbage collection in languages like java or c#
     // https://www.geeksforgeeks.org/smart-pointers-cpp
     // https://en.wikipedia.org/wiki/Smart_pointer
+
+    int temp;
+    std::cin >> temp;
+    return 0;
 }
 
 #pragma clang diagnostic pop

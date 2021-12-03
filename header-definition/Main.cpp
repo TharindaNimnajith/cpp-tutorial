@@ -2,12 +2,17 @@
 // Created by ASUS on 11/29/2021.
 //
 
+#include <iostream>
+
 #include "Calculator.h"
 
 // int sum(int a, int b);
 
 int main() {
-    sum(1, 2);
+    std::cout << sum(1, 2) << std::endl;
+
+    int temp;
+    std::cin >> temp;
     return 0;
 }
 

@@ -15,5 +15,8 @@ void func(const int *mainLocal) {
 int main() {
     int mainLocal;
     func(&mainLocal);
+
+    int temp;
+    std::cin >> temp;
     return 0;
 }

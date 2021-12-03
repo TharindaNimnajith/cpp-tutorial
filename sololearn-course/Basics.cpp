@@ -68,6 +68,8 @@ int main() {
     y = x++;
     cout << y << endl;
 
+    int temp;
+    std::cin >> temp;
     return 0;
 }
 
