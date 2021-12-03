@@ -117,6 +117,9 @@
 		<Unit filename="D:/cpp-tutorial/math-expression-parser/Main.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
+		<Unit filename="D:/cpp-tutorial/memory-allocation/Main.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
 		<Unit filename="D:/cpp-tutorial/memory-stack/Main.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>

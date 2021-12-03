@@ -7629,7 +7629,6 @@ scan_keyword(std::basic_istream<CharT, Traits>& is, FwdIter kb, FwdIter ke)
 // const CharT* formats
 
     template<class Parsable, class CharT>
-    inline
     auto
     parse(const CharT *format, Parsable &tp)
     -> decltype(date::from_stream(std::declval<std::basic_istream<CharT> &>(), format, tp),
@@ -7638,7 +7637,6 @@ scan_keyword(std::basic_istream<CharT, Traits>& is, FwdIter kb, FwdIter ke)
     }
 
     template<class Parsable, class CharT, class Traits, class Alloc>
-    inline
     auto
     parse(const CharT *format, Parsable &tp, std::basic_string<CharT, Traits, Alloc> &abbrev)
     -> decltype(date::from_stream(std::declval<std::basic_istream<CharT, Traits> &>(), format,
@@ -7647,28 +7645,27 @@ scan_keyword(std::basic_istream<CharT, Traits>& is, FwdIter kb, FwdIter ke)
         return {format, tp, &abbrev};
     }
 
-    template<class Parsable, class CharT>
-    __attribute__((unused)) inline
-    auto
-    parse(const CharT *format, Parsable &tp, std::chrono::minutes &offset)
-    -> decltype(date::from_stream(std::declval<std::basic_istream<CharT> &>(), format,
-                                  tp, std::declval<std::basic_string<CharT> *>(), &offset),
-            parse_manip<Parsable, CharT>{format, tp, nullptr, &offset}) {
-        return {format, tp, nullptr, &offset};
-    }
+//    template<class Parsable, class CharT>
+//    auto
+//    parse(const CharT *format, Parsable &tp, std::chrono::minutes &offset)
+//    -> decltype(date::from_stream(std::declval<std::basic_istream<CharT> &>(), format,
+//                                  tp, std::declval<std::basic_string<CharT> *>(), &offset),
+//            parse_manip<Parsable, CharT>{format, tp, nullptr, &offset}) {
+//        return {format, tp, nullptr, &offset};
+//    }
+//
+//    template<class Parsable, class CharT, class Traits, class Alloc>
+//    inline
+//    auto
+//    parse(const CharT *format, Parsable &tp,
+//          std::basic_string<CharT, Traits, Alloc> &abbrev, std::chrono::minutes &offset)
+//    -> decltype(date::from_stream(std::declval<std::basic_istream<CharT, Traits> &>(), format,
+//                                  tp, &abbrev, &offset),
+//            parse_manip<Parsable, CharT, Traits, Alloc>{format, tp, &abbrev, &offset}) {
+//        return {format, tp, &abbrev, &offset};
+//    }
 
-    template<class Parsable, class CharT, class Traits, class Alloc>
-    inline
-    auto
-    parse(const CharT *format, Parsable &tp,
-          std::basic_string<CharT, Traits, Alloc> &abbrev, std::chrono::minutes &offset)
-    -> decltype(date::from_stream(std::declval<std::basic_istream<CharT, Traits> &>(), format,
-                                  tp, &abbrev, &offset),
-            parse_manip<Parsable, CharT, Traits, Alloc>{format, tp, &abbrev, &offset}) {
-        return {format, tp, &abbrev, &offset};
-    }
-
-// duration streaming
+    // duration streaming
 
     template<class CharT, class Traits, class Rep, class Period>
     inline
