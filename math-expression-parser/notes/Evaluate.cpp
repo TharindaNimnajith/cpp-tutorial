@@ -35,8 +35,7 @@ int evaluate(char *exp) {
         else if (opr == '-') res -= value(opd);
         else if (opr == '*') res *= value(opd);
         else if (opr == '/') res /= value(opd);
-        // If not a valid operator
-        else return -1;
+        else return -1;  // If not a valid operator
     }
 
     return res;
