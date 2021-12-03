@@ -1,13 +1,6 @@
-# Awesome Modern C++
+# C++ Tutorial
 
 A collection of resources on modern C++.
-
-The goal is to collect a list of resources to help people learn about and leverage modern C++11 and beyond.
-
-## Contributing
-
-To add, remove or change things on the list:
-[please submit a pull request to the GitHub repository](https://github.com/rigtorp/awesome-modern-cpp).
 
 ## Books
 
