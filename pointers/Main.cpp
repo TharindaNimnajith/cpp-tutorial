@@ -3,6 +3,7 @@
 //
 
 #pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Wsizeof-array-argument"
 #pragma ide diagnostic ignored "ConstantConditionsOC"
 #pragma clang diagnostic ignored "-Wunknown-pragmas"
 #pragma ide diagnostic ignored "UnusedValue"

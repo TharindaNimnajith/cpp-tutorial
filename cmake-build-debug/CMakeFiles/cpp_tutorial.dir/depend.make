@@ -52,6 +52,8 @@ CMakeFiles\cpp_tutorial.dir\sololearn-course\Arrays.cpp.obj: ..\sololearn-course
 
 CMakeFiles\cpp_tutorial.dir\sololearn-course\Basics.cpp.obj: ..\sololearn-course\Basics.cpp
 
+CMakeFiles\cpp_tutorial.dir\sololearn-course\Pointers.cpp.obj: ..\sololearn-course\Pointers.cpp
+
 CMakeFiles\cpp_tutorial.dir\stack-data-structure\Main.cpp.obj: ..\stack-data-structure\Main.cpp
 CMakeFiles\cpp_tutorial.dir\stack-data-structure\Main.cpp.obj: ..\stack-data-structure\Stack.h
 

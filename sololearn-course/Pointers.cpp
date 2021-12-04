@@ -2,6 +2,12 @@
 // Created by ASUS on 12/4/2021.
 //
 
+// pointer is a variable, with the address of another variable as its value
+// pointer tells the computer to "point at" the memory address of whatever variable it is used on
+// dynamic memory allocation cannot be performed without using pointers
+// pointers share the same data type (long hexadecimal number to represent a memory address)
+// difference between pointers of different data types - data type of the variable that the pointer points to
+
 // when there are more functions that are using the same variable, instead of sending
 // a value between two functions back and forth, it's more practical to use the address
 // of it to change it from inside the other function
@@ -12,13 +18,29 @@
 
 #include <iostream>
 
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Wunknown-pragmas"
+#pragma ide diagnostic ignored "UnusedLocalVariable"
+
 int main() {
     int score = 5;
+    int *scorePtr;
+    scorePtr = &score;
 
     // & - access address of variable stored in a pointer and address of pointer itself
     // * - find value of a variable stored in a pointer
-    std::cout << &score << std::endl;  // 0x5be55ffe0c
-    std::cout << score << std::endl;  // 5
+    std::cout << &score << std::endl;  // memory address of score variable
+    std::cout << score << std::endl;  // value of score variable (5)
+    // std::cout << *score << std::endl;  // error - operand of '*' must be a pointer but has type "int"
+    std::cout << scorePtr << std::endl;  // memory address of score variable
+    std::cout << *scorePtr << std::endl;  // value of score variable (5)
+    std::cout << &scorePtr << std::endl;  // memory address of scorePtr pointer
+
+    // asterisk sign can be placed next to the data type, variable name, or in the middle
+    int *ip;  // pointer to an integer
+    double *dp;  // pointer to a double
+    float *fp;  // pointer to a float
+    char *ch;  // pointer to a character
 
     int v = 50;  // v is variable
     int *p;  // declaring pointer p for variable v
@@ -45,3 +67,5 @@ int main() {
     std::cin >> temp;
     return 0;
 }
+
+#pragma clang diagnostic pop

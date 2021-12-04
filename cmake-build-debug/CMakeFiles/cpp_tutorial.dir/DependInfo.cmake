@@ -29,6 +29,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "D:/cpp-tutorial/socket-programming/notes/Server2.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/socket-programming/notes/Server2.cpp.obj"
   "D:/cpp-tutorial/sololearn-course/Arrays.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/sololearn-course/Arrays.cpp.obj"
   "D:/cpp-tutorial/sololearn-course/Basics.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/sololearn-course/Basics.cpp.obj"
+  "D:/cpp-tutorial/sololearn-course/Pointers.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/sololearn-course/Pointers.cpp.obj"
   "D:/cpp-tutorial/stack-data-structure/Main.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/stack-data-structure/Main.cpp.obj"
   "D:/cpp-tutorial/stack-data-structure/Stack.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/stack-data-structure/Stack.cpp.obj"
   "D:/cpp-tutorial/uml-inheritance/A.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/uml-inheritance/A.cpp.obj"

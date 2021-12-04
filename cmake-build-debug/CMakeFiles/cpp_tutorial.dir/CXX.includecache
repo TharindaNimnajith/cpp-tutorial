@@ -6,17 +6,11 @@
 
 #IncludeRegexTransform: 
 
-D:/cpp-tutorial/getting-started/Main.cpp
-iostream
--
-
 D:/cpp-tutorial/sololearn-course/Arrays.cpp
 iostream
 -
 
-D:/cpp-tutorial/sololearn-course/Basics.cpp
+D:/cpp-tutorial/sololearn-course/Pointers.cpp
 iostream
--
-string
 -
 

@@ -85,6 +85,9 @@
     <ClCompile Include="D:\cpp-tutorial\sololearn-course\Arrays.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="D:\cpp-tutorial\sololearn-course\Pointers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="D:\cpp-tutorial\clion-test\Student.h">

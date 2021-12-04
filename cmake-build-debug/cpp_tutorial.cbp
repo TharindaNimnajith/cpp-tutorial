@@ -165,6 +165,9 @@
 		<Unit filename="D:/cpp-tutorial/sololearn-course/Basics.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
+		<Unit filename="D:/cpp-tutorial/sololearn-course/Pointers.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
 		<Unit filename="D:/cpp-tutorial/stack-data-structure/Main.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>

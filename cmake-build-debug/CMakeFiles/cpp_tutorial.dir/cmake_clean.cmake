@@ -20,6 +20,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/cpp_tutorial.dir/socket-programming/notes/Server2.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/sololearn-course/Arrays.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/sololearn-course/Basics.cpp.obj"
+  "CMakeFiles/cpp_tutorial.dir/sololearn-course/Pointers.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/stack-data-structure/Main.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/stack-data-structure/Stack.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/uml-inheritance/A.cpp.obj"

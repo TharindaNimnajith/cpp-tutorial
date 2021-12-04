@@ -622,6 +622,30 @@ sololearn-course\Basics.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\sololearn-course\Basics.cpp.s
 .PHONY : sololearn-course\Basics.cpp.s
 
+sololearn-course\Pointers.obj: sololearn-course\Pointers.cpp.obj
+.PHONY : sololearn-course\Pointers.obj
+
+# target to build an object file
+sololearn-course\Pointers.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\sololearn-course\Pointers.cpp.obj
+.PHONY : sololearn-course\Pointers.cpp.obj
+
+sololearn-course\Pointers.i: sololearn-course\Pointers.cpp.i
+.PHONY : sololearn-course\Pointers.i
+
+# target to preprocess a source file
+sololearn-course\Pointers.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\sololearn-course\Pointers.cpp.i
+.PHONY : sololearn-course\Pointers.cpp.i
+
+sololearn-course\Pointers.s: sololearn-course\Pointers.cpp.s
+.PHONY : sololearn-course\Pointers.s
+
+# target to generate assembly for a file
+sololearn-course\Pointers.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\sololearn-course\Pointers.cpp.s
+.PHONY : sololearn-course\Pointers.cpp.s
+
 stack-data-structure\Main.obj: stack-data-structure\Main.cpp.obj
 .PHONY : stack-data-structure\Main.obj
 
@@ -862,6 +886,9 @@ help:
 	@echo ... sololearn-course/Basics.obj
 	@echo ... sololearn-course/Basics.i
 	@echo ... sololearn-course/Basics.s
+	@echo ... sololearn-course/Pointers.obj
+	@echo ... sololearn-course/Pointers.i
+	@echo ... sololearn-course/Pointers.s
 	@echo ... stack-data-structure/Main.obj
 	@echo ... stack-data-structure/Main.i
 	@echo ... stack-data-structure/Main.s
