@@ -22,13 +22,11 @@ int main() {
     for (int a = 0; a < 10; a++)
         cout << a << endl;
 
-    for (int a = 0; a < 50; a += 10) {
+    for (int a = 0; a < 50; a += 10)
         cout << a << endl;
-    }
 
-    for (int a = 10; a >= 0; a -= 3) {
+    for (int a = 10; a >= 0; a -= 3)
         cout << a << endl;
-    }
 
     int a = 42;
 
@@ -38,6 +36,6 @@ int main() {
     } while (a < 5);
 
     int temp;
-    std::cin >> temp;
+    cin >> temp;
     return 0;
 }

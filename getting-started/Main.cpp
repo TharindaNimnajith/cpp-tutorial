@@ -13,6 +13,6 @@ int main() {
     cout << "Number: " << favorite_number << endl;
 
     int temp;
-    std::cin >> temp;
+    cin >> temp;
     return 0;
 }

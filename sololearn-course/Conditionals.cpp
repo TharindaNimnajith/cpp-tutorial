@@ -16,39 +16,36 @@ int main() {
     int age = 18;
     if (age > 14) {
         if (age >= 18)
-            cout << "Adult";
+            cout << "Adult" << endl;
         else
-            cout << "Teenager";
+            cout << "Teenager" << endl;
     } else {
         if (age > 0)
-            cout << "Child";
+            cout << "Child" << endl;
         else
-            cout << "Something's wrong";
+            cout << "Something's wrong" << endl;
     }
 
     age = 42;
-    if (age == 16) {
-        cout << "Too young";
-    }
-    if (age == 42) {
-        cout << "Adult";
-    }
-    if (age == 70) {
-        cout << "Senior";
-    }
+    if (age == 16)
+        cout << "Too young" << endl;
+    if (age == 42)
+        cout << "Adult" << endl;
+    if (age == 70)
+        cout << "Senior" << endl;
 
     switch (age) {
         case 16:
-            cout << "Too young";
+            cout << "Too young" << endl;
             break;
         case 42:
-            cout << "Adult";
+            cout << "Adult" << endl;
             break;
         case 70:
-            cout << "Senior";
+            cout << "Senior" << endl;
             break;
         default:
-            cout << "This is the default case";
+            cout << "This is the default case" << endl;
     }
 
     switch (age) {
@@ -64,23 +61,20 @@ int main() {
 
     age = 20;
     int grade = 80;
-    if (age > 16 && age < 60 && grade > 50) {
+    if (age > 16 && age < 60 && grade > 50)
         cout << "Accepted!" << endl;
-    }
 
     age = 16;
     int score = 90;
-    if (age > 20 || score > 50) {
+    if (age > 20 || score > 50)
         cout << "Accepted!" << endl;
-    }
 
     age = 10;
-    if (!(age > 16)) {
+    if (!(age > 16))
         cout << "Your age is less than 16" << endl;
-    }
 
     int temp;
-    std::cin >> temp;
+    cin >> temp;
     return 0;
 }
 

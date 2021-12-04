@@ -48,6 +48,8 @@ CMakeFiles\cpp_tutorial.dir\socket-programming\notes\Server1.cpp.obj: ..\socket-
 
 CMakeFiles\cpp_tutorial.dir\socket-programming\notes\Server2.cpp.obj: ..\socket-programming\notes\Server2.cpp
 
+CMakeFiles\cpp_tutorial.dir\sololearn-course\Arrays.cpp.obj: ..\sololearn-course\Arrays.cpp
+
 CMakeFiles\cpp_tutorial.dir\sololearn-course\Basics.cpp.obj: ..\sololearn-course\Basics.cpp
 
 CMakeFiles\cpp_tutorial.dir\stack-data-structure\Main.cpp.obj: ..\stack-data-structure\Main.cpp

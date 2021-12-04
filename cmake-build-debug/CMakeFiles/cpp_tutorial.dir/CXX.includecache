@@ -6,37 +6,17 @@
 
 #IncludeRegexTransform: 
 
-D:/cpp-tutorial/pointers/Main.cpp
+D:/cpp-tutorial/getting-started/Main.cpp
 iostream
 -
 
-D:/cpp-tutorial/socket-programming/notes/Client2.cpp
-
-D:/cpp-tutorial/socket-programming/notes/Server2.cpp
+D:/cpp-tutorial/sololearn-course/Arrays.cpp
+iostream
+-
 
 D:/cpp-tutorial/sololearn-course/Basics.cpp
 iostream
 -
-
-D:/cpp-tutorial/uml-inheritance/A.h
-
-D:/cpp-tutorial/uml-inheritance/B.h
-A.h
-D:/cpp-tutorial/uml-inheritance/A.h
-
-D:/cpp-tutorial/uml-inheritance/C.h
-A.h
-D:/cpp-tutorial/uml-inheritance/A.h
-
-D:/cpp-tutorial/uml-inheritance/D.h
-C.h
-D:/cpp-tutorial/uml-inheritance/C.h
-B.h
-D:/cpp-tutorial/uml-inheritance/B.h
-
-D:/cpp-tutorial/uml-inheritance/Main.cpp
-iostream
+string
 -
-D.h
-D:/cpp-tutorial/uml-inheritance/D.h
 

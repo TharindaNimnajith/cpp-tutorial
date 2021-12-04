@@ -159,6 +159,9 @@
 		<Unit filename="D:/cpp-tutorial/socket-programming/notes/Server2.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
+		<Unit filename="D:/cpp-tutorial/sololearn-course/Arrays.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
 		<Unit filename="D:/cpp-tutorial/sololearn-course/Basics.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>

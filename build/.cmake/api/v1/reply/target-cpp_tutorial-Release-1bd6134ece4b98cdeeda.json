@@ -71,7 +71,8 @@
         33,
         35,
         36,
-        37
+        37,
+        38
       ]
     }
   ],
@@ -134,7 +135,8 @@
         33,
         35,
         36,
-        37
+        37,
+        38
       ]
     },
     {
@@ -370,6 +372,12 @@
       "backtrace": 1,
       "compileGroupIndex": 0,
       "path": "pointers/Main.cpp",
+      "sourceGroupIndex": 0
+    },
+    {
+      "backtrace": 1,
+      "compileGroupIndex": 0,
+      "path": "sololearn-course/Arrays.cpp",
       "sourceGroupIndex": 0
     }
   ],

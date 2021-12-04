@@ -64,6 +64,6 @@ int main() {
     cout << "Value of " << expr4 << " is " << res << endl;
 
     int temp;
-    std::cin >> temp;
+    cin >> temp;
     return 0;
 }

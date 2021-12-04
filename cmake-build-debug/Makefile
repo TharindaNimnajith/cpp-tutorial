@@ -574,6 +574,30 @@ socket-programming\notes\Server2.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\socket-programming\notes\Server2.cpp.s
 .PHONY : socket-programming\notes\Server2.cpp.s
 
+sololearn-course\Arrays.obj: sololearn-course\Arrays.cpp.obj
+.PHONY : sololearn-course\Arrays.obj
+
+# target to build an object file
+sololearn-course\Arrays.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\sololearn-course\Arrays.cpp.obj
+.PHONY : sololearn-course\Arrays.cpp.obj
+
+sololearn-course\Arrays.i: sololearn-course\Arrays.cpp.i
+.PHONY : sololearn-course\Arrays.i
+
+# target to preprocess a source file
+sololearn-course\Arrays.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\sololearn-course\Arrays.cpp.i
+.PHONY : sololearn-course\Arrays.cpp.i
+
+sololearn-course\Arrays.s: sololearn-course\Arrays.cpp.s
+.PHONY : sololearn-course\Arrays.s
+
+# target to generate assembly for a file
+sololearn-course\Arrays.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\sololearn-course\Arrays.cpp.s
+.PHONY : sololearn-course\Arrays.cpp.s
+
 sololearn-course\Basics.obj: sololearn-course\Basics.cpp.obj
 .PHONY : sololearn-course\Basics.obj
 
@@ -832,6 +856,9 @@ help:
 	@echo ... socket-programming/notes/Server2.obj
 	@echo ... socket-programming/notes/Server2.i
 	@echo ... socket-programming/notes/Server2.s
+	@echo ... sololearn-course/Arrays.obj
+	@echo ... sololearn-course/Arrays.i
+	@echo ... sololearn-course/Arrays.s
 	@echo ... sololearn-course/Basics.obj
 	@echo ... sololearn-course/Basics.i
 	@echo ... sololearn-course/Basics.s

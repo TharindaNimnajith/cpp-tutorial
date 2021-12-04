@@ -17,12 +17,21 @@
 // #include <cstdio>
 // #include <stdio.h>
 
+// string header provides the std::string class and related functions and operators
+#include <string>
+// cstring provides functions for dealing with c-style strings (null-terminated arrays of characters)
+// cstring includes functions like strlen and strcpy
+// cstring is the C++ version of the classic string.h header from C
+// #include <cstring>
+// #include <string.h>
+
 // A pragma is a compiler directive that allows to provide additional information to the compiler
 // This directive is a special purpose directive and is used to turn on or off some features
 // This type of directives are compiler-specific (vary from compiler to compiler)
 
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Wunknown-pragmas"
+#pragma ide diagnostic ignored "UnusedLocalVariable"
 #pragma ide diagnostic ignored "UnusedValue"
 
 // Namespaces provide a method for preventing name conflicts in large projects
@@ -68,8 +77,30 @@ int main() {
     y = x++;
     cout << y << endl;
 
+    // int - 4 bytes
+    // signed: A signed integer can hold both negative and positive numbers.
+    // unsigned: An unsigned integer can hold only positive values.
+    // short: Half of the default size (2 bytes).
+    // long: Twice the default size (8 bytes).
+    unsigned long int a;
+
+    // float - 4 bytes
+    // double - 8 bytes
+    // long double - 8 or 16 bytes
+    double b = 4.21;
+
+    string c = "I am learning C++";
+
+    // char variable holds a 1-byte integer
+    char test = 'S';
+
+    // If a bool is assigned to an int, true becomes 1 and false becomes 0
+    // If an int is assigned to a bool, 0 becomes false and any non-zero value becomes true
+    bool online = false;
+    bool logged_in = true;
+
     int temp;
-    std::cin >> temp;
+    cin >> temp;
     return 0;
 }
 
