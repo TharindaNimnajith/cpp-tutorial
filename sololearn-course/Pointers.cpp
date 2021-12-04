@@ -27,14 +27,39 @@ int main() {
     int *scorePtr;
     scorePtr = &score;
 
-    // & - access address of variable stored in a pointer and address of pointer itself
-    // * - find value of a variable stored in a pointer
+    // & (Address-of operator) - returns the address of variable stored in a pointer and address of pointer itself
+    // * (Contents-of or dereference operator) - returns the value of a variable stored in a pointer
     std::cout << &score << std::endl;  // memory address of score variable
     std::cout << score << std::endl;  // value of score variable (5)
     // std::cout << *score << std::endl;  // error - operand of '*' must be a pointer but has type "int"
     std::cout << scorePtr << std::endl;  // memory address of score variable
     std::cout << *scorePtr << std::endl;  // value of score variable (5)
     std::cout << &scorePtr << std::endl;  // memory address of scorePtr pointer
+    std::cout << "--------------------------------------------------------" << std::endl;
+
+    score = score + 4;
+    std::cout << &score << std::endl;  // memory address of score variable
+    std::cout << score << std::endl;  // value of score variable (9)
+    std::cout << scorePtr << std::endl;  // memory address of score variable
+    std::cout << *scorePtr << std::endl;  // value of score variable (9)
+    std::cout << &scorePtr << std::endl;  // memory address of scorePtr pointer
+    std::cout << "--------------------------------------------------------" << std::endl;
+
+    score = *scorePtr + 4;
+    std::cout << &score << std::endl;  // memory address of score variable
+    std::cout << score << std::endl;  // value of score variable (13)
+    std::cout << scorePtr << std::endl;  // memory address of score variable
+    std::cout << *scorePtr << std::endl;  // value of score variable (13)
+    std::cout << &scorePtr << std::endl;  // memory address of scorePtr pointer
+    std::cout << "--------------------------------------------------------" << std::endl;
+
+    *scorePtr = *scorePtr + 4;
+    std::cout << &score << std::endl;  // memory address of score variable
+    std::cout << score << std::endl;  // value of score variable (17)
+    std::cout << scorePtr << std::endl;  // memory address of score variable
+    std::cout << *scorePtr << std::endl;  // value of score variable (17)
+    std::cout << &scorePtr << std::endl;  // memory address of scorePtr pointer
+    std::cout << "--------------------------------------------------------" << std::endl;
 
     // asterisk sign can be placed next to the data type, variable name, or in the middle
     int *ip;  // pointer to an integer
@@ -56,6 +81,7 @@ int main() {
     std::cout << p << std::endl;  // address of v
     std::cout << *p << std::endl;  // value of v (60)
     std::cout << &p << std::endl;  // address of p
+    std::cout << "--------------------------------------------------------" << std::endl;
 
     std::cout << v2 << std::endl;  // value of v2 (70)
     std::cout << &v2 << std::endl;  // address of v2
