@@ -4,6 +4,9 @@
 
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Wunknown-pragmas"
+#pragma ide diagnostic ignored "UnusedValue"
+#pragma ide diagnostic ignored "UnusedLocalVariable"
+#pragma ide diagnostic ignored "DanglingPointer"
 #pragma ide diagnostic ignored "ConstantConditionsOC"
 
 // stack vs. heap
@@ -36,6 +39,7 @@ int main() {
     int n = 20;
     std::string str = "Stack";
     std::cout << str.size() << std::endl;
+    std::cout << "--------------------------------------------------------" << std::endl;
 
     // allocated on heap
     // 1. malloc/free - not recommended in c++ (use for c only)
@@ -48,9 +52,34 @@ int main() {
     std::cout << arr << std::endl;
     free(arr);
     arr = nullptr;
+    std::cout << "--------------------------------------------------------" << std::endl;
 
     // 2. new/delete - recommended in c++ (constructor, destructor friendly)
-    int *ptr = new int[10];
+    int *p = nullptr;  // null pointer
+    // int *p = NULL;  // null pointer - deprecated
+    // null pointer is a constant with a value of 0
+    // it is defined in several of the standard libraries, including iostream
+    int *ptr = new int[10]; // request memory
+    *ptr = {4};  // store value
+    std::cout << ptr << std::endl;
+    std::cout << *ptr << std::endl;
+    std::cout << "--------------------------------------------------------" << std::endl;
+    // delete ptr;  // free up the memory
+    delete[] ptr;  // free up the memory
+    // memory is only "freed" until it is reused but not "erased"
+    std::cout << ptr << std::endl;
+    std::cout << *ptr << std::endl;
+    std::cout << "--------------------------------------------------------" << std::endl;
+    // now ptr is a dangling pointer (pointer that is left pointing to non-existent memory location)
+    // delete operator frees up the memory allocated for the variable
+    // delete operator does not delete the pointer itself, as the pointer is stored on the stack
+    ptr = new int;  //reusing for a new address
+    *ptr = 5;  // store value
+    std::cout << ptr << std::endl;
+    std::cout << *ptr << std::endl;
+    // delete ptr;  // free up the memory
+    delete[] ptr;  // free up the memory
+    std::cout << "--------------------------------------------------------" << std::endl;
     auto *h = new std::string("Heap");
     std::cout << h << std::endl;
     if (h != nullptr) {
