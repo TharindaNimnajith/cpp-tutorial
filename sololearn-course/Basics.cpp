@@ -77,27 +77,55 @@ int main() {
     y = x++;
     cout << y << endl;
 
-    // int - 4 bytes
     // signed: A signed integer can hold both negative and positive numbers.
     // unsigned: An unsigned integer can hold only positive values.
     // short: Half of the default size (2 bytes).
     // long: Twice the default size (8 bytes).
     unsigned long int a;
 
-    // float - 4 bytes
-    // double - 8 bytes
-    // long double - 8 or 16 bytes
-    double b = 4.21;
-
-    string c = "I am learning C++";
-
-    // char variable holds a 1-byte integer
-    char test = 'S';
-
     // If a bool is assigned to an int, true becomes 1 and false becomes 0
     // If an int is assigned to a bool, 0 becomes false and any non-zero value becomes true
     bool online = false;
     bool logged_in = true;
+
+    cout << "char: " << sizeof(char) << endl;
+    cout << "bool: " << sizeof(bool) << endl;
+    cout << "short: " << sizeof(short) << endl;
+    cout << "int: " << sizeof(int) << endl;
+    cout << "long: " << sizeof(long) << endl;
+    cout << "long long: " << sizeof(long long) << endl;
+    cout << "float: " << sizeof(float) << endl;
+    cout << "double: " << sizeof(double) << endl;
+    cout << "long double: " << sizeof(long double) << endl;
+    int var = 50;
+    char test = 'S';
+    string c = "I am learning C++";
+    cout << "var: " << sizeof(var) << endl;
+    cout << "test: " << sizeof(test) << endl;
+    // cout << "c: " << sizeof(c) << endl;
+    cout << "c: " << c.size() << endl;
+    double myArr[10];
+    cout << "myArr: " << sizeof(myArr) << endl;
+    int numbers[100];
+    cout << "numbers: " << sizeof(numbers) << endl;
+    cout << "numbers[0]: " << sizeof(numbers[0]) << endl;
+    cout << "numbers/numbers[0]: " << sizeof(numbers) / sizeof(numbers[0]) << endl;
+    // char: 1
+    // bool: 1
+    // short: 2
+    // int: 4
+    // long: 4
+    // long long: 8
+    // float: 4
+    // double: 8
+    // long double: 16
+    // var: 4
+    // test: 1
+    // c: 17
+    // myArr: 80
+    // numbers: 400
+    // numbers[0]: 4
+    // numbers/numbers[0]: 100
 
     int temp;
     cin >> temp;
