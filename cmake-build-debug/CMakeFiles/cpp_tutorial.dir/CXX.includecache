@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-D:/cpp-tutorial/memory-allocation/Main.cpp
+D:/cpp-tutorial/sololearn-course/Basics.cpp
 iostream
 -
-cstring
+string
 -
 
