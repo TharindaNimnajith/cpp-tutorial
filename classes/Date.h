@@ -4,6 +4,7 @@
 
 #pragma clang diagnostic push
 #pragma ide diagnostic ignored "OCUnusedGlobalDeclarationInspection"
+#pragma ide diagnostic ignored "readability-avoid-const-params-in-decls"
 
 #ifndef CPP_TUTORIAL_DATE_H
 #define CPP_TUTORIAL_DATE_H
@@ -27,15 +28,15 @@ public:
 
     Date(int year, int month, int day);
 
-    ~Date();  // destructor
+    void setDate(const int year, const int month, const int day);
 
-    void setDate(int year, int month, int day);
+    const int getYear();
 
-    int getYear();
-
-    int getMonth();
+    int getMonth() const;
 
     int getDay();
+
+    ~Date();  // destructor
 
 };
 

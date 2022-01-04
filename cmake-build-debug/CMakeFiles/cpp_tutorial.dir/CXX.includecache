@@ -6,31 +6,15 @@
 
 #IncludeRegexTransform: 
 
-D:/cpp-tutorial/inheritance/Main.cpp
+D:/cpp-tutorial/classes/Date.cpp
+Date.h
+D:/cpp-tutorial/classes/Date.h
+
+D:/cpp-tutorial/classes/Date.h
+
+D:/cpp-tutorial/classes/Main.cpp
 iostream
 -
-Rectangle.h
-D:/cpp-tutorial/inheritance/Rectangle.h
-X.h
-D:/cpp-tutorial/inheritance/X.h
-Y.h
-D:/cpp-tutorial/inheritance/Y.h
-
-D:/cpp-tutorial/inheritance/Rectangle.h
-Shape.h
-D:/cpp-tutorial/inheritance/Shape.h
-
-D:/cpp-tutorial/inheritance/Shape.h
-
-D:/cpp-tutorial/inheritance/X.h
-
-D:/cpp-tutorial/inheritance/Y.cpp
-iostream
--
-Y.h
-D:/cpp-tutorial/inheritance/Y.h
-
-D:/cpp-tutorial/inheritance/Y.h
-X.h
-D:/cpp-tutorial/inheritance/X.h
+Date.h
+D:/cpp-tutorial/classes/Date.h
 
