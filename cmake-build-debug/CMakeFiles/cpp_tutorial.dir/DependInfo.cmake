@@ -18,6 +18,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "D:/cpp-tutorial/memory-allocation/Main.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/memory-allocation/Main.cpp.obj"
   "D:/cpp-tutorial/memory-stack/Main.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/memory-stack/Main.cpp.obj"
   "D:/cpp-tutorial/namespaces/Main.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/namespaces/Main.cpp.obj"
+  "D:/cpp-tutorial/parameter-passing/Main.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/parameter-passing/Main.cpp.obj"
   "D:/cpp-tutorial/pointers/Main.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/pointers/Main.cpp.obj"
   "D:/cpp-tutorial/singleton-pattern/Main.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/singleton-pattern/Main.cpp.obj"
   "D:/cpp-tutorial/singleton-pattern/Singleton.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/singleton-pattern/Singleton.cpp.obj"

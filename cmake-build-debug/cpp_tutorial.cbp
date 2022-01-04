@@ -126,6 +126,9 @@
 		<Unit filename="D:/cpp-tutorial/namespaces/Main.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
+		<Unit filename="D:/cpp-tutorial/parameter-passing/Main.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
 		<Unit filename="D:/cpp-tutorial/pointers/Main.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>

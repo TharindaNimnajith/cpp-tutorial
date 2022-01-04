@@ -358,6 +358,30 @@ namespaces\Main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\namespaces\Main.cpp.s
 .PHONY : namespaces\Main.cpp.s
 
+parameter-passing\Main.obj: parameter-passing\Main.cpp.obj
+.PHONY : parameter-passing\Main.obj
+
+# target to build an object file
+parameter-passing\Main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\parameter-passing\Main.cpp.obj
+.PHONY : parameter-passing\Main.cpp.obj
+
+parameter-passing\Main.i: parameter-passing\Main.cpp.i
+.PHONY : parameter-passing\Main.i
+
+# target to preprocess a source file
+parameter-passing\Main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\parameter-passing\Main.cpp.i
+.PHONY : parameter-passing\Main.cpp.i
+
+parameter-passing\Main.s: parameter-passing\Main.cpp.s
+.PHONY : parameter-passing\Main.s
+
+# target to generate assembly for a file
+parameter-passing\Main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\parameter-passing\Main.cpp.s
+.PHONY : parameter-passing\Main.cpp.s
+
 pointers\Main.obj: pointers\Main.cpp.obj
 .PHONY : pointers\Main.obj
 
@@ -853,6 +877,9 @@ help:
 	@echo ... namespaces/Main.obj
 	@echo ... namespaces/Main.i
 	@echo ... namespaces/Main.s
+	@echo ... parameter-passing/Main.obj
+	@echo ... parameter-passing/Main.i
+	@echo ... parameter-passing/Main.s
 	@echo ... pointers/Main.obj
 	@echo ... pointers/Main.i
 	@echo ... pointers/Main.s

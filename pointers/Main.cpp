@@ -42,6 +42,7 @@ int main() {
     std::cout << "Address of x: " << pX << std::endl;
     std::cout << "Address of text: " << pText << std::endl;
 
+    // dereferencing
     std::cout << "Value of x: " << *pX << std::endl;
     std::cout << "Value of text: " << *pText << std::endl;
 

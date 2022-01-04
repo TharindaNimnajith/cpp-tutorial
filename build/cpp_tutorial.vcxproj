@@ -357,6 +357,9 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </ClCompile>
     <ClCompile Include="D:\cpp-tutorial\sololearn-course\Arrays.cpp" />
     <ClCompile Include="D:\cpp-tutorial\sololearn-course\Pointers.cpp" />
+    <ClCompile Include="D:\cpp-tutorial\parameter-passing\Main.cpp">
+      <ObjectFileName>$(IntDir)/parameter-passing/Main.cpp.obj</ObjectFileName>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="D:\cpp-tutorial\build\ZERO_CHECK.vcxproj">
