@@ -40,10 +40,16 @@
     <ClCompile Include="D:\cpp-tutorial\memory-stack\Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\cpp-tutorial\stack-data-structure\StackTemplate.cpp">
+    <ClCompile Include="D:\cpp-tutorial\stack-data-structure\Stack.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="D:\cpp-tutorial\stack-data-structure\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpp-tutorial\stack-data-structure-template\StackTemplate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpp-tutorial\stack-data-structure-template\Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="D:\cpp-tutorial\math-expression-parser\Main.cpp">
@@ -150,7 +156,10 @@
     <ClInclude Include="D:\cpp-tutorial\uml-inheritance\D.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="D:\cpp-tutorial\stack-data-structure\StackTemplate.h">
+    <ClInclude Include="D:\cpp-tutorial\stack-data-structure\Stack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpp-tutorial\stack-data-structure-template\StackTemplate.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="D:\cpp-tutorial\dynamic-linking\SortingAlgorithms.h">

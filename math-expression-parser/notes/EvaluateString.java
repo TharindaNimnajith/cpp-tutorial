@@ -2,13 +2,13 @@
 // Created by ASUS on 11/22/2021.
 //
 
-import java.util.StackTemplate;
+import java.util.Stack;
 
 class EvaluateString {
     public static int evaluate(String expression) {
         char[] tokens = expression.toCharArray();
-        StackTemplate<Integer> values = new StackTemplate<Integer>();
-        StackTemplate<Character> ops = new StackTemplate<Character>();
+        Stack<Integer> values = new Stack<Integer>();
+        Stack<Character> ops = new Stack<Character>();
 
         for (int i = 0; i < tokens.length; i++) {
             if (tokens[i] == ' ')

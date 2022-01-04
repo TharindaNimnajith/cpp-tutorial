@@ -325,10 +325,15 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClCompile Include="D:\cpp-tutorial\memory-stack\Main.cpp">
       <ObjectFileName>$(IntDir)/memory-stack/Main.cpp.obj</ObjectFileName>
     </ClCompile>
-    <ClCompile Include="D:\cpp-tutorial\stack-data-structure\StackTemplate.cpp" />
-    <ClInclude Include="D:\cpp-tutorial\stack-data-structure\StackTemplate.h" />
+    <ClCompile Include="D:\cpp-tutorial\stack-data-structure\Stack.cpp" />
+    <ClInclude Include="D:\cpp-tutorial\stack-data-structure\Stack.h" />
     <ClCompile Include="D:\cpp-tutorial\stack-data-structure\Main.cpp">
       <ObjectFileName>$(IntDir)/stack-data-structure/Main.cpp.obj</ObjectFileName>
+    </ClCompile>
+    <ClCompile Include="D:\cpp-tutorial\stack-data-structure-template\StackTemplate.cpp" />
+    <ClInclude Include="D:\cpp-tutorial\stack-data-structure-template\StackTemplate.h" />
+    <ClCompile Include="D:\cpp-tutorial\stack-data-structure-template\Main.cpp">
+      <ObjectFileName>$(IntDir)/stack-data-structure-template/Main.cpp.obj</ObjectFileName>
     </ClCompile>
     <ClCompile Include="D:\cpp-tutorial\math-expression-parser\Main.cpp">
       <ObjectFileName>$(IntDir)/math-expression-parser/Main.cpp.obj</ObjectFileName>
