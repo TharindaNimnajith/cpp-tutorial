@@ -26,6 +26,11 @@ public:
 
     virtual void qux();
 
+    // if a class has at least one method with no implementation it is an interface
+    // derived class must implement this method
+    virtual void run() = 0;
+
+    // base class destructor should be virtual
     virtual ~X();
 
 };

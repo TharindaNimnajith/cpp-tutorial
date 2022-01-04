@@ -100,6 +100,30 @@
     <ClCompile Include="D:\cpp-tutorial\data-structures\Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="D:\cpp-tutorial\operator-overloading\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpp-tutorial\operator-overloading\Box.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpp-tutorial\templates\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpp-tutorial\inheritance\X.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpp-tutorial\inheritance\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpp-tutorial\inheritance\Rectangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpp-tutorial\inheritance\Shape.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpp-tutorial\inheritance\Y.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="D:\cpp-tutorial\clion-test\Student.h">
@@ -136,6 +160,21 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="D:\cpp-tutorial\classes\Date.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpp-tutorial\operator-overloading\Box.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpp-tutorial\inheritance\X.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpp-tutorial\inheritance\Rectangle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpp-tutorial\inheritance\Shape.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpp-tutorial\inheritance\Y.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

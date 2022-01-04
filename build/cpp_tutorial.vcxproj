@@ -368,6 +368,25 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClCompile Include="D:\cpp-tutorial\data-structures\Main.cpp">
       <ObjectFileName>$(IntDir)/data-structures/Main.cpp.obj</ObjectFileName>
     </ClCompile>
+    <ClCompile Include="D:\cpp-tutorial\operator-overloading\Main.cpp">
+      <ObjectFileName>$(IntDir)/operator-overloading/Main.cpp.obj</ObjectFileName>
+    </ClCompile>
+    <ClCompile Include="D:\cpp-tutorial\operator-overloading\Box.cpp" />
+    <ClInclude Include="D:\cpp-tutorial\operator-overloading\Box.h" />
+    <ClCompile Include="D:\cpp-tutorial\templates\Main.cpp">
+      <ObjectFileName>$(IntDir)/templates/Main.cpp.obj</ObjectFileName>
+    </ClCompile>
+    <ClCompile Include="D:\cpp-tutorial\inheritance\X.cpp" />
+    <ClInclude Include="D:\cpp-tutorial\inheritance\X.h" />
+    <ClCompile Include="D:\cpp-tutorial\inheritance\Main.cpp">
+      <ObjectFileName>$(IntDir)/inheritance/Main.cpp.obj</ObjectFileName>
+    </ClCompile>
+    <ClCompile Include="D:\cpp-tutorial\inheritance\Rectangle.cpp" />
+    <ClInclude Include="D:\cpp-tutorial\inheritance\Rectangle.h" />
+    <ClCompile Include="D:\cpp-tutorial\inheritance\Shape.cpp" />
+    <ClInclude Include="D:\cpp-tutorial\inheritance\Shape.h" />
+    <ClCompile Include="D:\cpp-tutorial\inheritance\Y.cpp" />
+    <ClInclude Include="D:\cpp-tutorial\inheritance\Y.h" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="D:\cpp-tutorial\build\ZERO_CHECK.vcxproj">

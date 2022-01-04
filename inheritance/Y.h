@@ -19,6 +19,8 @@ public:
 
     void bar() override;
 
+    void run() override;
+
     ~Y() override;
 
 };

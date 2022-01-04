@@ -14,6 +14,10 @@ void Y::bar() {
     std::cout << "Y's implementation of bar" << std::endl;
 }
 
+void Y::run() {
+    std::cout << "Y's implementation of run" << std::endl;
+}
+
 Y::~Y() {
     std::cout << "Y destructor called" << std::endl;
 }
