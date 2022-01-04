@@ -6,9 +6,17 @@
 
 #IncludeRegexTransform: 
 
-D:/cpp-tutorial/sololearn-course/Basics.cpp
-iostream
--
+D:/cpp-tutorial/classes/Date.cpp
 string
 -
+Date.h
+D:/cpp-tutorial/classes/Date.h
+
+D:/cpp-tutorial/classes/Date.h
+
+D:/cpp-tutorial/classes/Main.cpp
+iostream
+-
+Date.h
+D:/cpp-tutorial/classes/Date.h
 
