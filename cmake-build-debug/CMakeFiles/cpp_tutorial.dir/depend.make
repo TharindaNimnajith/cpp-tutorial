@@ -33,6 +33,12 @@ CMakeFiles\cpp_tutorial.dir\memory-stack\Main.cpp.obj: ..\memory-stack\Main.cpp
 
 CMakeFiles\cpp_tutorial.dir\namespaces\Main.cpp.obj: ..\namespaces\Main.cpp
 
+CMakeFiles\cpp_tutorial.dir\operator-overloading\Box.cpp.obj: ..\operator-overloading\Box.cpp
+CMakeFiles\cpp_tutorial.dir\operator-overloading\Box.cpp.obj: ..\operator-overloading\Box.h
+
+CMakeFiles\cpp_tutorial.dir\operator-overloading\Main.cpp.obj: ..\operator-overloading\Box.h
+CMakeFiles\cpp_tutorial.dir\operator-overloading\Main.cpp.obj: ..\operator-overloading\Main.cpp
+
 CMakeFiles\cpp_tutorial.dir\parameter-passing\Main.cpp.obj: ..\parameter-passing\Main.cpp
 
 CMakeFiles\cpp_tutorial.dir\pointers\Main.cpp.obj: ..\pointers\Main.cpp

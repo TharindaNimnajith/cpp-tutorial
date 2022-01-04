@@ -6,6 +6,12 @@
 
 #IncludeRegexTransform: 
 
+D:/cpp-tutorial/classes/Date.cpp
+Date.h
+D:/cpp-tutorial/classes/Date.h
+
+D:/cpp-tutorial/classes/Date.h
+
 D:/cpp-tutorial/dynamic-linking/SortingAlgorithms.cpp
 SortingAlgorithms.h
 D:/cpp-tutorial/dynamic-linking/SortingAlgorithms.h
@@ -16,6 +22,28 @@ iostream
 vector
 -
 
+D:/cpp-tutorial/operator-overloading/Box.cpp
+Box.h
+D:/cpp-tutorial/operator-overloading/Box.h
+
+D:/cpp-tutorial/operator-overloading/Box.h
+
+D:/cpp-tutorial/operator-overloading/Main.cpp
+iostream
+-
+Box.h
+D:/cpp-tutorial/operator-overloading/Box.h
+
+D:/cpp-tutorial/pointers/Main.cpp
+iostream
+-
+
+D:/cpp-tutorial/sololearn-course/Basics.cpp
+iostream
+-
+string
+-
+
 D:/cpp-tutorial/uml-inheritance/A.cpp
 iostream
 -
@@ -23,36 +51,4 @@ A.h
 D:/cpp-tutorial/uml-inheritance/A.h
 
 D:/cpp-tutorial/uml-inheritance/A.h
-
-D:/cpp-tutorial/uml-inheritance/B.cpp
-iostream
--
-B.h
-D:/cpp-tutorial/uml-inheritance/B.h
-
-D:/cpp-tutorial/uml-inheritance/B.h
-A.h
-D:/cpp-tutorial/uml-inheritance/A.h
-
-D:/cpp-tutorial/uml-inheritance/C.cpp
-iostream
--
-C.h
-D:/cpp-tutorial/uml-inheritance/C.h
-
-D:/cpp-tutorial/uml-inheritance/C.h
-A.h
-D:/cpp-tutorial/uml-inheritance/A.h
-
-D:/cpp-tutorial/uml-inheritance/D.cpp
-iostream
--
-D.h
-D:/cpp-tutorial/uml-inheritance/D.h
-
-D:/cpp-tutorial/uml-inheritance/D.h
-C.h
-D:/cpp-tutorial/uml-inheritance/C.h
-B.h
-D:/cpp-tutorial/uml-inheritance/B.h
 
