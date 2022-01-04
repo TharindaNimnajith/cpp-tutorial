@@ -13,6 +13,8 @@ CMakeFiles\cpp_tutorial.dir\clion-test\Employee.cpp.obj: ..\clion-test\Employee.
 CMakeFiles\cpp_tutorial.dir\clion-test\Student.cpp.obj: ..\clion-test\Student.cpp
 CMakeFiles\cpp_tutorial.dir\clion-test\Student.cpp.obj: ..\clion-test\Student.h
 
+CMakeFiles\cpp_tutorial.dir\data-structures\Main.cpp.obj: ..\data-structures\Main.cpp
+
 CMakeFiles\cpp_tutorial.dir\dynamic-linking\SortingAlgorithms.cpp.obj: ..\dynamic-linking\SortingAlgorithms.cpp
 CMakeFiles\cpp_tutorial.dir\dynamic-linking\SortingAlgorithms.cpp.obj: ..\dynamic-linking\SortingAlgorithms.h
 

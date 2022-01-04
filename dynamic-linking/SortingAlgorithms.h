@@ -2,6 +2,11 @@
 // Created by ASUS on 11/29/2021.
 //
 
+#pragma clang diagnostic push
+#pragma ide diagnostic ignored "OCUnusedStructInspection"
+#pragma clang diagnostic ignored "-Wunknown-pragmas"
+#pragma ide diagnostic ignored "OCUnusedGlobalDeclarationInspection"
+
 #ifndef CPP_TUTORIAL_SORTINGALGORITHMS_H
 #define CPP_TUTORIAL_SORTINGALGORITHMS_H
 
@@ -33,3 +38,5 @@ public:
 
 
 #endif //CPP_TUTORIAL_SORTINGALGORITHMS_H
+
+#pragma clang diagnostic pop

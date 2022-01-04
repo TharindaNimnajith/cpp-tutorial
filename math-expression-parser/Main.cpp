@@ -2,6 +2,10 @@
 // Created by ASUS on 11/22/2021.
 //
 
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Wunknown-pragmas"
+#pragma ide diagnostic ignored "OCUnusedGlobalDeclarationInspection"
+
 #include <iostream>
 #include <cstring>
 
@@ -51,3 +55,5 @@ int main() {
     std::cin >> temp;
     return 0;
 }
+
+#pragma clang diagnostic pop

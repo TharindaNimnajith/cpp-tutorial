@@ -13,7 +13,9 @@ class D : public B, public C {
 
 private:
 
+
 public:
+
     D();
 
     ~D();

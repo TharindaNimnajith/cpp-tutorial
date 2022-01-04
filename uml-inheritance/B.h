@@ -11,9 +11,12 @@
 class B : public A {
 
 protected:
+
     int y;
 
+
 public:
+
     B();
 
     ~B();

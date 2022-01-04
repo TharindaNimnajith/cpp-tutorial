@@ -11,10 +11,14 @@
 class Stack {
 
 private:
+
     int top;
+
     int stack[];
 
+
 public:
+
     Stack();
 
     bool push(int x);
