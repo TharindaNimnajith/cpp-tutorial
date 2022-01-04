@@ -6,15 +6,5 @@
 
 #IncludeRegexTransform: 
 
-D:/cpp-tutorial/classes/Date.cpp
-Date.h
-D:/cpp-tutorial/classes/Date.h
-
-D:/cpp-tutorial/classes/Date.h
-
-D:/cpp-tutorial/classes/Main.cpp
-iostream
--
-Date.h
-D:/cpp-tutorial/classes/Date.h
+D:/cpp-tutorial/const-pointers/Main.cpp
 

@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/cpp_tutorial.dir/classes/Main.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/clion-test/Employee.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/clion-test/Student.cpp.obj"
+  "CMakeFiles/cpp_tutorial.dir/const-pointers/Main.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/data-structures/Main.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/dynamic-linking/SortingAlgorithms.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/getting-started/LinkerError.cpp.obj"

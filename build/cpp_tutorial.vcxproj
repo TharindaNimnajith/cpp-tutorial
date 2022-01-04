@@ -387,6 +387,9 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClInclude Include="D:\cpp-tutorial\inheritance\Shape.h" />
     <ClCompile Include="D:\cpp-tutorial\inheritance\Y.cpp" />
     <ClInclude Include="D:\cpp-tutorial\inheritance\Y.h" />
+    <ClCompile Include="D:\cpp-tutorial\const-pointers\Main.cpp">
+      <ObjectFileName>$(IntDir)/const-pointers/Main.cpp.obj</ObjectFileName>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="D:\cpp-tutorial\build\ZERO_CHECK.vcxproj">

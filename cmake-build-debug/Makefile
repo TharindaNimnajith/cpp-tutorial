@@ -214,6 +214,30 @@ clion-test\Student.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\clion-test\Student.cpp.s
 .PHONY : clion-test\Student.cpp.s
 
+const-pointers\Main.obj: const-pointers\Main.cpp.obj
+.PHONY : const-pointers\Main.obj
+
+# target to build an object file
+const-pointers\Main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\const-pointers\Main.cpp.obj
+.PHONY : const-pointers\Main.cpp.obj
+
+const-pointers\Main.i: const-pointers\Main.cpp.i
+.PHONY : const-pointers\Main.i
+
+# target to preprocess a source file
+const-pointers\Main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\const-pointers\Main.cpp.i
+.PHONY : const-pointers\Main.cpp.i
+
+const-pointers\Main.s: const-pointers\Main.cpp.s
+.PHONY : const-pointers\Main.s
+
+# target to generate assembly for a file
+const-pointers\Main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\const-pointers\Main.cpp.s
+.PHONY : const-pointers\Main.cpp.s
+
 data-structures\Main.obj: data-structures\Main.cpp.obj
 .PHONY : data-structures\Main.obj
 
@@ -1123,6 +1147,9 @@ help:
 	@echo ... clion-test/Student.obj
 	@echo ... clion-test/Student.i
 	@echo ... clion-test/Student.s
+	@echo ... const-pointers/Main.obj
+	@echo ... const-pointers/Main.i
+	@echo ... const-pointers/Main.s
 	@echo ... data-structures/Main.obj
 	@echo ... data-structures/Main.i
 	@echo ... data-structures/Main.s
