@@ -9,8 +9,8 @@
 
 D::D() {
     std::cout << "D Constructor" << std::endl;
-};
+}
 
 D::~D() {
     std::cout << "D Destructor" << std::endl;
-};
+}

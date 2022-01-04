@@ -13,8 +13,8 @@ void C::run() {
 C::C() {
     C::z = 0;
     std::cout << "C Constructor" << std::endl;
-};
+}
 
 C::~C() {
     std::cout << "C Destructor" << std::endl;
-};
+}

@@ -13,8 +13,8 @@ void B::run() {
 B::B() {
     B::y = 0;
     std::cout << "B Constructor" << std::endl;
-};
+}
 
 B::~B() {
     std::cout << "B Destructor" << std::endl;
-};
+}

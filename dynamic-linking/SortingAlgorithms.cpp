@@ -2,6 +2,12 @@
 // Created by ASUS on 11/29/2021.
 //
 
+#pragma clang diagnostic push
+#pragma ide diagnostic ignored "OCUnusedGlobalDeclarationInspection"
+#pragma ide diagnostic ignored "misc-no-recursion"
+#pragma ide diagnostic ignored "readability-convert-member-functions-to-static"
+#pragma clang diagnostic ignored "-Wunknown-pragmas"
+
 #include "SortingAlgorithms.h"
 
 SortingAlgorithms::SortingAlgorithms() = default;
@@ -48,3 +54,5 @@ void SortingAlgorithms::quickSort(std::vector<int> &toSort, int low, int high) {
 }
 
 SortingAlgorithms::~SortingAlgorithms() = default;
+
+#pragma clang diagnostic pop
