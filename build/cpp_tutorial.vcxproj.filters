@@ -46,12 +46,6 @@
     <ClCompile Include="D:\cpp-tutorial\stack-data-structure\Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\cpp-tutorial\stack-data-structure-template\StackTemplate.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="D:\cpp-tutorial\stack-data-structure-template\Main.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="D:\cpp-tutorial\math-expression-parser\Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -157,9 +151,6 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="D:\cpp-tutorial\stack-data-structure\Stack.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="D:\cpp-tutorial\stack-data-structure-template\StackTemplate.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="D:\cpp-tutorial\dynamic-linking\SortingAlgorithms.h">
