@@ -84,6 +84,15 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/cpp-tutorial/classes/Date.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="D:/cpp-tutorial/classes/Date.h">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="D:/cpp-tutorial/classes/Main.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
 		<Unit filename="D:/cpp-tutorial/clion-test/Employee.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>

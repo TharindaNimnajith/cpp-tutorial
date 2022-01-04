@@ -118,6 +118,54 @@ cpp_tutorial\fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\build
 .PHONY : cpp_tutorial\fast
 
+classes\Date.obj: classes\Date.cpp.obj
+.PHONY : classes\Date.obj
+
+# target to build an object file
+classes\Date.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\classes\Date.cpp.obj
+.PHONY : classes\Date.cpp.obj
+
+classes\Date.i: classes\Date.cpp.i
+.PHONY : classes\Date.i
+
+# target to preprocess a source file
+classes\Date.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\classes\Date.cpp.i
+.PHONY : classes\Date.cpp.i
+
+classes\Date.s: classes\Date.cpp.s
+.PHONY : classes\Date.s
+
+# target to generate assembly for a file
+classes\Date.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\classes\Date.cpp.s
+.PHONY : classes\Date.cpp.s
+
+classes\Main.obj: classes\Main.cpp.obj
+.PHONY : classes\Main.obj
+
+# target to build an object file
+classes\Main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\classes\Main.cpp.obj
+.PHONY : classes\Main.cpp.obj
+
+classes\Main.i: classes\Main.cpp.i
+.PHONY : classes\Main.i
+
+# target to preprocess a source file
+classes\Main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\classes\Main.cpp.i
+.PHONY : classes\Main.cpp.i
+
+classes\Main.s: classes\Main.cpp.s
+.PHONY : classes\Main.s
+
+# target to generate assembly for a file
+classes\Main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\classes\Main.cpp.s
+.PHONY : classes\Main.cpp.s
+
 clion-test\Employee.obj: clion-test\Employee.cpp.obj
 .PHONY : clion-test\Employee.obj
 
@@ -847,6 +895,12 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... cpp_tutorial
+	@echo ... classes/Date.obj
+	@echo ... classes/Date.i
+	@echo ... classes/Date.s
+	@echo ... classes/Main.obj
+	@echo ... classes/Main.i
+	@echo ... classes/Main.s
 	@echo ... clion-test/Employee.obj
 	@echo ... clion-test/Employee.i
 	@echo ... clion-test/Employee.s

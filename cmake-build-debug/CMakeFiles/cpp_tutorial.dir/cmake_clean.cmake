@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/cpp_tutorial.dir/classes/Date.cpp.obj"
+  "CMakeFiles/cpp_tutorial.dir/classes/Main.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/clion-test/Employee.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/clion-test/Student.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/dynamic-linking/SortingAlgorithms.cpp.obj"

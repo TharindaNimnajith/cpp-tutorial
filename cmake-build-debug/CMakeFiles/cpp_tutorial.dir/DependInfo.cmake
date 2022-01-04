@@ -8,6 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "D:/cpp-tutorial/classes/Date.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/classes/Date.cpp.obj"
+  "D:/cpp-tutorial/classes/Main.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/classes/Main.cpp.obj"
   "D:/cpp-tutorial/clion-test/Employee.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/clion-test/Employee.cpp.obj"
   "D:/cpp-tutorial/clion-test/Student.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/clion-test/Student.cpp.obj"
   "D:/cpp-tutorial/dynamic-linking/SortingAlgorithms.cpp" "D:/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/dynamic-linking/SortingAlgorithms.cpp.obj"
