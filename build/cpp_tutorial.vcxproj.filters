@@ -40,7 +40,7 @@
     <ClCompile Include="D:\cpp-tutorial\memory-stack\Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\cpp-tutorial\stack-data-structure\Stack.cpp">
+    <ClCompile Include="D:\cpp-tutorial\stack-data-structure\StackTemplate.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="D:\cpp-tutorial\stack-data-structure\Main.cpp">
@@ -150,7 +150,7 @@
     <ClInclude Include="D:\cpp-tutorial\uml-inheritance\D.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="D:\cpp-tutorial\stack-data-structure\Stack.h">
+    <ClInclude Include="D:\cpp-tutorial\stack-data-structure\StackTemplate.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="D:\cpp-tutorial\dynamic-linking\SortingAlgorithms.h">
