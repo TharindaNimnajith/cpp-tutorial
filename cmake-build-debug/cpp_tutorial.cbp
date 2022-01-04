@@ -138,6 +138,15 @@
 		<Unit filename="D:/cpp-tutorial/namespaces/Main.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
+		<Unit filename="D:/cpp-tutorial/operator-overloading/Box.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="D:/cpp-tutorial/operator-overloading/Box.h">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="D:/cpp-tutorial/operator-overloading/Main.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
 		<Unit filename="D:/cpp-tutorial/parameter-passing/Main.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>

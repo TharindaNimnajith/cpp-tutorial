@@ -3,11 +3,11 @@
 //
 
 #pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Wunknown-pragmas"
 #pragma ide diagnostic ignored "OCUnusedGlobalDeclarationInspection"
 #pragma ide diagnostic ignored "modernize-use-equals-default"
 #pragma ide diagnostic ignored "modernize-use-auto"
 #pragma ide diagnostic ignored "readability-make-member-function-const"
-#pragma clang diagnostic ignored "-Wunknown-pragmas"
 
 // #include <string>
 #include "Date.h"

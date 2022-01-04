@@ -430,6 +430,54 @@ namespaces\Main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\namespaces\Main.cpp.s
 .PHONY : namespaces\Main.cpp.s
 
+operator-overloading\Box.obj: operator-overloading\Box.cpp.obj
+.PHONY : operator-overloading\Box.obj
+
+# target to build an object file
+operator-overloading\Box.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\operator-overloading\Box.cpp.obj
+.PHONY : operator-overloading\Box.cpp.obj
+
+operator-overloading\Box.i: operator-overloading\Box.cpp.i
+.PHONY : operator-overloading\Box.i
+
+# target to preprocess a source file
+operator-overloading\Box.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\operator-overloading\Box.cpp.i
+.PHONY : operator-overloading\Box.cpp.i
+
+operator-overloading\Box.s: operator-overloading\Box.cpp.s
+.PHONY : operator-overloading\Box.s
+
+# target to generate assembly for a file
+operator-overloading\Box.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\operator-overloading\Box.cpp.s
+.PHONY : operator-overloading\Box.cpp.s
+
+operator-overloading\Main.obj: operator-overloading\Main.cpp.obj
+.PHONY : operator-overloading\Main.obj
+
+# target to build an object file
+operator-overloading\Main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\operator-overloading\Main.cpp.obj
+.PHONY : operator-overloading\Main.cpp.obj
+
+operator-overloading\Main.i: operator-overloading\Main.cpp.i
+.PHONY : operator-overloading\Main.i
+
+# target to preprocess a source file
+operator-overloading\Main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\operator-overloading\Main.cpp.i
+.PHONY : operator-overloading\Main.cpp.i
+
+operator-overloading\Main.s: operator-overloading\Main.cpp.s
+.PHONY : operator-overloading\Main.s
+
+# target to generate assembly for a file
+operator-overloading\Main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\operator-overloading\Main.cpp.s
+.PHONY : operator-overloading\Main.cpp.s
+
 parameter-passing\Main.obj: parameter-passing\Main.cpp.obj
 .PHONY : parameter-passing\Main.obj
 
@@ -958,6 +1006,12 @@ help:
 	@echo ... namespaces/Main.obj
 	@echo ... namespaces/Main.i
 	@echo ... namespaces/Main.s
+	@echo ... operator-overloading/Box.obj
+	@echo ... operator-overloading/Box.i
+	@echo ... operator-overloading/Box.s
+	@echo ... operator-overloading/Main.obj
+	@echo ... operator-overloading/Main.i
+	@echo ... operator-overloading/Main.s
 	@echo ... parameter-passing/Main.obj
 	@echo ... parameter-passing/Main.i
 	@echo ... parameter-passing/Main.s

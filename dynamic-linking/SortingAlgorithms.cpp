@@ -3,10 +3,10 @@
 //
 
 #pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Wunknown-pragmas"
 #pragma ide diagnostic ignored "OCUnusedGlobalDeclarationInspection"
 #pragma ide diagnostic ignored "misc-no-recursion"
 #pragma ide diagnostic ignored "readability-convert-member-functions-to-static"
-#pragma clang diagnostic ignored "-Wunknown-pragmas"
 
 #include "SortingAlgorithms.h"
 

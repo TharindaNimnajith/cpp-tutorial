@@ -3,8 +3,8 @@
 //
 
 #pragma clang diagnostic push
-#pragma ide diagnostic ignored "OCUnusedStructInspection"
 #pragma clang diagnostic ignored "-Wunknown-pragmas"
+#pragma ide diagnostic ignored "OCUnusedStructInspection"
 #pragma ide diagnostic ignored "OCUnusedGlobalDeclarationInspection"
 
 #ifndef CPP_TUTORIAL_SORTINGALGORITHMS_H

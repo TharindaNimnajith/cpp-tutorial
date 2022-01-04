@@ -12,6 +12,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/cpp_tutorial.dir/memory-allocation/Main.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/memory-stack/Main.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/namespaces/Main.cpp.obj"
+  "CMakeFiles/cpp_tutorial.dir/operator-overloading/Box.cpp.obj"
+  "CMakeFiles/cpp_tutorial.dir/operator-overloading/Main.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/parameter-passing/Main.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/pointers/Main.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/singleton-pattern/Main.cpp.obj"

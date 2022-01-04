@@ -8,6 +8,15 @@
 // preprocessor directive on a line
 // Preprocessor directives are not C++ statements, so they do not end in a semicolon
 
+// A pragma is a compiler directive that allows to provide additional information to the compiler
+// This directive is a special purpose directive and is used to turn on or off some features
+// This type of directives are compiler-specific (vary from compiler to compiler)
+
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Wunknown-pragmas"
+#pragma ide diagnostic ignored "UnusedLocalVariable"
+#pragma ide diagnostic ignored "UnusedValue"
+
 // iostream stands for standard input-output stream
 #include <iostream>
 // https://www.quora.com/What-is-the-difference-between-cstdio-and-stdio-h
@@ -24,15 +33,6 @@
 // cstring is the C++ version of the classic string.h header from C
 // #include <cstring>
 // #include <string.h>
-
-// A pragma is a compiler directive that allows to provide additional information to the compiler
-// This directive is a special purpose directive and is used to turn on or off some features
-// This type of directives are compiler-specific (vary from compiler to compiler)
-
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Wunknown-pragmas"
-#pragma ide diagnostic ignored "UnusedLocalVariable"
-#pragma ide diagnostic ignored "UnusedValue"
 
 // Namespaces provide a method for preventing name conflicts in large projects
 // Symbols declared inside a namespace block are placed in a named scope that prevents them from
