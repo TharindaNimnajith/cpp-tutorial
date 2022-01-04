@@ -334,6 +334,126 @@ header-definition\Main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\header-definition\Main.cpp.s
 .PHONY : header-definition\Main.cpp.s
 
+inheritance\Main.obj: inheritance\Main.cpp.obj
+.PHONY : inheritance\Main.obj
+
+# target to build an object file
+inheritance\Main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\inheritance\Main.cpp.obj
+.PHONY : inheritance\Main.cpp.obj
+
+inheritance\Main.i: inheritance\Main.cpp.i
+.PHONY : inheritance\Main.i
+
+# target to preprocess a source file
+inheritance\Main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\inheritance\Main.cpp.i
+.PHONY : inheritance\Main.cpp.i
+
+inheritance\Main.s: inheritance\Main.cpp.s
+.PHONY : inheritance\Main.s
+
+# target to generate assembly for a file
+inheritance\Main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\inheritance\Main.cpp.s
+.PHONY : inheritance\Main.cpp.s
+
+inheritance\Rectangle.obj: inheritance\Rectangle.cpp.obj
+.PHONY : inheritance\Rectangle.obj
+
+# target to build an object file
+inheritance\Rectangle.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\inheritance\Rectangle.cpp.obj
+.PHONY : inheritance\Rectangle.cpp.obj
+
+inheritance\Rectangle.i: inheritance\Rectangle.cpp.i
+.PHONY : inheritance\Rectangle.i
+
+# target to preprocess a source file
+inheritance\Rectangle.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\inheritance\Rectangle.cpp.i
+.PHONY : inheritance\Rectangle.cpp.i
+
+inheritance\Rectangle.s: inheritance\Rectangle.cpp.s
+.PHONY : inheritance\Rectangle.s
+
+# target to generate assembly for a file
+inheritance\Rectangle.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\inheritance\Rectangle.cpp.s
+.PHONY : inheritance\Rectangle.cpp.s
+
+inheritance\Shape.obj: inheritance\Shape.cpp.obj
+.PHONY : inheritance\Shape.obj
+
+# target to build an object file
+inheritance\Shape.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\inheritance\Shape.cpp.obj
+.PHONY : inheritance\Shape.cpp.obj
+
+inheritance\Shape.i: inheritance\Shape.cpp.i
+.PHONY : inheritance\Shape.i
+
+# target to preprocess a source file
+inheritance\Shape.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\inheritance\Shape.cpp.i
+.PHONY : inheritance\Shape.cpp.i
+
+inheritance\Shape.s: inheritance\Shape.cpp.s
+.PHONY : inheritance\Shape.s
+
+# target to generate assembly for a file
+inheritance\Shape.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\inheritance\Shape.cpp.s
+.PHONY : inheritance\Shape.cpp.s
+
+inheritance\X.obj: inheritance\X.cpp.obj
+.PHONY : inheritance\X.obj
+
+# target to build an object file
+inheritance\X.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\inheritance\X.cpp.obj
+.PHONY : inheritance\X.cpp.obj
+
+inheritance\X.i: inheritance\X.cpp.i
+.PHONY : inheritance\X.i
+
+# target to preprocess a source file
+inheritance\X.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\inheritance\X.cpp.i
+.PHONY : inheritance\X.cpp.i
+
+inheritance\X.s: inheritance\X.cpp.s
+.PHONY : inheritance\X.s
+
+# target to generate assembly for a file
+inheritance\X.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\inheritance\X.cpp.s
+.PHONY : inheritance\X.cpp.s
+
+inheritance\Y.obj: inheritance\Y.cpp.obj
+.PHONY : inheritance\Y.obj
+
+# target to build an object file
+inheritance\Y.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\inheritance\Y.cpp.obj
+.PHONY : inheritance\Y.cpp.obj
+
+inheritance\Y.i: inheritance\Y.cpp.i
+.PHONY : inheritance\Y.i
+
+# target to preprocess a source file
+inheritance\Y.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\inheritance\Y.cpp.i
+.PHONY : inheritance\Y.cpp.i
+
+inheritance\Y.s: inheritance\Y.cpp.s
+.PHONY : inheritance\Y.s
+
+# target to generate assembly for a file
+inheritance\Y.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\inheritance\Y.cpp.s
+.PHONY : inheritance\Y.cpp.s
+
 math-expression-parser\Main.obj: math-expression-parser\Main.cpp.obj
 .PHONY : math-expression-parser\Main.obj
 
@@ -838,6 +958,30 @@ stack-data-structure\Stack.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\stack-data-structure\Stack.cpp.s
 .PHONY : stack-data-structure\Stack.cpp.s
 
+templates\Main.obj: templates\Main.cpp.obj
+.PHONY : templates\Main.obj
+
+# target to build an object file
+templates\Main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\templates\Main.cpp.obj
+.PHONY : templates\Main.cpp.obj
+
+templates\Main.i: templates\Main.cpp.i
+.PHONY : templates\Main.i
+
+# target to preprocess a source file
+templates\Main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\templates\Main.cpp.i
+.PHONY : templates\Main.cpp.i
+
+templates\Main.s: templates\Main.cpp.s
+.PHONY : templates\Main.s
+
+# target to generate assembly for a file
+templates\Main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\templates\Main.cpp.s
+.PHONY : templates\Main.cpp.s
+
 uml-inheritance\A.obj: uml-inheritance\A.cpp.obj
 .PHONY : uml-inheritance\A.obj
 
@@ -994,6 +1138,21 @@ help:
 	@echo ... header-definition/Main.obj
 	@echo ... header-definition/Main.i
 	@echo ... header-definition/Main.s
+	@echo ... inheritance/Main.obj
+	@echo ... inheritance/Main.i
+	@echo ... inheritance/Main.s
+	@echo ... inheritance/Rectangle.obj
+	@echo ... inheritance/Rectangle.i
+	@echo ... inheritance/Rectangle.s
+	@echo ... inheritance/Shape.obj
+	@echo ... inheritance/Shape.i
+	@echo ... inheritance/Shape.s
+	@echo ... inheritance/X.obj
+	@echo ... inheritance/X.i
+	@echo ... inheritance/X.s
+	@echo ... inheritance/Y.obj
+	@echo ... inheritance/Y.i
+	@echo ... inheritance/Y.s
 	@echo ... math-expression-parser/Main.obj
 	@echo ... math-expression-parser/Main.i
 	@echo ... math-expression-parser/Main.s
@@ -1057,6 +1216,9 @@ help:
 	@echo ... stack-data-structure/Stack.obj
 	@echo ... stack-data-structure/Stack.i
 	@echo ... stack-data-structure/Stack.s
+	@echo ... templates/Main.obj
+	@echo ... templates/Main.i
+	@echo ... templates/Main.s
 	@echo ... uml-inheritance/A.obj
 	@echo ... uml-inheritance/A.i
 	@echo ... uml-inheritance/A.s

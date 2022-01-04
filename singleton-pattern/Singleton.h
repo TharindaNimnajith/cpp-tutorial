@@ -20,6 +20,7 @@ private:
 public:
 
     static Singleton *getInstance();
+
 };
 
 

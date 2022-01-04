@@ -24,6 +24,7 @@ public:
     ~A();
 
     virtual void run();
+
 };
 
 

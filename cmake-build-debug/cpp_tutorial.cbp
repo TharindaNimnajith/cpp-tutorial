@@ -126,6 +126,33 @@
 		<Unit filename="D:/cpp-tutorial/header-definition/Main.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
+		<Unit filename="D:/cpp-tutorial/inheritance/Main.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="D:/cpp-tutorial/inheritance/Rectangle.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="D:/cpp-tutorial/inheritance/Rectangle.h">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="D:/cpp-tutorial/inheritance/Shape.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="D:/cpp-tutorial/inheritance/Shape.h">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="D:/cpp-tutorial/inheritance/X.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="D:/cpp-tutorial/inheritance/X.h">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="D:/cpp-tutorial/inheritance/Y.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="D:/cpp-tutorial/inheritance/Y.h">
+			<Option target="cpp_tutorial"/>
+		</Unit>
 		<Unit filename="D:/cpp-tutorial/math-expression-parser/Main.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
@@ -199,6 +226,9 @@
 			<Option target="cpp_tutorial"/>
 		</Unit>
 		<Unit filename="D:/cpp-tutorial/stack-data-structure/Stack.h">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="D:/cpp-tutorial/templates/Main.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
 		<Unit filename="D:/cpp-tutorial/uml-inheritance/A.cpp">

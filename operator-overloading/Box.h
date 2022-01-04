@@ -29,6 +29,7 @@ public:
 
     // overload + operator to add two Box objects
     Box operator+(const Box &b) const;
+
 };
 
 

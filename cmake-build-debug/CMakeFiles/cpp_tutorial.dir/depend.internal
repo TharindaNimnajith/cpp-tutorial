@@ -25,6 +25,26 @@ CMakeFiles/cpp_tutorial.dir/getting-started/Main.cpp.obj
 CMakeFiles/cpp_tutorial.dir/header-definition/Main.cpp.obj
  D:/cpp-tutorial/header-definition/Calculator.h
  D:/cpp-tutorial/header-definition/Main.cpp
+CMakeFiles/cpp_tutorial.dir/inheritance/Main.cpp.obj
+ D:/cpp-tutorial/inheritance/Main.cpp
+ D:/cpp-tutorial/inheritance/Rectangle.h
+ D:/cpp-tutorial/inheritance/Shape.h
+ D:/cpp-tutorial/inheritance/X.h
+ D:/cpp-tutorial/inheritance/Y.h
+CMakeFiles/cpp_tutorial.dir/inheritance/Rectangle.cpp.obj
+ D:/cpp-tutorial/inheritance/Rectangle.cpp
+ D:/cpp-tutorial/inheritance/Rectangle.h
+ D:/cpp-tutorial/inheritance/Shape.h
+CMakeFiles/cpp_tutorial.dir/inheritance/Shape.cpp.obj
+ D:/cpp-tutorial/inheritance/Shape.cpp
+ D:/cpp-tutorial/inheritance/Shape.h
+CMakeFiles/cpp_tutorial.dir/inheritance/X.cpp.obj
+ D:/cpp-tutorial/inheritance/X.cpp
+ D:/cpp-tutorial/inheritance/X.h
+CMakeFiles/cpp_tutorial.dir/inheritance/Y.cpp.obj
+ D:/cpp-tutorial/inheritance/X.h
+ D:/cpp-tutorial/inheritance/Y.cpp
+ D:/cpp-tutorial/inheritance/Y.h
 CMakeFiles/cpp_tutorial.dir/math-expression-parser/Main.cpp.obj
  D:/cpp-tutorial/math-expression-parser/Main.cpp
 CMakeFiles/cpp_tutorial.dir/memory-allocation/Main.cpp.obj
@@ -76,6 +96,8 @@ CMakeFiles/cpp_tutorial.dir/stack-data-structure/Main.cpp.obj
 CMakeFiles/cpp_tutorial.dir/stack-data-structure/Stack.cpp.obj
  D:/cpp-tutorial/stack-data-structure/Stack.cpp
  D:/cpp-tutorial/stack-data-structure/Stack.h
+CMakeFiles/cpp_tutorial.dir/templates/Main.cpp.obj
+ D:/cpp-tutorial/templates/Main.cpp
 CMakeFiles/cpp_tutorial.dir/uml-inheritance/A.cpp.obj
  D:/cpp-tutorial/uml-inheritance/A.cpp
  D:/cpp-tutorial/uml-inheritance/A.h

@@ -34,6 +34,7 @@ public:
     bool isFull() const;
 
     ~Stack();
+
 };
 
 

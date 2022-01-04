@@ -34,6 +34,7 @@ public:
     void quickSort(std::vector<int> &toSort, int low, int high);
 
     ~SortingAlgorithms();
+
 };
 
 

@@ -25,6 +25,26 @@ CMakeFiles\cpp_tutorial.dir\getting-started\Main.cpp.obj: ..\getting-started\Mai
 CMakeFiles\cpp_tutorial.dir\header-definition\Main.cpp.obj: ..\header-definition\Calculator.h
 CMakeFiles\cpp_tutorial.dir\header-definition\Main.cpp.obj: ..\header-definition\Main.cpp
 
+CMakeFiles\cpp_tutorial.dir\inheritance\Main.cpp.obj: ..\inheritance\Main.cpp
+CMakeFiles\cpp_tutorial.dir\inheritance\Main.cpp.obj: ..\inheritance\Rectangle.h
+CMakeFiles\cpp_tutorial.dir\inheritance\Main.cpp.obj: ..\inheritance\Shape.h
+CMakeFiles\cpp_tutorial.dir\inheritance\Main.cpp.obj: ..\inheritance\X.h
+CMakeFiles\cpp_tutorial.dir\inheritance\Main.cpp.obj: ..\inheritance\Y.h
+
+CMakeFiles\cpp_tutorial.dir\inheritance\Rectangle.cpp.obj: ..\inheritance\Rectangle.cpp
+CMakeFiles\cpp_tutorial.dir\inheritance\Rectangle.cpp.obj: ..\inheritance\Rectangle.h
+CMakeFiles\cpp_tutorial.dir\inheritance\Rectangle.cpp.obj: ..\inheritance\Shape.h
+
+CMakeFiles\cpp_tutorial.dir\inheritance\Shape.cpp.obj: ..\inheritance\Shape.cpp
+CMakeFiles\cpp_tutorial.dir\inheritance\Shape.cpp.obj: ..\inheritance\Shape.h
+
+CMakeFiles\cpp_tutorial.dir\inheritance\X.cpp.obj: ..\inheritance\X.cpp
+CMakeFiles\cpp_tutorial.dir\inheritance\X.cpp.obj: ..\inheritance\X.h
+
+CMakeFiles\cpp_tutorial.dir\inheritance\Y.cpp.obj: ..\inheritance\X.h
+CMakeFiles\cpp_tutorial.dir\inheritance\Y.cpp.obj: ..\inheritance\Y.cpp
+CMakeFiles\cpp_tutorial.dir\inheritance\Y.cpp.obj: ..\inheritance\Y.h
+
 CMakeFiles\cpp_tutorial.dir\math-expression-parser\Main.cpp.obj: ..\math-expression-parser\Main.cpp
 
 CMakeFiles\cpp_tutorial.dir\memory-allocation\Main.cpp.obj: ..\memory-allocation\Main.cpp
@@ -75,6 +95,8 @@ CMakeFiles\cpp_tutorial.dir\stack-data-structure\Main.cpp.obj: ..\stack-data-str
 
 CMakeFiles\cpp_tutorial.dir\stack-data-structure\Stack.cpp.obj: ..\stack-data-structure\Stack.cpp
 CMakeFiles\cpp_tutorial.dir\stack-data-structure\Stack.cpp.obj: ..\stack-data-structure\Stack.h
+
+CMakeFiles\cpp_tutorial.dir\templates\Main.cpp.obj: ..\templates\Main.cpp
 
 CMakeFiles\cpp_tutorial.dir\uml-inheritance\A.cpp.obj: ..\uml-inheritance\A.cpp
 CMakeFiles\cpp_tutorial.dir\uml-inheritance\A.cpp.obj: ..\uml-inheritance\A.h

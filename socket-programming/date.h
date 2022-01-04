@@ -7352,7 +7352,7 @@ scan_keyword(std::basic_istream<CharT, Traits>& is, FwdIter kb, FwdIter ke)
                 }
                 if (H != not_a_hour) {
                     fds.has_tod = true;
-                    fds.tod = hh_mm_ss < Duration > {hours{H}};
+                    fds.tod = hh_mm_ss<Duration>{hours{H}};
                 }
                 if (M != not_a_minute) {
                     fds.has_tod = true;

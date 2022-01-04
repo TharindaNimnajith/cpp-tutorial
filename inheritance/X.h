@@ -1,35 +1,36 @@
 //
-// Created by ASUS on 11/21/2021.
+// Created by ASUS on 1/4/2022.
 //
 
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Wunknown-pragmas"
 #pragma ide diagnostic ignored "OCUnusedGlobalDeclarationInspection"
 
-#ifndef CPP_TUTORIAL_C_H
-#define CPP_TUTORIAL_C_H
+#ifndef CPP_TUTORIAL_X_H
+#define CPP_TUTORIAL_X_H
 
 
-#include "A.h"
+class X {
 
-class C : public A {
+private:
+
 
 protected:
-
-    int z;
 
 
 public:
 
-    C();
+    X();
 
-    ~C();
+    virtual void bar();
 
-    void run() override;
+    virtual void qux();
+
+    virtual ~X();
 
 };
 
 
-#endif //CPP_TUTORIAL_C_H
+#endif //CPP_TUTORIAL_X_H
 
 #pragma clang diagnostic pop

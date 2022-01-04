@@ -22,6 +22,7 @@ public:
     ~B();
 
     void run() override;
+
 };
 
 
