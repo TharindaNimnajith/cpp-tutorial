@@ -214,6 +214,30 @@ clion-test\Student.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\clion-test\Student.cpp.s
 .PHONY : clion-test\Student.cpp.s
 
+data-structures\Main.obj: data-structures\Main.cpp.obj
+.PHONY : data-structures\Main.obj
+
+# target to build an object file
+data-structures\Main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\data-structures\Main.cpp.obj
+.PHONY : data-structures\Main.cpp.obj
+
+data-structures\Main.i: data-structures\Main.cpp.i
+.PHONY : data-structures\Main.i
+
+# target to preprocess a source file
+data-structures\Main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\data-structures\Main.cpp.i
+.PHONY : data-structures\Main.cpp.i
+
+data-structures\Main.s: data-structures\Main.cpp.s
+.PHONY : data-structures\Main.s
+
+# target to generate assembly for a file
+data-structures\Main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cpp_tutorial.dir\data-structures\Main.cpp.s
+.PHONY : data-structures\Main.cpp.s
+
 dynamic-linking\SortingAlgorithms.obj: dynamic-linking\SortingAlgorithms.cpp.obj
 .PHONY : dynamic-linking\SortingAlgorithms.obj
 
@@ -907,6 +931,9 @@ help:
 	@echo ... clion-test/Student.obj
 	@echo ... clion-test/Student.i
 	@echo ... clion-test/Student.s
+	@echo ... data-structures/Main.obj
+	@echo ... data-structures/Main.i
+	@echo ... data-structures/Main.s
 	@echo ... dynamic-linking/SortingAlgorithms.obj
 	@echo ... dynamic-linking/SortingAlgorithms.i
 	@echo ... dynamic-linking/SortingAlgorithms.s
