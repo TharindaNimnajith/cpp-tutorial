@@ -91,6 +91,12 @@
     <ClCompile Include="D:\cpp-tutorial\parameter-passing\Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="D:\cpp-tutorial\classes\Date.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpp-tutorial\classes\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="D:\cpp-tutorial\clion-test\Student.h">
@@ -124,6 +130,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="D:\cpp-tutorial\header-definition\Calculator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpp-tutorial\classes\Date.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -360,6 +360,11 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClCompile Include="D:\cpp-tutorial\parameter-passing\Main.cpp">
       <ObjectFileName>$(IntDir)/parameter-passing/Main.cpp.obj</ObjectFileName>
     </ClCompile>
+    <ClCompile Include="D:\cpp-tutorial\classes\Date.cpp" />
+    <ClInclude Include="D:\cpp-tutorial\classes\Date.h" />
+    <ClCompile Include="D:\cpp-tutorial\classes\Main.cpp">
+      <ObjectFileName>$(IntDir)/classes/Main.cpp.obj</ObjectFileName>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="D:\cpp-tutorial\build\ZERO_CHECK.vcxproj">
